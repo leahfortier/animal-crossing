@@ -1,0 +1,5643 @@
+{
+    "3D Glasses": [
+        "Black",
+        "White"
+    ],
+    "A Tee": [
+        ""
+    ],
+    "Academy Uniform": [
+        "Gray",
+        "Navy blue",
+        "Red"
+    ],
+    "Acid-washed Jacket": [
+        "Black",
+        "Blue"
+    ],
+    "Acid-washed Jeans": [
+        "Black",
+        "Blue"
+    ],
+    "Acorn Knit Cap": [
+        "Avocado",
+        "Berry red",
+        "Chestnut",
+        "Cream",
+        "Mustard",
+        "Navy blue"
+    ],
+    "Adventure Dress": [
+        ""
+    ],
+    "Aerobics Leggings": [
+        "Emerald & lime",
+        "Light blue & salmon pink",
+        "Purple & orange",
+        "Red & pink",
+        "Yellow & blue"
+    ],
+    "After-school Jacket": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Purple",
+        "White"
+    ],
+    "Alpinist Dress": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Alpinist Overalls": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Analog Kitchen Scale": [
+        "Black",
+        "Blue",
+        "Green",
+        "Ivory",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Ancient Belted Robe": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Purple",
+        "White"
+    ],
+    "Ancient Sashed Robe": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Animal Nose": [
+        ""
+    ],
+    "Animal-print Coat": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple"
+    ],
+    "Animal-stripes Skirt": [
+        "Tiger",
+        "Zebra"
+    ],
+    "Animal-stripes Tee": [
+        "Tiger",
+        "Zebra"
+    ],
+    "Annyeong Tee": [
+        ""
+    ],
+    "Anorak Jacket": [
+        "Blue",
+        "Camel",
+        "Red"
+    ],
+    "Antique Boots": [
+        "Black",
+        "Brown",
+        "Greige"
+    ],
+    "Apron": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Apron Skirt": [
+        "Beige",
+        "Blue",
+        "Purple"
+    ],
+    "Aran-knit Cardigan": [
+        "Beige",
+        "Light blue",
+        "Pink",
+        "Yellow"
+    ],
+    "Argyle Crew Socks": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Argyle Sweater": [
+        "Black",
+        "Gray",
+        "Green",
+        "Mustard",
+        "Pink",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Argyle Vest": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Green",
+        "Pink",
+        "Red"
+    ],
+    "Astro Dress": [
+        "Blue",
+        "Green",
+        "Pink"
+    ],
+    "Athletic Jacket": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Red"
+    ],
+    "Athletic Pants": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Red"
+    ],
+    "Attus Robe": [
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Babouches": [
+        "Blue",
+        "Gray",
+        "Mint",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Baby Romper": [
+        "Baby blue",
+        "Baby gray",
+        "Baby green",
+        "Baby mint",
+        "Baby orange",
+        "Baby pink",
+        "Baby purple",
+        "Baby yellow"
+    ],
+    "Baby's Hat": [
+        "Baby blue",
+        "Baby gray",
+        "Baby green",
+        "Baby mint",
+        "Baby orange",
+        "Baby pink",
+        "Baby purple",
+        "Baby yellow"
+    ],
+    "Baby-chick Costume": [
+        "Beige",
+        "Blue",
+        "Yellow"
+    ],
+    "Baji Jeogori": [
+        "Aqua",
+        "Black",
+        "Blue",
+        "Purple"
+    ],
+    "Ballet Outfit": [
+        "Black",
+        "Blue",
+        "Mint",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Ballet Slippers": [
+        "Black",
+        "Blue",
+        "Mint",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Balloon Hat": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Rainbow"
+    ],
+    "Bandage": [
+        ""
+    ],
+    "Barrette": [
+        ""
+    ],
+    "Baseball Cap": [
+        "Green",
+        "Navy blue",
+        "Orange",
+        "Red",
+        "Yellow"
+    ],
+    "Baseball Shirt": [
+        "Black",
+        "Gray",
+        "Navy blue",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Baseball Uniform": [
+        "Green",
+        "Navy blue",
+        "Orange",
+        "Red",
+        "Yellow"
+    ],
+    "Basketball Shoes": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Basketball Shorts": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Basketball Tank": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Bat Umbrella": [
+        ""
+    ],
+    "Bath-towel Wrap": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Bathrobe": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Batter's Helmet": [
+        "Green",
+        "Navy blue",
+        "Orange",
+        "Red",
+        "Yellow"
+    ],
+    "Beach Umbrella": [
+        ""
+    ],
+    "Beaded Sandals": [
+        "Beige",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Beak": [
+        ""
+    ],
+    "Bear Cap": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Pink"
+    ],
+    "Bear Tee": [
+        ""
+    ],
+    "Bear Umbrella": [
+        ""
+    ],
+    "Bekasab Robe": [
+        "Blue",
+        "Camel",
+        "Purple",
+        "Red"
+    ],
+    "Bell-bottoms": [
+        "Beige",
+        "Blue",
+        "Brown",
+        "Green",
+        "Orange"
+    ],
+    "Beret": [
+        "Berry red",
+        "Blue",
+        "Gray",
+        "Green",
+        "Mustard",
+        "White"
+    ],
+    "Bicycle Helmet": [
+        "Blue",
+        "Green",
+        "Lime",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Biker Jacket": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Brown",
+        "Red",
+        "Yellow"
+    ],
+    "Bingata Dress": [
+        ""
+    ],
+    "Black Chic Umbrella": [
+        ""
+    ],
+    "Black Lace Umbrella": [
+        ""
+    ],
+    "Blossom Dress": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Blossom Tee": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Blossoming Kimono": [
+        "Green tea",
+        "Pink"
+    ],
+    "Blue Dot Parasol": [
+        ""
+    ],
+    "Blue Shiny-bows Parasol": [
+        ""
+    ],
+    "Boa Blouson": [
+        "Beige",
+        "Blue",
+        "Purple",
+        "White"
+    ],
+    "Boa Parka": [
+        "Gray",
+        "Mint",
+        "Pink",
+        "Purple"
+    ],
+    "Boa Shorts": [
+        "Avocado",
+        "Beige",
+        "Black",
+        "Blue",
+        "Orange",
+        "Peacock blue",
+        "Purple",
+        "Red"
+    ],
+    "Bobby Socks": [
+        "Black",
+        "Brown",
+        "Gray",
+        "White"
+    ],
+    "Bohemian Tunic Dress": [
+        "Green",
+        "Navy blue",
+        "Red"
+    ],
+    "Bold Aloha Shirt": [
+        "Navy blue",
+        "Pink"
+    ],
+    "Bolero Coat": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Yellow"
+    ],
+    "Bomber-style Jacket": [
+        "Avocado",
+        "Black",
+        "Blue",
+        "Brown"
+    ],
+    "Bomber-style Skirt": [
+        "Avocado",
+        "Black",
+        "Blue",
+        "Brown"
+    ],
+    "Bone Costume": [
+        ""
+    ],
+    "Bone Tee": [
+        ""
+    ],
+    "Bonjour Tee": [
+        ""
+    ],
+    "Botanical Tee": [
+        "Black",
+        "White"
+    ],
+    "Bottom-rimmed Glasses": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Bowler Hat With Ribbon": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red"
+    ],
+    "Bowling Shirt": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Box-skirt Uniform": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Red"
+    ],
+    "Browline Glasses": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Green"
+    ],
+    "Bubblegum": [
+        "Blue",
+        "Green",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Bulldog Jacket": [
+        "Black",
+        "Red",
+        "White"
+    ],
+    "Bun Wig": [
+        "Blue",
+        "Green",
+        "Mustard",
+        "Orange",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Bunny Dress": [
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Bunny Ears": [
+        "Black",
+        "Light blue",
+        "Pink",
+        "Red"
+    ],
+    "Bunny Hood": [
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Bunny Nose": [
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Business Shoes": [
+        "Black",
+        "Brown"
+    ],
+    "Business Suitcoat": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Gray",
+        "Navy blue"
+    ],
+    "Butterfly Shades": [
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Butterfly Visiting Kimono": [
+        "Black",
+        "Fuchsia",
+        "Indigo blue"
+    ],
+    "Buttoned Lace Skirt": [
+        "Green",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Buttoned Wraparound Skirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Caf\u00e9 Uniform": [
+        "Black",
+        "Brown",
+        "Green",
+        "Red"
+    ],
+    "Camo Bomber-style Jacket": [
+        "Gray",
+        "Green",
+        "Purple"
+    ],
+    "Camo Pants": [
+        "Avocado",
+        "Blue",
+        "Brown",
+        "Gray",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Camo Skirt": [
+        "Avocado",
+        "Blue",
+        "Brown",
+        "Gray",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Camo Tee": [
+        "Avocado",
+        "Blue",
+        "Brown",
+        "Gray",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Camo Umbrella": [
+        ""
+    ],
+    "Candy Umbrella": [
+        ""
+    ],
+    "Captain's Hat": [
+        ""
+    ],
+    "Cardigan-shirt Combo": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Mint",
+        "Pink",
+        "Yellow"
+    ],
+    "Career Jacket": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Peach",
+        "Pink",
+        "Red"
+    ],
+    "Career Skirt": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Peach",
+        "Pink",
+        "Red"
+    ],
+    "Cargo Pants": [
+        "Avocado",
+        "Beige",
+        "Brown",
+        "Mustard",
+        "Navy blue"
+    ],
+    "Cargo Shorts": [
+        "Avocado",
+        "Beige",
+        "Brown",
+        "Camel",
+        "Navy blue"
+    ],
+    "Casual Chic Dress": [
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Casual Kimono": [
+        "Aqua",
+        "Dark blue",
+        "Green",
+        "Mustard"
+    ],
+    "Casual Pants": [
+        "Beige",
+        "Black",
+        "Brown",
+        "Gray",
+        "Green",
+        "Navy blue"
+    ],
+    "Cat Cap": [
+        "Brown",
+        "Navy blue",
+        "White"
+    ],
+    "Cat Dress": [
+        "Brown",
+        "Navy blue",
+        "White"
+    ],
+    "Cat Nose": [
+        "Brown",
+        "Navy blue",
+        "White"
+    ],
+    "Caterpillar Costume": [
+        "Green",
+        "Rainbow",
+        "Yellow"
+    ],
+    "Cavalier Hat": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Cavalier Shirt": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Caveman Tank": [
+        "Gray",
+        "Orange",
+        "Yellow"
+    ],
+    "Chain Pants": [
+        "Black",
+        "Blue",
+        "Red",
+        "White"
+    ],
+    "Checkered Chesterfield Coat": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Green"
+    ],
+    "Checkered Jumper Dress": [
+        "Beige",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Checkered Muffler": [
+        "Brown",
+        "Camel",
+        "Gray",
+        "White"
+    ],
+    "Cheerleading Uniform": [
+        "Berry red",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Chef's Hat": [
+        ""
+    ],
+    "Chef's Outfit": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Orange",
+        "Red",
+        "Yellow"
+    ],
+    "Chic Tuxedo Dress": [
+        "Black",
+        "Light blue",
+        "Pink",
+        "Red"
+    ],
+    "Chick Tee": [
+        ""
+    ],
+    "Chima Jeogori": [
+        "Blue",
+        "Pink",
+        "Red",
+        "Vermilion",
+        "Yellow-green"
+    ],
+    "Chimayo Vest": [
+        "Light blue",
+        "Navy blue",
+        "Red",
+        "White"
+    ],
+    "China Poblana": [
+        ""
+    ],
+    "Chino Pants": [
+        "Avocado",
+        "Beige",
+        "Blue",
+        "Brown",
+        "Gray",
+        "Navy blue",
+        "Red",
+        "Yellow"
+    ],
+    "Chiton": [
+        ""
+    ],
+    "Cleats": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Cloth Shoulder Bag": [
+        "Blue",
+        "Ivory",
+        "Orange"
+    ],
+    "Clover Dress": [
+        "Dark green",
+        "Green"
+    ],
+    "Collarless Coat": [
+        "Beige",
+        "Gray",
+        "Pink"
+    ],
+    "Collarless Shirt": [
+        "Black",
+        "White"
+    ],
+    "College Cardigan": [
+        "Gray",
+        "Navy blue",
+        "Orange",
+        "Red",
+        "White"
+    ],
+    "Color-block Dress Shirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Color-blocked Socks": [
+        "Beige",
+        "Blue",
+        "Brown",
+        "Green",
+        "Lime",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Colorful Skirt": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red"
+    ],
+    "Colorful Striped Sweater": [
+        "Black, coral & pink",
+        "Gray, white & light blue",
+        "Navy, light blue & pink",
+        "Orange, yellow & black",
+        "White, blue & green",
+        "White, yellow & red"
+    ],
+    "Combat Helmet": [
+        "Avocado",
+        "Brown"
+    ],
+    "Comedian's Outfit": [
+        "Aquamarine",
+        "Blue",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Comedian's Pants": [
+        "Aquamarine",
+        "Blue",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Comfy Sandals": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Comic Shorts": [
+        ""
+    ],
+    "Composer's Wig": [
+        ""
+    ],
+    "Compression Tights": [
+        "Blue",
+        "Mint",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Concierge Uniform": [
+        "Brown",
+        "Green",
+        "Light blue",
+        "Red",
+        "White"
+    ],
+    "Corduroy Skirt": [
+        "Black",
+        "Brown",
+        "Camel",
+        "Green",
+        "Light gray",
+        "Pink"
+    ],
+    "Country Socks": [
+        "Black ribbons",
+        "Blue ribbons",
+        "Green ribbons",
+        "Red ribbons"
+    ],
+    "Coverall Coat": [
+        "Avocado",
+        "Beige",
+        "Navy blue",
+        "Red"
+    ],
+    "Coveralls With Arm Covers": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Cowboy Boots": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Ivory",
+        "Pink"
+    ],
+    "Cowboy Shirt": [
+        "Blue",
+        "Brown",
+        "Light blue",
+        "Red",
+        "White"
+    ],
+    "Crocheted Socks": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Purple"
+    ],
+    "Cropped Pants": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Cross-belt Sandals": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Green",
+        "Pink",
+        "Purple"
+    ],
+    "Crossbody Bag": [
+        "Green",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Crossbody Boston Bag": [
+        "Blue",
+        "Red"
+    ],
+    "Crown": [
+        ""
+    ],
+    "Cucumber Pack": [
+        ""
+    ],
+    "Culottes": [
+        "Green",
+        "Light blue",
+        "Pink",
+        "White"
+    ],
+    "Curly Mustache": [
+        ""
+    ],
+    "Cut-pleather Skirt": [
+        "Brown",
+        "Navy blue",
+        "Pink",
+        "White"
+    ],
+    "Cute Sneakers": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Cyber Shades": [
+        "Black",
+        "Green",
+        "Purple",
+        "Red",
+        "Silver",
+        "Yellow"
+    ],
+    "Cyber Suit": [
+        "Blue",
+        "Pink",
+        "Yellow"
+    ],
+    "Cycling Cap": [
+        "Black & blue",
+        "Black & red",
+        "Blue",
+        "Blue & purple",
+        "Lime & purple",
+        "Red",
+        "Red & green",
+        "Yellow & avocado"
+    ],
+    "Cycling Shirt": [
+        "Black & blue",
+        "Black & red",
+        "Blue & white",
+        "Lime & light blue",
+        "Purple & pink",
+        "Red & green",
+        "Red & orange",
+        "Yellow & black"
+    ],
+    "Cycling Shorts": [
+        "Black & blue",
+        "Black & red",
+        "Black & yellow",
+        "Blue & red",
+        "Green & purple",
+        "Orange & red",
+        "Purple & pink",
+        "Red & green"
+    ],
+    "Dance Warm-up Pants": [
+        "Black",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Dance-team Jacket": [
+        "Black",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Dandy Hat": [
+        "Blue",
+        "Camel",
+        "Gray",
+        "Green",
+        "Purple",
+        "White"
+    ],
+    "Dazed Dress": [
+        "Blue",
+        "Green",
+        "Pink"
+    ],
+    "Denim Cap": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "White"
+    ],
+    "Denim Cutoffs": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Navy blue",
+        "White"
+    ],
+    "Denim Jacket": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Navy blue",
+        "White"
+    ],
+    "Denim Leggings": [
+        "Blue",
+        "Indigo blue",
+        "Light blue",
+        "Saxon blue"
+    ],
+    "Denim Overalls": [
+        "Avocado",
+        "Beige",
+        "Black",
+        "Blue",
+        "Brown",
+        "Orange",
+        "Red",
+        "White"
+    ],
+    "Denim Painter's Pants": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Navy blue",
+        "White"
+    ],
+    "Denim Pants": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Navy blue",
+        "White"
+    ],
+    "Denim Skirt": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Navy blue",
+        "White"
+    ],
+    "Denim Vest": [
+        "Black",
+        "Blue",
+        "Navy blue",
+        "Washed out",
+        "White"
+    ],
+    "Desert Outfit": [
+        "Blue",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Desert-princess Outfit": [
+        "Blue",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Detective Hat": [
+        "Beige",
+        "Brown",
+        "Gray"
+    ],
+    "Detective's Coat": [
+        "Beige",
+        "Brown",
+        "Gray"
+    ],
+    "Diner Apron": [
+        "Aquamarine",
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Diner Uniform": [
+        "Aquamarine",
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Do-rag": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Doctor's Coat": [
+        "Black necktie",
+        "Red necktie"
+    ],
+    "Doctor's Mask": [
+        ""
+    ],
+    "Dog Nose": [
+        "Beige",
+        "Black",
+        "White"
+    ],
+    "Dollhouse Dress": [
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Sky blue",
+        "Yellow"
+    ],
+    "Dolly Shirt": [
+        "Blue",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Dotted Knee-high Socks": [
+        "Black",
+        "Cyan",
+        "Gray",
+        "Yellow"
+    ],
+    "Dotted Raincoat": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Turquoise"
+    ],
+    "Dotted Shorts": [
+        "Black",
+        "Gray"
+    ],
+    "Double-bridge Glasses": [
+        "Blue",
+        "Gold",
+        "Purple",
+        "Silver"
+    ],
+    "Doublet": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Down Jacket": [
+        "Black",
+        "Blue",
+        "Green",
+        "Lime",
+        "Orange",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Dragon Suit": [
+        ""
+    ],
+    "Dreamy Dress": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Yellow"
+    ],
+    "Dreamy Pants": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Yellow"
+    ],
+    "Dress Pants": [
+        "Beige",
+        "Berry red",
+        "Green",
+        "Navy blue"
+    ],
+    "Dress Shirt": [
+        "Blue",
+        "Gray",
+        "Mint",
+        "Pink",
+        "White"
+    ],
+    "Drinking-straw Glasses": [
+        "Blue",
+        "Green",
+        "Pink",
+        "White"
+    ],
+    "Dry Bag": [
+        "Blue",
+        "Yellow"
+    ],
+    "Earbuds Combo": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Yellow"
+    ],
+    "Egg-sushi Costume": [
+        ""
+    ],
+    "Eggshell": [
+        ""
+    ],
+    "Eggy Parasol": [
+        ""
+    ],
+    "Eight-ball Tee": [
+        ""
+    ],
+    "Elegant Dress": [
+        "Berry red",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple"
+    ],
+    "Elegant Hat": [
+        "Black",
+        "Green",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Emblem Blazer": [
+        "Beige",
+        "Berry red",
+        "Green",
+        "Navy blue"
+    ],
+    "Embroidered Floral Skirt": [
+        "Berry red",
+        "Blue",
+        "Green"
+    ],
+    "Embroidered Shoes": [
+        "Black",
+        "Blue",
+        "Red",
+        "White"
+    ],
+    "Embroidered Tank": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Embroidered-flower Tights": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Purple"
+    ],
+    "Embroidered-pattern Skirt": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Energetic Sweater": [
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Evening Bag": [
+        "Black",
+        "Blue",
+        "Pink"
+    ],
+    "Everyday Socks": [
+        "Beige",
+        "Black",
+        "Brown",
+        "Gray",
+        "Navy blue",
+        "White"
+    ],
+    "Everyday Tights": [
+        "Beige",
+        "Black",
+        "Gray",
+        "Light gray",
+        "Navy blue",
+        "White"
+    ],
+    "Explorer Shirt": [
+        "Avocado",
+        "Beige",
+        "Blue",
+        "Camel"
+    ],
+    "Explorer Shorts": [
+        "Avocado",
+        "Beige",
+        "Blue",
+        "Camel"
+    ],
+    "Explorer's Hat": [
+        "Avocado",
+        "Beige",
+        "Blue",
+        "Camel"
+    ],
+    "Exquisite Parasol": [
+        ""
+    ],
+    "Extra-large Backpack": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Eye Mask": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red"
+    ],
+    "Eye Patch": [
+        ""
+    ],
+    "Facial Mask": [
+        ""
+    ],
+    "Fairy Dress": [
+        "Green",
+        "Mint",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Fairy-tale Dress": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Light green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Fairy-tale Hood": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Light green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Fairy-tale Umbrella": [
+        ""
+    ],
+    "Fake Nose": [
+        ""
+    ],
+    "Fancy Party Dress": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Pink"
+    ],
+    "Farmer Overalls": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Fashionable Royal Dress": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Faux-fur Ankle Booties": [
+        "Beige",
+        "Navy blue",
+        "Olive",
+        "Ruby red"
+    ],
+    "Faux-fur Bag": [
+        "Pink",
+        "Purple"
+    ],
+    "Faux-suede Sneakers": [
+        "Beige",
+        "Berry red",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Fedora": [
+        "Beige",
+        "Black",
+        "Gray",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Figure-skating Costume": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Firefighter Uniform": [
+        "Avocado",
+        "Black",
+        "Brown",
+        "Flame orange",
+        "Lime yellow"
+    ],
+    "Firefighter's Hat": [
+        "Avocado",
+        "Black",
+        "Brown",
+        "Flame orange",
+        "Lime yellow"
+    ],
+    "Fischerhemd": [
+        ""
+    ],
+    "Fishing Vest": [
+        "Avocado",
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Fishing Waders": [
+        "Avocado",
+        "Gray",
+        "Navy blue",
+        "Orange"
+    ],
+    "Fishnet Tights": [
+        "Black",
+        "Red",
+        "White"
+    ],
+    "Fitness Tank": [
+        "Black",
+        "Light blue",
+        "Mint",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Five-ball Tee": [
+        ""
+    ],
+    "Flame Tee": [
+        ""
+    ],
+    "Flannel Shirt": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Flapper Dress": [
+        "Black",
+        "Gold",
+        "Green",
+        "Pink",
+        "Silver"
+    ],
+    "Flare Skirt": [
+        "Black",
+        "Light blue",
+        "Mint",
+        "Pink",
+        "Red"
+    ],
+    "Flashy Animal Boots": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Flashy Animal Costume": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Flashy Cardigan": [
+        "Blue",
+        "Red"
+    ],
+    "Flashy Hairpin": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Flashy Jacket": [
+        "Aquamarine",
+        "Berry red",
+        "Black",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Flashy Kimono": [
+        "Blue",
+        "Fuchsia",
+        "Gold",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Flashy Pointy-ear Animal Hat": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Flashy Round-ear Animal Hat": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Fleece Pj's": [
+        "Beige",
+        "Pink"
+    ],
+    "Flight Jacket": [
+        "Avocado",
+        "Black",
+        "Brown"
+    ],
+    "Flight-crew Uniform": [
+        "Black",
+        "Gray",
+        "Light blue",
+        "Navy blue",
+        "Red"
+    ],
+    "Flip-flops": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Floral Hairpin": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Floral Lace Dress": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Ruby red"
+    ],
+    "Flower Sandals": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Flower Sunglasses": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red"
+    ],
+    "Flowery-dot Tights": [
+        "Black",
+        "Blue",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Foldover-top Backpack": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink"
+    ],
+    "Folk Shirt": [
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Folk-dance Outfit": [
+        ""
+    ],
+    "Football Helmet": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Turquoise",
+        "White",
+        "Yellow"
+    ],
+    "Football Pants": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Turquoise",
+        "White",
+        "Yellow"
+    ],
+    "Football Shirt": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Turquoise",
+        "White",
+        "Yellow"
+    ],
+    "Forest-print Dress": [
+        "Brown",
+        "Green",
+        "Pale blue",
+        "Pink",
+        "Purple"
+    ],
+    "Formal Shorts": [
+        "Beige",
+        "Light blue",
+        "Lime",
+        "Navy blue",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Fox Mask": [
+        "Black",
+        "White"
+    ],
+    "Frilly Pants": [
+        "Blue",
+        "Mint",
+        "Orange",
+        "Pink",
+        "Yellow"
+    ],
+    "Frilly Skirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Frilly Socks": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Frilly Sweatpants": [
+        "Blue",
+        "Gray",
+        "Mint",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Fringe Skirt": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Camel",
+        "Green",
+        "White",
+        "Yellow"
+    ],
+    "Frog Cap": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Frog Costume": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Frog Umbrella": [
+        ""
+    ],
+    "Front-tie Button-down Shirt": [
+        "Blue",
+        "Gray",
+        "Pink",
+        "Yellow"
+    ],
+    "Front-tie Tee": [
+        "Black",
+        "Lime",
+        "Red",
+        "White"
+    ],
+    "Frugal Dress": [
+        "Blue-gray",
+        "Brown",
+        "Green"
+    ],
+    "Frugal Hat": [
+        "Blue-gray",
+        "Brown",
+        "Green"
+    ],
+    "Full-body Tights": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Green",
+        "Pink",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Full-length Dress With Pearls": [
+        "Beige",
+        "Berry red",
+        "Black",
+        "Green"
+    ],
+    "Funny Glasses": [
+        "Blue",
+        "Brown",
+        "Pink"
+    ],
+    "Funny-face Socks": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red"
+    ],
+    "Fuzzy Vest": [
+        "Beige",
+        "Brown",
+        "Green",
+        "Navy blue",
+        "Red"
+    ],
+    "Garden Tank": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink"
+    ],
+    "Garter Socks": [
+        "Black",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Gas Mask": [
+        "Avocado",
+        "Black"
+    ],
+    "Gaucho Pants": [
+        "Avocado",
+        "Blue",
+        "Brown",
+        "Gray",
+        "Pink"
+    ],
+    "Geometric-print Socks": [
+        "Beige",
+        "Green",
+        "Peacock blue",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Ghillie Brogues": [
+        "Black",
+        "Brown",
+        "White"
+    ],
+    "Ghost Umbrella": [
+        ""
+    ],
+    "Giant Ribbon": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Gilet And Shirt": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Red"
+    ],
+    "Gingham Picnic Shirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Gingham Picnic Skirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Gizzard-shad-sushi Costume": [
+        ""
+    ],
+    "Glass-bottle Glasses": [
+        ""
+    ],
+    "Glengarry": [
+        ""
+    ],
+    "Goatee": [
+        ""
+    ],
+    "Gobelin Shorts": [
+        "Beige",
+        "Black"
+    ],
+    "Goggles": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Gold-print Tee": [
+        "Black",
+        "White"
+    ],
+    "Gothic Headdress": [
+        "Black",
+        "Blue",
+        "Light purple",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Graduation Gown": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Grape Dress": [
+        ""
+    ],
+    "Grape Hat": [
+        ""
+    ],
+    "Grape Umbrella": [
+        ""
+    ],
+    "Green Chic Umbrella": [
+        ""
+    ],
+    "Green Umbrella": [
+        ""
+    ],
+    "Groovy Shirt": [
+        "Green",
+        "Orange",
+        "Red"
+    ],
+    "Groovy Tunic": [
+        "Brown",
+        "Camel",
+        "Orange"
+    ],
+    "Guayabera Shirt": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Red"
+    ],
+    "Guide Shirt": [
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Gumdrop Dress": [
+        "Cool",
+        "Pop"
+    ],
+    "Gumdrop Shoulder Bag": [
+        "Cool",
+        "Pop"
+    ],
+    "Gym Tee": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Hakama": [
+        "Dark blue",
+        "Green",
+        "Plum"
+    ],
+    "Hakama With Crest": [
+        ""
+    ],
+    "Halo": [
+        ""
+    ],
+    "Hand-knit Pouch": [
+        "Green",
+        "Purple"
+    ],
+    "Hand-knit Socks": [
+        "Green",
+        "Orange",
+        "Purple"
+    ],
+    "Hand-knit Tank": [
+        "Black",
+        "Blue",
+        "Camel",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Handlebar Mustache": [
+        ""
+    ],
+    "Happi Tee": [
+        "Black",
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Hard-shell Backpack": [
+        "Blue",
+        "Red",
+        "Silver"
+    ],
+    "Headband": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple"
+    ],
+    "Heart Apron": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Heart Hairpin": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red"
+    ],
+    "Heart Shades": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Heavy-duty Shirt": [
+        "Blue",
+        "Green",
+        "Ochre",
+        "Red"
+    ],
+    "Helmet With Goggles": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Henley Shirt": [
+        "Green",
+        "Light blue",
+        "Mustard",
+        "Purple"
+    ],
+    "Hi-tech Sneakers": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink"
+    ],
+    "Hibiscus Hairpin": [
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Hibiscus Muumuu": [
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Hickory-stripe Pants": [
+        "Blue",
+        "Light blue"
+    ],
+    "High-tops": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Green",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Hip-wrap Shirt": [
+        "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "Hmd": [
+        ""
+    ],
+    "Hockey Mask": [
+        ""
+    ],
+    "Holey Tights": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Holiday Sweater": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Horizontal-striped Tights": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Horizontal-striped Wet Suit": [
+        "Black",
+        "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "Hot-dog Costume": [
+        ""
+    ],
+    "Hot-dog Hood": [
+        ""
+    ],
+    "House Slippers": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Navy blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "House-print Dress": [
+        "White",
+        "Yellow"
+    ],
+    "Hula Top": [
+        "Beige",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red"
+    ],
+    "Humble Sweater": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Purple"
+    ],
+    "Hydrangea Umbrella": [
+        ""
+    ],
+    "Ice-hockey Uniform": [
+        "Berry red",
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Orange",
+        "White & blue",
+        "White & red"
+    ],
+    "Imitation Cow Skull": [
+        ""
+    ],
+    "Imp Hood": [
+        "Black",
+        "Red"
+    ],
+    "Impish Costume": [
+        "Black",
+        "Red"
+    ],
+    "Impish Horns": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Impish Wings": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Instant-muscles Suit": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Lime",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Jester Costume": [
+        "Black & white",
+        "Green & red",
+        "Purple & yellow",
+        "Red & blue"
+    ],
+    "Jester's Cap": [
+        "Black & white",
+        "Green & red",
+        "Purple & yellow",
+        "Red & blue"
+    ],
+    "Jester's Mask": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Jester's Shoes": [
+        "Black",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Jinbei": [
+        "Dark blue",
+        "Fuchsia",
+        "Gray"
+    ],
+    "Jockey Uniform": [
+        "Checkered",
+        "Diamonds",
+        "Double sash",
+        "Ring",
+        "Sash",
+        "Stars",
+        "Vertical stripes",
+        "Zigzag"
+    ],
+    "Jockey's Helmet": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Jogging Shorts": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Lime",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Judogi": [
+        "Blue",
+        "White"
+    ],
+    "Jumper Work Suit": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Junihitoe Kimono": [
+        ""
+    ],
+    "Kabuki Umbrella": [
+        ""
+    ],
+    "Kabuki-actor Yukata": [
+        "Dark blue",
+        "Fuchsia",
+        "Gray"
+    ],
+    "Kandoora": [
+        "Brown",
+        "Gray",
+        "White"
+    ],
+    "Kanji Tee": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink"
+    ],
+    "Kappa Cap": [
+        "Green",
+        "Pink"
+    ],
+    "Kappa Costume": [
+        "Green",
+        "Pink"
+    ],
+    "Kiddie Socks": [
+        "Black & gray",
+        "Blue & orange",
+        "Light blue & red",
+        "Lime & pink",
+        "Pink & yellow",
+        "Purple & green",
+        "Red & light blue",
+        "Yellow & purple"
+    ],
+    "Kids' Smock": [
+        "Cherry blossom",
+        "Chick",
+        "Frog",
+        "Tulip"
+    ],
+    "Kimono Sandals": [
+        "Black",
+        "Dark blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Kiwi Dress": [
+        ""
+    ],
+    "Kiwi Hat": [
+        ""
+    ],
+    "Kiwi Umbrella": [
+        ""
+    ],
+    "Knapsack": [
+        "Black",
+        "Blue"
+    ],
+    "Knit Cap With Earflaps": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Moss green",
+        "Pink",
+        "Ruby red"
+    ],
+    "Knit Hat": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Ochre",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Konnichiwa Tee": [
+        ""
+    ],
+    "Kung-fu Tee": [
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "White",
+        "Yellow"
+    ],
+    "Kurta": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green"
+    ],
+    "Labelle Cap": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Coat": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Dress": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Hat": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Knit Shirt": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Pumps": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Shorts": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Skirt": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Sneakers": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Socks": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Sunglasses": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Labelle Tights": [
+        "Love",
+        "Midnight",
+        "Ocean",
+        "Passion",
+        "Sunset",
+        "Twilight"
+    ],
+    "Lace Socks": [
+        "Beige",
+        "Black",
+        "Green",
+        "Pink",
+        "White"
+    ],
+    "Lace-up Boots": [
+        "Black",
+        "Brown",
+        "Red",
+        "White"
+    ],
+    "Lace-up Dress": [
+        "Blue",
+        "Pink",
+        "Purple"
+    ],
+    "Lacy Dress": [
+        "Blue",
+        "Pink",
+        "Yellow"
+    ],
+    "Lacy Parasol": [
+        ""
+    ],
+    "Lacy Shirt": [
+        "Beige",
+        "Black"
+    ],
+    "Lacy Tank": [
+        "Green",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Ladder Shades": [
+        "Blue",
+        "Gold",
+        "Green",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Layered Shirt": [
+        "Green",
+        "Navy blue",
+        "Orange",
+        "White"
+    ],
+    "Layered Sleeveless Dress": [
+        "Moss green",
+        "Orange",
+        "Pink"
+    ],
+    "Layered Tank": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Layered Tank Dress": [
+        "Beige",
+        "Berry red",
+        "Blue",
+        "Brown"
+    ],
+    "Leaf-print Wet Suit": [
+        "Green",
+        "Light Blue",
+        "Purple",
+        "Yellow"
+    ],
+    "Leg Warmers": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Light purple",
+        "Pink",
+        "Purple"
+    ],
+    "Leopard Miniskirt": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Lime",
+        "Pink",
+        "Purple"
+    ],
+    "Leopard Pumps": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Purple"
+    ],
+    "Leopard Tee": [
+        "Gray",
+        "Green",
+        "Pink",
+        "Yellow"
+    ],
+    "Letter Jacket": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Lettered Cap": [
+        "Beige",
+        "Olive",
+        "Red"
+    ],
+    "Linen Dress": [
+        "Black",
+        "Blue",
+        "Mustard",
+        "Red",
+        "White"
+    ],
+    "Loafers": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Logo Umbrella": [
+        ""
+    ],
+    "Long Chenille Cardigan": [
+        "Blue",
+        "Green",
+        "Mustard",
+        "Pink"
+    ],
+    "Long Denim Cardigan": [
+        "Gray",
+        "Pink",
+        "Yellow"
+    ],
+    "Long Denim Skirt": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Navy blue",
+        "White"
+    ],
+    "Long Down Coat": [
+        "Beige",
+        "Black",
+        "Green",
+        "Purple",
+        "White"
+    ],
+    "Long Pleated Skirt": [
+        "Cyan",
+        "Gray",
+        "Ruby red",
+        "White",
+        "Yellow"
+    ],
+    "Long Pleather Coat": [
+        "Black",
+        "Brown",
+        "Purple"
+    ],
+    "Loose Fall Dress": [
+        "Blue",
+        "Orange",
+        "Peacock blue",
+        "Red"
+    ],
+    "Madras Plaid Shirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Mage's Booties": [
+        "Black",
+        "Blue",
+        "Red",
+        "White"
+    ],
+    "Mage's Boots": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Mage's Dress": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Mage's Hat": [
+        "Black",
+        "Blue",
+        "Red",
+        "White"
+    ],
+    "Mage's Robe": [
+        "Black",
+        "Blue",
+        "Red",
+        "White"
+    ],
+    "Mage's Striped Hat": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Magic-academy Hood": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Magic-academy Robe": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Magical Dress": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Maid Dress": [
+        "Black",
+        "Brown",
+        "Green",
+        "Mint",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Marble-dots Tee": [
+        "Black",
+        "White"
+    ],
+    "Marble-print Dress": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Mariachi Clothing": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Orange",
+        "Red"
+    ],
+    "Mary Janes": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Masquerade Mask": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Matanpushi": [
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Matronly Bun": [
+        ""
+    ],
+    "Maxi Shirtdress": [
+        "Green",
+        "Light blue",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Meme Shirt": [
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Mesh Cap": [
+        "Black",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Messenger Bag": [
+        "Black",
+        "Green",
+        "Orange"
+    ],
+    "Miko Attire": [
+        "Aqua",
+        "Vermilion"
+    ],
+    "Military Uniform": [
+        "Blue",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Milkmaid Dress": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Mini-flower-print Umbrella": [
+        ""
+    ],
+    "Mint Umbrella": [
+        ""
+    ],
+    "Mixed-tweed Socks": [
+        "Avocado",
+        "Blue",
+        "Light blue",
+        "Lime",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Moccasins": [
+        "Black",
+        "Camel",
+        "Gray",
+        "Light blue",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Mohawk Wig": [
+        ""
+    ],
+    "Monocle": [
+        "Black",
+        "Gold",
+        "Silver"
+    ],
+    "Morning Coat": [
+        ""
+    ],
+    "Morning-glory Yukata": [
+        "Aqua",
+        "Dark blue",
+        "Pale green",
+        "White"
+    ],
+    "Mountain Parka": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Multicolor Shorts": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Multipurpose Vest": [
+        "Avocado",
+        "Beige",
+        "Gray"
+    ],
+    "Mummy Mask": [
+        ""
+    ],
+    "Mummy Outfit": [
+        ""
+    ],
+    "Muscle Tank": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Music-fest Shirt": [
+        "Black",
+        "Light blue",
+        "Purple",
+        "Red"
+    ],
+    "Mvp Tee": [
+        ""
+    ],
+    "Mysterious Dress": [
+        "Black",
+        "Purple",
+        "Red"
+    ],
+    "Neon Leggings": [
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Neon Tights": [
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Night-vision Goggles": [
+        ""
+    ],
+    "Nightgown": [
+        "Beige",
+        "Blue",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Ninja Costume": [
+        "Aqua",
+        "Dark blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Ninja Hood": [
+        "Aqua",
+        "Dark blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "No-show Socks": [
+        "Berry red",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "White",
+        "Yellow"
+    ],
+    "No. 2 Shirt": [
+        ""
+    ],
+    "No. 3 Shirt": [
+        ""
+    ],
+    "No. 4 Shirt": [
+        ""
+    ],
+    "Noble Coat": [
+        "Black",
+        "Blue",
+        "Green",
+        "Purple",
+        "Red",
+        "Ruby red",
+        "White",
+        "Yellow"
+    ],
+    "Noble Dress": [
+        "Black",
+        "Blue",
+        "Green",
+        "Purple",
+        "Red",
+        "Ruby red",
+        "White",
+        "Yellow"
+    ],
+    "Noble Zap Suit": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Noh Mask": [
+        ""
+    ],
+    "Nordic Socks": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Ivory",
+        "Light blue",
+        "Navy blue",
+        "Red"
+    ],
+    "Nose Drip": [
+        ""
+    ],
+    "Nurse's Cap": [
+        "Blue",
+        "Pink",
+        "White"
+    ],
+    "Nurse's Dress Uniform": [
+        "Blue",
+        "Pink",
+        "White"
+    ],
+    "Nurse's Jacket": [
+        "Blue",
+        "Pink",
+        "White"
+    ],
+    "Nylon Jacket": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Octagonal Glasses": [
+        "Black",
+        "Gold",
+        "Gray",
+        "Green",
+        "Purple"
+    ],
+    "Office Uniform": [
+        "Blue",
+        "Gray",
+        "Pink"
+    ],
+    "Oilskin Coat": [
+        "Gray",
+        "Red",
+        "Yellow"
+    ],
+    "Old Commoner's Kimono": [
+        "Blue",
+        "Golden yellow",
+        "Green",
+        "Red"
+    ],
+    "Old-school Jacket": [
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Open-collar Shirt": [
+        "Beige",
+        "Blue",
+        "Coral",
+        "Green"
+    ],
+    "Outback Hat": [
+        "Beige",
+        "Brown",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Outdoor Backpack": [
+        "Avocado",
+        "Navy blue",
+        "Orange"
+    ],
+    "Outdoor Hat": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Outdoor Sandals": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Outdoor Shorts": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Purple",
+        "Red",
+        "Yellow",
+        "Yellow-green"
+    ],
+    "Oval Glasses": [
+        "Black",
+        "Blue",
+        "Green",
+        "Magenta",
+        "Mustard",
+        "Orange",
+        "Purple"
+    ],
+    "Overall Dress": [
+        "Beige",
+        "Denim",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Oversized Print Dress": [
+        "Beige",
+        "Blue",
+        "Brown",
+        "Green",
+        "Orange",
+        "Pink"
+    ],
+    "Oversized Shawl Overshirt": [
+        "Brown",
+        "Gray",
+        "Pink"
+    ],
+    "Oversized-sweats Dress": [
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Pacifier": [
+        "Baby blue",
+        "Baby gray",
+        "Baby green",
+        "Baby mint",
+        "Baby orange",
+        "Baby pink",
+        "Baby purple",
+        "Baby yellow"
+    ],
+    "Paintball Mask": [
+        "Black",
+        "Olive",
+        "White",
+        "Yellow"
+    ],
+    "Painter's Coverall": [
+        "Beige",
+        "Green",
+        "White"
+    ],
+    "Paisley Bandanna": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Pajama Dress": [
+        "Berry red",
+        "Brown",
+        "Gray",
+        "Green",
+        "Navy blue"
+    ],
+    "Palatial Tank Dress": [
+        ""
+    ],
+    "Panda Umbrella": [
+        ""
+    ],
+    "Paper Bag": [
+        ""
+    ],
+    "Paperboy Cap": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Green",
+        "Red"
+    ],
+    "Parka And Shirtdress": [
+        "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "Parka Dress": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Yellow"
+    ],
+    "Parka Undercoat": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Navy blue",
+        "Yellow"
+    ],
+    "Patchwork Skirt": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Patchwork Tulip Hat": [
+        "Blue",
+        "Pink",
+        "Yellow"
+    ],
+    "Patterned Stockings": [
+        "Black",
+        "White"
+    ],
+    "Patterned Vinyl Umbrella": [
+        ""
+    ],
+    "Paw Slippers": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Pink",
+        "White"
+    ],
+    "Pearl Skirt": [
+        ""
+    ],
+    "Peasant Blouse": [
+        "Beige",
+        "Black",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Petal Parasol": [
+        ""
+    ],
+    "Pharaoh's Outfit": [
+        ""
+    ],
+    "Picnic Umbrella": [
+        ""
+    ],
+    "Pig Nose": [
+        ""
+    ],
+    "Pilot Shades": [
+        "Black",
+        "Gold"
+    ],
+    "Pilot's Cap": [
+        "Avocado",
+        "Black",
+        "Brown"
+    ],
+    "Pilot's Hat": [
+        "Black",
+        "Light blue",
+        "Navy blue"
+    ],
+    "Pilot's Uniform": [
+        "Black",
+        "Light blue",
+        "Navy blue"
+    ],
+    "Pinafore": [
+        "Dark blue",
+        "Muslin",
+        "Pink"
+    ],
+    "Pineapple Aloha Shirt": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Pineapple Dress": [
+        ""
+    ],
+    "Pineapple Umbrella": [
+        ""
+    ],
+    "Pink Shiny-bows Parasol": [
+        ""
+    ],
+    "Pintuck-pleated Dress": [
+        "Brown",
+        "Green",
+        "Light blue",
+        "Lime",
+        "Pink",
+        "Purple"
+    ],
+    "Pixel Shades": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Pj Outfit": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Navy blue",
+        "Red"
+    ],
+    "Plaid Puffed-sleeve Shirt": [
+        "Dreamy plaid",
+        "Energetic plaid",
+        "Fancy plaid",
+        "Sweet plaid"
+    ],
+    "Plaid Shorts": [
+        "Brown",
+        "Light blue",
+        "Light green",
+        "Red"
+    ],
+    "Plaid-print Dress": [
+        "Dreamy plaid",
+        "Energetic plaid",
+        "Fancy plaid",
+        "Sweet plaid"
+    ],
+    "Plain Cap": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Red"
+    ],
+    "Pleather Ankle Booties": [
+        "Black",
+        "Brown",
+        "Green",
+        "Mustard"
+    ],
+    "Pleather Crossbody Bag": [
+        "Black",
+        "Navy blue"
+    ],
+    "Pleather Flare Skirt": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "White"
+    ],
+    "Pleather Fringe Bag": [
+        "Camel",
+        "White"
+    ],
+    "Pleather Mask": [
+        ""
+    ],
+    "Pleather Pants": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Brown",
+        "Red",
+        "Yellow"
+    ],
+    "Pleather Patch Skirt": [
+        "Green",
+        "Orange",
+        "Purple",
+        "Red"
+    ],
+    "Pleather Shorts": [
+        "Black",
+        "Brown",
+        "Red",
+        "White"
+    ],
+    "Pleather Sneakers": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Plover Dress": [
+        "Brown",
+        "Gray",
+        "Green"
+    ],
+    "Pocket Tee": [
+        "Black",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Police Cap": [
+        ""
+    ],
+    "Polka-dot Mini Skirt": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Pink"
+    ],
+    "Polo Shirt": [
+        "Black",
+        "Green",
+        "Ivory",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Pom Casquette": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Pom-pom Sweater": [
+        "Blue",
+        "Pink",
+        "White"
+    ],
+    "Pompadour Wig": [
+        ""
+    ],
+    "Poncho-style Sweater": [
+        "Blue",
+        "Gray",
+        "Orange",
+        "Peacock blue",
+        "Purple"
+    ],
+    "Post-op Patch": [
+        ""
+    ],
+    "Power Suit": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Prim Outfit": [
+        "Blue",
+        "Gray",
+        "Pink"
+    ],
+    "Prince's Tunic": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Princess Dress": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Mint",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Printed Fleece Sweater": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Moss green",
+        "Purple"
+    ],
+    "Printed Layered Shirt": [
+        "Black",
+        "White",
+        "Yellow"
+    ],
+    "Printed-sleeve Sweater": [
+        "Black",
+        "Orange",
+        "White"
+    ],
+    "Privacy Mask": [
+        ""
+    ],
+    "Puckered Socks": [
+        "Blue",
+        "Green",
+        "Mustard",
+        "Purple",
+        "Red"
+    ],
+    "Puffy-sleeve Blouse": [
+        "Light blue",
+        "Lime",
+        "Pink",
+        "Yellow"
+    ],
+    "Pullover Jacket": [
+        "Coral",
+        "Light blue",
+        "Navy blue",
+        "Purple",
+        "Red"
+    ],
+    "Punk Pants": [
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Purple Chic Umbrella": [
+        ""
+    ],
+    "Quilted Jacket": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Lime",
+        "Pink"
+    ],
+    "Rabbit Tee": [
+        ""
+    ],
+    "Racing Helmet": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Racing Outfit": [
+        "Black",
+        "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "Raggedy Outfit": [
+        "Black",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Raglan Shirt": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Rain Boots": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Rain Hat": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Rain Pants": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Rainbow Sweater": [
+        "Black",
+        "Green",
+        "Light blue",
+        "Red",
+        "White"
+    ],
+    "Rainbow Umbrella": [
+        ""
+    ],
+    "Raincoat": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Red Chic Umbrella": [
+        ""
+    ],
+    "Red Umbrella": [
+        ""
+    ],
+    "Reflector": [
+        ""
+    ],
+    "Relay Tank": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Renaissance Dress": [
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Restroom Slippers": [
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Pink",
+        "Red"
+    ],
+    "Retro A-line Dress": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Pink",
+        "Yellow"
+    ],
+    "Retro Dress": [
+        "Black",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Yellow"
+    ],
+    "Retro Shades": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Retro Sleeveless Dress": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Retro Sports Bag": [
+        "Black",
+        "Blue",
+        "Red"
+    ],
+    "Retro Sweater": [
+        "Blue",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Rhinestone Shades": [
+        "Ochre",
+        "Purple",
+        "Red"
+    ],
+    "Ribbon": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Ribbon Sandals": [
+        "Beige",
+        "Berry red",
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Ribbon-straps Tank": [
+        "Black",
+        "Blue",
+        "Pink"
+    ],
+    "Ribboned Garden Hat": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Pink"
+    ],
+    "Ribboned Straw Hat": [
+        "Black",
+        "Light blue",
+        "Pink"
+    ],
+    "Rimmed Glasses": [
+        "Black",
+        "Brown",
+        "Gold",
+        "Gray",
+        "Purple"
+    ],
+    "Round Shades": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Round Tinted Shades": [
+        "Brown",
+        "Dark brown",
+        "Green",
+        "Light brown"
+    ],
+    "Rounded Beard": [
+        ""
+    ],
+    "Royal Crown": [
+        ""
+    ],
+    "Royal Shirt": [
+        ""
+    ],
+    "Rubber Apron": [
+        "Black",
+        "White"
+    ],
+    "Rubber-toe High Tops": [
+        "Beige",
+        "Berry red",
+        "Black",
+        "Blue",
+        "Coral",
+        "Ivory",
+        "Olive",
+        "Pink"
+    ],
+    "Rubber-toe Sneakers": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Ruffled Dress": [
+        "Black",
+        "Purple",
+        "Red"
+    ],
+    "Rugby Uniform": [
+        "Blue & black",
+        "Blue & white",
+        "Green & black",
+        "Green & white",
+        "Orange & black",
+        "Orange & white",
+        "Red & black",
+        "Red & white"
+    ],
+    "Rumba Costume": [
+        "Orange",
+        "Pink",
+        "Red"
+    ],
+    "Running Tights": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Yellow"
+    ],
+    "Sacoche Bag": [
+        "Black",
+        "Blue",
+        "Red"
+    ],
+    "Safety Helmet": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Yellow"
+    ],
+    "Safety Vest": [
+        "Black",
+        "Orange"
+    ],
+    "Sailor's Hat": [
+        "Blue",
+        "Navy blue",
+        "White"
+    ],
+    "Sailor's Tee": [
+        "Brown",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Sailor-collar Dress": [
+        "Blue",
+        "Navy blue",
+        "Pink",
+        "White"
+    ],
+    "Sailor-style Shirt": [
+        "Light blue",
+        "Navy blue",
+        "White"
+    ],
+    "Samurai Greaves": [
+        "Black",
+        "Blue",
+        "Golden yellow",
+        "Red",
+        "White"
+    ],
+    "Samurai Helmet": [
+        "Black",
+        "Blue",
+        "Golden yellow",
+        "Red",
+        "White"
+    ],
+    "Samurai Shirt": [
+        "Black",
+        "Blue",
+        "Golden yellow",
+        "Red",
+        "White"
+    ],
+    "Sari": [
+        "Amethyst",
+        "Aquamarine",
+        "Garnet",
+        "Topaz"
+    ],
+    "Satin Dress": [
+        "Berry red",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple"
+    ],
+    "Satin Pants": [
+        "Blue",
+        "Brown",
+        "Dark red",
+        "Green",
+        "Light purple",
+        "Pink",
+        "Ruby red"
+    ],
+    "Scholar's Hat": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "School Hat": [
+        "Navy blue",
+        "Yellow"
+    ],
+    "School Jacket": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Purple",
+        "White"
+    ],
+    "School Smock": [
+        ""
+    ],
+    "Sea Hanten Shirt": [
+        "Blue",
+        "Dark blue"
+    ],
+    "Security Uniform": [
+        ""
+    ],
+    "Semi-opaque Socks": [
+        "Avocado",
+        "Blue",
+        "Brown",
+        "Camel",
+        "Green",
+        "Navy blue",
+        "Purple",
+        "Red"
+    ],
+    "Semi-opaque Tights": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow",
+        "Yellow-green"
+    ],
+    "Sequin Leggings": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Shallow Knit Cap": [
+        "Beige",
+        "Brown",
+        "Gray",
+        "Green",
+        "Navy blue",
+        "Purple",
+        "Red"
+    ],
+    "Shawl-and-dress Combo": [
+        "Black",
+        "Green",
+        "Ochre",
+        "Red"
+    ],
+    "Sheep Costume": [
+        "Brown",
+        "Light blue",
+        "Pink",
+        "White"
+    ],
+    "Sheep Hood": [
+        "Brown",
+        "Light blue",
+        "Pink",
+        "White"
+    ],
+    "Sheer Socks": [
+        "Berry red",
+        "Blue",
+        "Brown",
+        "Gray",
+        "Green",
+        "Olive"
+    ],
+    "Shell Dress": [
+        "Blue",
+        "Mint",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Shiny Bow Platform Shoes": [
+        "Black",
+        "Light blue",
+        "Light purple",
+        "Pink",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Shirt With Camera": [
+        "Black",
+        "Light blue"
+    ],
+    "Short-sleeve Dress Shirt": [
+        "Blue",
+        "Green",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Shorts Outfit": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Light blue",
+        "Pink"
+    ],
+    "Shower Sandals": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Red",
+        "White"
+    ],
+    "Silk Floral-print Pants": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Mustard",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Silk Floral-print Shirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Mustard",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Silk Pants": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Silk Shirt": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Simple Checkered Dress": [
+        "Beige",
+        "Green",
+        "Pink"
+    ],
+    "Simple Knee-high Socks": [
+        "Blue",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Simple Parka": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Simple Visiting Kimono": [
+        "Aqua",
+        "Gray",
+        "Indigo blue",
+        "Orange",
+        "Pale green",
+        "Pink",
+        "Wisteria",
+        "Yellow"
+    ],
+    "Simple-accent Socks": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Simple-dots Tee": [
+        "Black",
+        "Green",
+        "Light blue",
+        "Red",
+        "Yellow"
+    ],
+    "Skateboarding Helmet": [
+        "Gray",
+        "Light blue",
+        "Olive",
+        "Orange",
+        "White"
+    ],
+    "Skeleton Hood": [
+        ""
+    ],
+    "Ski Mask": [
+        "Black",
+        "Blue",
+        "Green",
+        "Lime",
+        "Red"
+    ],
+    "Skirt With Suspenders": [
+        "Blue",
+        "Gray",
+        "Orange",
+        "Pink",
+        "Red"
+    ],
+    "Skull Tee": [
+        "Beige",
+        "Black",
+        "Purple"
+    ],
+    "Slacks": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Gray",
+        "Navy blue",
+        "Red",
+        "White"
+    ],
+    "Sleeved Apron": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Sleeveless Dress Shirt": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "White"
+    ],
+    "Sleeveless Parka": [
+        "Black",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Sleeveless Shirtdress": [
+        "Blue",
+        "Lime",
+        "Pink",
+        "White"
+    ],
+    "Sleeveless Silk Dress": [
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Sleeveless Tunic": [
+        "Blue",
+        "Mint",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Slip-on Loafers": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Slip-on Sandals": [
+        "Black",
+        "Light blue",
+        "Lime",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Slip-on School Shoes": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Slippers": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Small Silk Hat": [
+        "Black",
+        "Purple",
+        "Red"
+    ],
+    "Snorkel Mask": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red"
+    ],
+    "Snowflake Umbrella": [
+        ""
+    ],
+    "Snowy Knit Cap": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Soccer Shorts": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "Red",
+        "White"
+    ],
+    "Soccer Socks": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Red",
+        "White"
+    ],
+    "Soccer-uniform Top": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Soft-serve Hat": [
+        "Black sesame",
+        "Chocolate",
+        "Gold leaf",
+        "Green tea",
+        "Pale sky",
+        "Purple sweet potato",
+        "Strawberry",
+        "Vanilla"
+    ],
+    "Space Helmet": [
+        ""
+    ],
+    "Space Parka": [
+        "Blue",
+        "Purple"
+    ],
+    "Space Suit": [
+        ""
+    ],
+    "Spangle Shorts": [
+        "Black",
+        "Gold",
+        "Green",
+        "Navy blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Silver"
+    ],
+    "Sparkly Embroidered Tank": [
+        "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "Spider Umbrella": [
+        ""
+    ],
+    "Spider-web Tee": [
+        ""
+    ],
+    "Spider-web Tights": [
+        "Black",
+        "Orange",
+        "Purple",
+        "White"
+    ],
+    "Sports Cap": [
+        "Blue",
+        "Red",
+        "White & blue",
+        "White & red"
+    ],
+    "Sports Tank": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "Sporty Sandals": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Olive",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Sporty Shades": [
+        "Black",
+        "Light blue",
+        "Lime",
+        "Pink",
+        "White"
+    ],
+    "Sporty Skirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink"
+    ],
+    "Sprite Costume": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Mint",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Square Backpack": [
+        "Green",
+        "Pink",
+        "Yellow"
+    ],
+    "Square Glasses": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Gray"
+    ],
+    "Stache & Glasses": [
+        "Black",
+        "Red"
+    ],
+    "Staff Uniform": [
+        "Blue",
+        "Pink",
+        "Yellow"
+    ],
+    "Star Costume": [
+        "Black",
+        "Navy blue",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Star Hairpin": [
+        "Black",
+        "Mint",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Star Shades": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "Steampunk Costume": [
+        "Purple",
+        "Red"
+    ],
+    "Steampunk Glasses": [
+        "Green",
+        "Purple"
+    ],
+    "Steel-toed Boots": [
+        "Beige",
+        "Black",
+        "Brown",
+        "Gray",
+        "Green",
+        "Red"
+    ],
+    "Stellar Jumpsuit": [
+        "Blue",
+        "Dark red",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Sticky Rice": [
+        ""
+    ],
+    "Stockings": [
+        "Beige",
+        "Black",
+        "Brown",
+        "Gray",
+        "White"
+    ],
+    "Strappy Heels": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Silver"
+    ],
+    "Straw Boater": [
+        "Beige",
+        "Brown",
+        "Cream",
+        "Dark brown",
+        "Light blue",
+        "Light brown",
+        "Monotone",
+        "Pink"
+    ],
+    "Straw Pochette": [
+        ""
+    ],
+    "Strawberry Dress": [
+        ""
+    ],
+    "Strawberry Umbrella": [
+        ""
+    ],
+    "Stretch Leggings": [
+        "Black",
+        "Brown",
+        "Dark gray",
+        "Gray",
+        "Green",
+        "Navy blue",
+        "White"
+    ],
+    "Striped Bell-bottoms": [
+        "Green",
+        "Orange",
+        "Red",
+        "Yellow"
+    ],
+    "Striped Dress": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Striped Halter Dress": [
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink"
+    ],
+    "Striped Maxi Dress": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Red"
+    ],
+    "Striped Pants": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Red"
+    ],
+    "Striped Shirt": [
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Striped Socks": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Monotone",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Striped Tank": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Striped Tee": [
+        "Camel",
+        "Green",
+        "Navy blue",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Striped Tights": [
+        "Gray",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Striped Umbrella": [
+        ""
+    ],
+    "Studded Backpack": [
+        "Black",
+        "White"
+    ],
+    "Student Cap": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Purple",
+        "White"
+    ],
+    "Stylish Jumpsuit": [
+        "Avocado",
+        "Beige",
+        "Black",
+        "Gray",
+        "Pink"
+    ],
+    "Suit Of Lights": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red"
+    ],
+    "Suit With Stand-up Collar": [
+        "Avocado",
+        "Beige",
+        "Black",
+        "White"
+    ],
+    "Sunflower Dress": [
+        "Navy blue",
+        "Orange",
+        "White"
+    ],
+    "Superhero Mask": [
+        ""
+    ],
+    "Superhero Uniform": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Surfing Shorts": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Purple"
+    ],
+    "Sushi Chef Hat": [
+        "Dark blue",
+        "White"
+    ],
+    "Sushi Chef's Outfit": [
+        "Dark blue",
+        "White"
+    ],
+    "Suspender Outfit": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Light green",
+        "Pink"
+    ],
+    "Sweater Dress": [
+        "Beige",
+        "Dark brown",
+        "Olive"
+    ],
+    "Sweater On Shirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Yellow"
+    ],
+    "Sweater-vest": [
+        "Beige",
+        "Gray",
+        "Navy blue",
+        "White"
+    ],
+    "Sweatpants": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Sweatshirt": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Sweet Dress": [
+        "Purple",
+        "White"
+    ],
+    "Sweetheart Dress": [
+        "Beige",
+        "Greige",
+        "Moss green",
+        "Navy blue",
+        "Peacock blue"
+    ],
+    "Sweetheart Tank And Shirt": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink"
+    ],
+    "Swimming Cap": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Tailcoat": [
+        "Black",
+        "White"
+    ],
+    "Tailored Jacket": [
+        "Beige",
+        "Black",
+        "Gray",
+        "Green",
+        "Navy blue"
+    ],
+    "Tango Dress": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Tank": [
+        "Black",
+        "Brown",
+        "Navy blue",
+        "Red",
+        "White"
+    ],
+    "Tartan-check Umbrella": [
+        ""
+    ],
+    "Tee Dress": [
+        "Beige",
+        "Black",
+        "Navy blue",
+        "Olive",
+        "Red",
+        "White"
+    ],
+    "Tee-parka Combo": [
+        "Blue",
+        "Lime",
+        "Mint",
+        "Orange",
+        "Pink"
+    ],
+    "Tennis Skirt": [
+        "Light blue",
+        "Navy blue",
+        "Pink",
+        "White"
+    ],
+    "Tennis Sweater": [
+        "Brown",
+        "Green",
+        "Ivory",
+        "Red"
+    ],
+    "Terry-cloth Do-rag": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Brown",
+        "White",
+        "Yellow"
+    ],
+    "Terry-cloth Nightcap": [
+        "Blue",
+        "Cream",
+        "Green",
+        "Light blue",
+        "Lime",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Terry-cloth Nightgown": [
+        "Blue",
+        "Cream",
+        "Green",
+        "Light blue",
+        "Lime",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Text Shirt": [
+        "Black",
+        "Red",
+        "White"
+    ],
+    "Thick-stripes Shirt": [
+        "Beige & navy",
+        "Green & navy",
+        "Green & purple",
+        "Light blue & black",
+        "Navy & gray",
+        "Rose red & navy",
+        "Yellow & navy",
+        "Yellow & red"
+    ],
+    "Thief's Costume": [
+        ""
+    ],
+    "Thread-worn Sweater": [
+        "Beige",
+        "Black",
+        "Green",
+        "Pink"
+    ],
+    "Three-quarter Sweatpants": [
+        "Black",
+        "Light blue",
+        "Mint",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Tiara": [
+        "Gold",
+        "Rose gold",
+        "Silver"
+    ],
+    "Tiara Hair": [
+        "Gold",
+        "Rose gold",
+        "Silver"
+    ],
+    "Tie-dye Shirt": [
+        ""
+    ],
+    "Tiered Skirt": [
+        "Avocado",
+        "Blue",
+        "Mint",
+        "Purple",
+        "Yellow"
+    ],
+    "Tiger Jacket": [
+        ""
+    ],
+    "Tiger-face Tee Dress": [
+        "Black",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Tight Punk Outfit": [
+        "Black",
+        "Red"
+    ],
+    "Tight-knit Sweater": [
+        "Beige",
+        "Black",
+        "Gray"
+    ],
+    "Tiny Shades": [
+        "Berry red",
+        "Black",
+        "Gold"
+    ],
+    "Toad Parasol": [
+        ""
+    ],
+    "Toga": [
+        "Purple",
+        "Red"
+    ],
+    "Tool Bag": [
+        ""
+    ],
+    "Top Coat": [
+        "Beige",
+        "Brown",
+        "Light blue",
+        "Pink"
+    ],
+    "Top Hat": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Tortoise Specs": [
+        "Beige",
+        "Black",
+        "Brown"
+    ],
+    "Town Backpack": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Red"
+    ],
+    "Track Jacket": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Red",
+        "White"
+    ],
+    "Track Pants": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Red",
+        "White"
+    ],
+    "Traditional Monpe Pants": [
+        "Blue",
+        "Dark blue",
+        "Dark red",
+        "Golden yellow"
+    ],
+    "Travel Pouch": [
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple"
+    ],
+    "Traveler's Backpack": [
+        "Blue",
+        "Brown",
+        "Orange"
+    ],
+    "Trekking Shoes": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light blue",
+        "Orange",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Trench Coat": [
+        "Beige",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "Red"
+    ],
+    "Triangle Shades": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Tropical Hat": [
+        "Blue",
+        "Mint",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Tropical Muumuu": [
+        "Blue",
+        "Mint",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Tube Socks": [
+        "Berry red",
+        "Blue",
+        "Dark green",
+        "Green",
+        "Navy blue",
+        "Orange",
+        "Purple",
+        "Red"
+    ],
+    "Tube Top": [
+        "Blue",
+        "Dark gray",
+        "Dark red",
+        "Green",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Tulip Hat": [
+        "Brown",
+        "Camel",
+        "Orange"
+    ],
+    "Tuna-sushi Costume": [
+        ""
+    ],
+    "Tunic Tank": [
+        "Mint",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Tuxedo Jacket": [
+        "Black",
+        "Gray",
+        "White"
+    ],
+    "Tweed Cap": [
+        "Blue",
+        "Brown",
+        "Green"
+    ],
+    "Tweed Dress": [
+        "Blue",
+        "Pink",
+        "Yellow"
+    ],
+    "Tweed Jacket": [
+        "Beige",
+        "Berry red",
+        "Blue",
+        "Brown",
+        "Green",
+        "Pink"
+    ],
+    "Tweed Pants": [
+        "Beige",
+        "Berry red",
+        "Blue",
+        "Brown",
+        "Green",
+        "Pink"
+    ],
+    "Tweed Skirt": [
+        "Blue",
+        "Pink",
+        "Yellow"
+    ],
+    "Tweed Vest": [
+        "Green",
+        "Navy blue",
+        "Red"
+    ],
+    "Ultra No-show Socks": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Olive",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Upcycled Skirt": [
+        "Beige",
+        "Mint",
+        "Pink"
+    ],
+    "V-neck Sweater": [
+        "Black",
+        "Blue",
+        "Red"
+    ],
+    "Vampire Costume": [
+        "Black",
+        "Purple"
+    ],
+    "Veiled Gardening Hat": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Vertical-stripes Shirt": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
+    "Vest With Binoculars": [
+        ""
+    ],
+    "Vibrant Shorts": [
+        "Avocado",
+        "Black",
+        "Blue",
+        "Orange",
+        "Pink"
+    ],
+    "Victorian Dress": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Orange",
+        "Red"
+    ],
+    "Viking Helmet": [
+        "Blue",
+        "Brown",
+        "Gray"
+    ],
+    "Viking Top": [
+        "Blue",
+        "Brown",
+        "Gray"
+    ],
+    "Vinyl Round-toed Pumps": [
+        "Beige",
+        "Black",
+        "Brown",
+        "Mint",
+        "Pink",
+        "White"
+    ],
+    "Vinyl Umbrella": [
+        ""
+    ],
+    "Visual-punk Boots": [
+        ""
+    ],
+    "Visual-punk Dress": [
+        ""
+    ],
+    "Visual-punk Outfit": [
+        ""
+    ],
+    "Vivid Leggings": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Vivid Socks": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Vivid Tights": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Waistcoat": [
+        "Beige",
+        "Black",
+        "Gray",
+        "Navy blue",
+        "White"
+    ],
+    "Walking Shoes": [
+        "Beige",
+        "Pink",
+        "Red"
+    ],
+    "Water Sandals": [
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Water Shoes": [
+        "Black",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Watermelon Dress": [
+        ""
+    ],
+    "Watermelon Hat": [
+        ""
+    ],
+    "Watermelon Umbrella": [
+        ""
+    ],
+    "Welding Mask": [
+        ""
+    ],
+    "Western Shirt": [
+        "Black",
+        "Blue",
+        "Pink",
+        "Yellow"
+    ],
+    "White Shiny-bows Parasol": [
+        ""
+    ],
+    "Wide Chino Pants": [
+        "Avocado",
+        "Beige",
+        "Brown",
+        "Gray",
+        "Navy blue"
+    ],
+    "Wide-brim Straw Hat": [
+        "Beige",
+        "Black",
+        "White"
+    ],
+    "Wingtip Shoes": [
+        "Berry red",
+        "Black",
+        "Black & white",
+        "Brown",
+        "Gray",
+        "Green",
+        "Greige"
+    ],
+    "Winklepickers": [
+        "Black",
+        "Blue",
+        "Red",
+        "White"
+    ],
+    "Wizard's Cap": [
+        "Blue",
+        "Purple"
+    ],
+    "Wizard's Robe": [
+        "Blue",
+        "Purple"
+    ],
+    "Wooden Clogs": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Wooden-frame Glasses": [
+        "Brown",
+        "Dark brown"
+    ],
+    "Work Apron": [
+        "Avocado",
+        "Orange"
+    ],
+    "Work Boots": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Work Shirt": [
+        "Blue-striped necktie",
+        "Green-striped necktie",
+        "Purple-striped necktie",
+        "Red-striped necktie",
+        "White-striped necktie"
+    ],
+    "Worker's Jacket": [
+        "Beige",
+        "Light blue",
+        "Navy blue"
+    ],
+    "Workout Top": [
+        "Lime",
+        "Orange",
+        "Pink"
+    ],
+    "Worn-out Cutoffs": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "White"
+    ],
+    "Worn-out Jeans": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "White"
+    ],
+    "Wrestler Uniform": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Wrestling Mask": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Wrestling Shoes": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Wrestling Singlet": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Yacht Shorts": [
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Young-royal Shirt": [
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "White"
+    ],
+    "Zap Helmet": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Zap Suit": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Zen Hair Clip": [
+        "Aqua",
+        "Dark blue",
+        "Golden yellow",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Sky blue"
+    ],
+    "Zigzag-print Dress": [
+        "Brown",
+        "Coral",
+        "Green",
+        "Lime",
+        "Orange",
+        "Purple"
+    ],
+    "Zori": [
+        "Aqua",
+        "Black",
+        "Gold",
+        "Green",
+        "Light pink",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "\u00c1o D\u00e0i": [
+        "Green",
+        "Navy blue",
+        "Pink",
+        "White",
+        "Yellow"
+    ]
+}

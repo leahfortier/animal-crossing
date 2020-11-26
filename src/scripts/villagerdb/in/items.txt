@@ -1,0 +1,2639 @@
+{
+    "Accessories Stand": [
+        "Black",
+        "Brown",
+        "Light blue",
+        "Pink",
+        "White"
+    ],
+    "Acnh Nintendo Switch": [
+        ""
+    ],
+    "Air Circulator": [
+        "Black",
+        "Green",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Air Conditioner": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Gray",
+        "Pink",
+        "White"
+    ],
+    "Alto Saxophone": [
+        ""
+    ],
+    "Aluminum Briefcase": [
+        "Gold bars",
+        "Stacks of cash"
+    ],
+    "Amp": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Orange",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Analog Kitchen Scale": [
+        "Black",
+        "Blue",
+        "Green",
+        "Ivory",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Anatomical Model": [
+        ""
+    ],
+    "Ant Farm": [
+        ""
+    ],
+    "Anthurium Plant": [
+        "Black",
+        "Brown",
+        "Light blue",
+        "Pink",
+        "White"
+    ],
+    "Antique Bed": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Bureau": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Chair": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Clock": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Console Table": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Mini Table": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Phone": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Table": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Vanity": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Antique Wardrobe": [
+        "Black",
+        "Brown",
+        "Natural"
+    ],
+    "Arcade Combat Game": [
+        ""
+    ],
+    "Arcade Fighting Game": [
+        ""
+    ],
+    "Arcade Mahjong Game": [
+        ""
+    ],
+    "Arcade Seat": [
+        "Blue",
+        "Gray",
+        "Red"
+    ],
+    "Autograph Cards": [
+        "Handprints / Musician's signature",
+        "Illustration / Musician's signature",
+        "Signature / Musician's signature",
+        "Words of wisdom / Musician's signature"
+    ],
+    "Automatic Washer": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Baby Bear": [
+        "Caramel mocha",
+        "Checkered",
+        "Choco",
+        "Cream",
+        "Floral",
+        "Tweed"
+    ],
+    "Baby Chair": [
+        "Black / Bear",
+        "Blue / Bear",
+        "Green / Bear",
+        "Pink / Bear",
+        "Red / Bear",
+        "White / Bear",
+        "Yellow / Bear"
+    ],
+    "Baby Panda": [
+        ""
+    ],
+    "Ball": [
+        "Basketball",
+        "Dodgeball",
+        "Soccer ball",
+        "Volleyball"
+    ],
+    "Barbecue": [
+        "Black",
+        "Green",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Basic Teacher's Desk": [
+        "Monotone",
+        "Standard",
+        "Wooden"
+    ],
+    "Basketball Hoop": [
+        "Black",
+        "Blue",
+        "Green"
+    ],
+    "Bathroom Sink": [
+        "Beige",
+        "Black",
+        "White"
+    ],
+    "Bathroom Towel Rack": [
+        "Black",
+        "Copper",
+        "Gold",
+        "Silver"
+    ],
+    "Beach Ball": [
+        "Blue",
+        "Colorful",
+        "Red",
+        "Watermelon"
+    ],
+    "Beach Chair": [
+        "Black",
+        "Blue",
+        "Orange",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Beach Towel": [
+        ""
+    ],
+    "Bidet": [
+        ""
+    ],
+    "Billiard Table": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Bingo Wheel": [
+        ""
+    ],
+    "Blue Corner": [
+        ""
+    ],
+    "Board Game": [
+        "Kids' game",
+        "Simple path game",
+        "Territory game"
+    ],
+    "Book": [
+        "Encyclopedia",
+        "Japanese literature",
+        "Textbook",
+        "Western literature"
+    ],
+    "Book Stands": [
+        "Black",
+        "Brown",
+        "Colorful",
+        "Pastel"
+    ],
+    "Bottled Ship": [
+        "Leisure boat",
+        "Pirate ship",
+        "Trading ship"
+    ],
+    "Box Corner Sofa": [
+        "Black",
+        "Magenta",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Turquoise",
+        "White",
+        "Yellow"
+    ],
+    "Box Sofa": [
+        "Black",
+        "Magenta",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Turquoise",
+        "White",
+        "Yellow"
+    ],
+    "Breaker": [
+        ""
+    ],
+    "Brine-shrimp Aquarium": [
+        ""
+    ],
+    "Broom And Dustpan": [
+        "Colorful",
+        "Dark brown",
+        "Natural",
+        "White"
+    ],
+    "Bunk Bed": [
+        "Black / White",
+        "Blue / White",
+        "Pink / White",
+        "Red / White",
+        "Silver / White",
+        "White / White",
+        "Yellow / White"
+    ],
+    "Butterfly-fish Model": [
+        ""
+    ],
+    "Cacao Tree": [
+        ""
+    ],
+    "Camp Stove": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Campfire Cookware": [
+        ""
+    ],
+    "Camping Cot": [
+        "Blue",
+        "Camouflage",
+        "Green",
+        "Pop pattern",
+        "Red",
+        "Simple pattern",
+        "Snow camouflage",
+        "Yellow"
+    ],
+    "Candle": [
+        "Black",
+        "Copper",
+        "Gold",
+        "Silver",
+        "White"
+    ],
+    "Candy Machine": [
+        "Blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Cardboard Box": [
+        "Apples",
+        "Cherries",
+        "Labeled",
+        "Oranges",
+        "Peaches",
+        "Pears",
+        "Plain"
+    ],
+    "Cartoonist's Set": [
+        "Black / Blank",
+        "Brown / Blank",
+        "Pink / Blank",
+        "Silver / Blank"
+    ],
+    "Cassette Player": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Cat Grass": [
+        "Black",
+        "Light blue",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Cat Tower": [
+        "Beige",
+        "Brown",
+        "Gray",
+        "Navy blue",
+        "Pink",
+        "White"
+    ],
+    "Celebratory Candles": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Light brown",
+        "White"
+    ],
+    "Cello": [
+        "Black",
+        "Natural",
+        "White"
+    ],
+    "Chalkboard": [
+        "After school",
+        "Art",
+        "Blank",
+        "Club activities",
+        "Foreign language",
+        "Math",
+        "Music"
+    ],
+    "Champion's Pennant": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
+    "Changing Room": [
+        "Beige / White",
+        "Black / White",
+        "Blue / White",
+        "Brown / White",
+        "Dark brown / White",
+        "Gray / White",
+        "Green / White",
+        "Pink / White"
+    ],
+    "Chessboard": [
+        "Black",
+        "Brown"
+    ],
+    "Claw-foot Tub": [
+        "Black",
+        "Blue",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Clay Furnace": [
+        ""
+    ],
+    "Climbing Wall": [
+        "Blue",
+        "Natural",
+        "Pink",
+        "White"
+    ],
+    "Clothes Closet": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "White"
+    ],
+    "Clothesline Pole": [
+        "Blue / Plain",
+        "Silver / Plain"
+    ],
+    "Coffee Cup": [
+        "Elegant",
+        "Floral",
+        "Plain",
+        "Polka dots",
+        "Rose",
+        "Royal"
+    ],
+    "Coffee Grinder": [
+        ""
+    ],
+    "Colorful Wheel": [
+        "Black & red",
+        "Colorful numbers",
+        "Items",
+        "Two-toned numbers",
+        "Win or lose"
+    ],
+    "Cone": [
+        "Blue",
+        "Caution stripes",
+        "Green stripes",
+        "Red",
+        "Red stripes",
+        "Reflective stripes",
+        "White",
+        "Yellow"
+    ],
+    "Cooler Box": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Cordless Phone": [
+        "Black",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Corkboard": [
+        "Blue / Apple",
+        "Natural / Apple",
+        "White / Apple"
+    ],
+    "Cream And Sugar": [
+        "Brown",
+        "Floral",
+        "Silver",
+        "White"
+    ],
+    "Cuckoo Clock": [
+        "Black",
+        "Blue",
+        "Green",
+        "Natural",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Cushion": [
+        ""
+    ],
+    "Cute Bed": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Chair": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Diy Table": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Floor Lamp": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Music Player": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Sofa": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Tea Table": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Vanity": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Wall-mounted Clock": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cute Wardrobe": [
+        "Blue",
+        "Red",
+        "Sky blue",
+        "White",
+        "Yellow"
+    ],
+    "Cypress Bathtub": [
+        "Dark wood",
+        "Light wood",
+        "Natural wood"
+    ],
+    "Cypress Plant": [
+        "Black",
+        "Blue",
+        "Brown",
+        "White",
+        "Yellow"
+    ],
+    "Dartboard": [
+        ""
+    ],
+    "Deluxe Washer": [
+        "Black",
+        "Blue",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Den Chair": [
+        "Black",
+        "Brown",
+        "Camel",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Den Desk": [
+        "Brown wood",
+        "Dark wood",
+        "Natural wood",
+        "Red wood",
+        "White"
+    ],
+    "Desk Mirror": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Desktop Computer": [
+        "Black / Desktop",
+        "Pink / Desktop",
+        "Silver / Desktop",
+        "White / Desktop"
+    ],
+    "Digital Alarm Clock": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Lime",
+        "Orange",
+        "Pink",
+        "Purple",
+        "White"
+    ],
+    "Digital Scale": [
+        "Black / White",
+        "Blue / White",
+        "Brown / White",
+        "Green / White",
+        "Red / White",
+        "White / White",
+        "Yellow / White"
+    ],
+    "Diner Chair": [
+        "Aquamarine",
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Diner Counter Chair": [
+        "Aquamarine",
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Diner Counter Table": [
+        "Aquamarine",
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Diner Dining Table": [
+        "Aquamarine",
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Diner Mini Table": [
+        "Aquamarine",
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Diner Neon Clock": [
+        "Aquamarine / Red lines",
+        "Blue / Red lines",
+        "Cream / Red lines",
+        "Pink / Red lines",
+        "Purple / Red lines",
+        "Red / Red lines",
+        "Yellow / Red lines"
+    ],
+    "Diner Neon Sign": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red"
+    ],
+    "Diner Sofa": [
+        "Aquamarine",
+        "Black",
+        "Blue",
+        "Cream",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Dinnerware": [
+        ""
+    ],
+    "Director's Chair": [
+        "Black / Natural white",
+        "Dark brown / Natural white",
+        "Light brown / Natural white",
+        "White / Natural white"
+    ],
+    "Dish-drying Rack": [
+        "Black",
+        "Blue",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Dj's Turntable": [
+        "Black",
+        "Brown",
+        "Pink",
+        "White"
+    ],
+    "Document Stack": [
+        ""
+    ],
+    "Dolly": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Double Sofa": [
+        "Black",
+        "Blue",
+        "Dark brown",
+        "Green",
+        "Light brown",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Double-door Refrigerator": [
+        "Black",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Double-sided Wall Clock": [
+        "Black",
+        "Green",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Drum Set": [
+        "Black & white / Smooth white",
+        "Cosmo black / Smooth white",
+        "Evergreen / Smooth white",
+        "Golden yellow / Smooth white",
+        "Marine blue / Smooth white",
+        "Natural wood / Smooth white",
+        "Pearl white / Smooth white",
+        "Rose pink / Smooth white"
+    ],
+    "Drying Rack": [
+        "Black",
+        "Ivory",
+        "Silver",
+        "White"
+    ],
+    "Effects Rack": [
+        "Black",
+        "Blue",
+        "Orange",
+        "Pink",
+        "Red",
+        "White"
+    ],
+    "Elaborate Kimono Stand": [
+        "Balls",
+        "Cranes",
+        "Hawk",
+        "Tree peonies",
+        "Wisteria"
+    ],
+    "Electric Bass": [
+        "Ash green",
+        "Chic white",
+        "Cosmo black",
+        "Deep ocean",
+        "Natural wood",
+        "Shocking pink",
+        "Space silver",
+        "Sunburst"
+    ],
+    "Electric Guitar": [
+        "Cherry",
+        "Chic white",
+        "Cosmo black",
+        "Dark red",
+        "Marine emerald",
+        "Natural wood",
+        "Sunburst"
+    ],
+    "Electric Kick Scooter": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Electronics Kit": [
+        "Black",
+        "Green"
+    ],
+    "Elephant Slide": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Light blue",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Espresso Maker": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Essay Set": [
+        "Blank",
+        "In progress",
+        "Letter",
+        "Writer's block"
+    ],
+    "Exercise Ball": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Pink",
+        "White"
+    ],
+    "Exercise Bike": [
+        "Black",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Exit Sign": [
+        "Left and right arrows",
+        "Left arrow",
+        "Red exit",
+        "Right arrow"
+    ],
+    "Fan": [
+        "Black",
+        "Light blue",
+        "Pink",
+        "White"
+    ],
+    "Fan Palm": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Fancy Violin": [
+        "Black",
+        "Natural",
+        "White"
+    ],
+    "Fax Machine": [
+        "Black / Document",
+        "Brown / Document",
+        "Red / Document",
+        "White / Document"
+    ],
+    "Film Projector": [
+        ""
+    ],
+    "Fireplace": [
+        "Beige",
+        "Dark brown",
+        "Red",
+        "White"
+    ],
+    "Fishing-boat Flag": [
+        "Marufukumaru - Bounty",
+        "Nintenmaru - Big Catch",
+        "Tsurukamemaru - Longevity",
+        "Uomasamaru III - Launch"
+    ],
+    "Flashy-flower Sign": [
+        "Cute",
+        "Elegant",
+        "Pop"
+    ],
+    "Floating-biotope Planter": [
+        "Artistic",
+        "Black",
+        "Brown",
+        "White"
+    ],
+    "Floor Lamp": [
+        "Black / White",
+        "Brown / White",
+        "Natural / White",
+        "White / White"
+    ],
+    "Floor Light": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Floor Seat": [
+        "Black / Pale grass green",
+        "Dark wood / Pale grass green",
+        "Light wood / Pale grass green",
+        "Natural / Pale grass green"
+    ],
+    "Floor Sign": [
+        "No Entry",
+        "No Parking",
+        "Slippery",
+        "Stop",
+        "Warning"
+    ],
+    "Folding Chair": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Folding Floor Lamp": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Light green",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Foosball Table": [
+        "Blue",
+        "Brown",
+        "Dark brown"
+    ],
+    "Football": [
+        ""
+    ],
+    "Formal Paper": [
+        "Brown",
+        "Dark brown",
+        "Light brown"
+    ],
+    "Fortune-telling Set": [
+        "Black",
+        "Purple"
+    ],
+    "Fragrance Diffuser": [
+        "Blue",
+        "Green",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Fragrance Sticks": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green"
+    ],
+    "Freezer": [
+        "Beige",
+        "Black",
+        "Silver",
+        "White"
+    ],
+    "Futon": [
+        ""
+    ],
+    "Garbage Bin": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Garbage Can": [
+        ""
+    ],
+    "Garbage Pail": [
+        ""
+    ],
+    "Garden Faucet": [
+        "Concrete",
+        "Mosaic tile",
+        "Red brick",
+        "Stainless",
+        "Wooden"
+    ],
+    "Garden Gnome": [
+        "Hungry gnome",
+        "Laid-back gnome",
+        "Passionate gnome",
+        "Rebel gnome",
+        "Reliable gnome",
+        "Sleepy gnome",
+        "Sprightly gnome",
+        "Surprised gnome"
+    ],
+    "Garden Lantern": [
+        "Black",
+        "Bronze",
+        "White"
+    ],
+    "Gas Range": [
+        "Black",
+        "Blue",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Gears": [
+        "Black",
+        "Colorful",
+        "Copper",
+        "Silver",
+        "Wooden"
+    ],
+    "Glass Holder With Candle": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Globe": [
+        "Cool",
+        "Sepia",
+        "Standard"
+    ],
+    "Go Board": [
+        ""
+    ],
+    "Golf Bag": [
+        "Brown",
+        "Green",
+        "Multicolor",
+        "Pink",
+        "Red",
+        "Silver"
+    ],
+    "Grand Piano": [
+        "Black",
+        "Cherry",
+        "Walnut",
+        "White"
+    ],
+    "Grasshopper-head Model": [
+        ""
+    ],
+    "Hammock": [
+        "Black / Colorful",
+        "Blue / Colorful",
+        "Brown / Colorful",
+        "Light brown / Colorful",
+        "Pink / Colorful",
+        "White / Colorful",
+        "Yellow / Colorful"
+    ],
+    "Hamster Cage": [
+        "Blue",
+        "Brown",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Handcart": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Handy Water Cooler": [
+        "Avocado",
+        "Blue",
+        "Green",
+        "Plaid",
+        "Red",
+        "Yellow"
+    ],
+    "Hanging Scroll": [
+        "Blue / Calligraphy",
+        "Brown / Calligraphy",
+        "Green / Calligraphy",
+        "Pink / Calligraphy",
+        "Purple / Calligraphy"
+    ],
+    "Harp": [
+        "Black",
+        "Brown",
+        "Dark brown",
+        "Light brown",
+        "White"
+    ],
+    "Heart Doorplate": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Monotone",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
+    "Hi-fi Stereo": [
+        ""
+    ],
+    "High-end Stereo": [
+        ""
+    ],
+    "Homework Set": [
+        ""
+    ],
+    "Hose Reel": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Silver",
+        "Yellow"
+    ],
+    "Hourglass": [
+        "Black",
+        "Brown",
+        "Natural",
+        "White"
+    ],
+    "Humidifier": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Natural",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
+    "Imperial Bed": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Imperial Chest": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Imperial Decorative Shelves": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Imperial Dining Chair": [
+        "Black",
+        "Brown"
+    ],
+    "Imperial Dining Lantern": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Red"
+    ],
+    "Imperial Dining Table": [
+        "Brown",
+        "Red"
+    ],
+    "Imperial Low Table": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Imperial Partition": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red"
+    ],
+    "Incense Burner": [
+        "Cherry blossoms",
+        "Deep sea",
+        "Forest",
+        "Rose",
+        "Sandalwood",
+        "Tea"
+    ],
+    "Inflatable Sofa": [
+        "Blue",
+        "Camouflage",
+        "Green",
+        "Lime",
+        "Pink",
+        "Polka dots",
+        "Purple",
+        "Rainbow"
+    ],
+    "Intercom Monitor": [
+        ""
+    ],
+    "Ironing Board": [
+        ""
+    ],
+    "Ironing Set": [
+        ""
+    ],
+    "Judge's Bell": [
+        ""
+    ],
+    "Jukebox": [
+        ""
+    ],
+    "Kettle": [
+        ""
+    ],
+    "Kimono Stand": [
+        ""
+    ],
+    "Kitchen Island": [
+        "Black",
+        "Blue",
+        "Dark brown",
+        "Light brown",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Kitty Litter Box": [
+        "Black",
+        "Brown",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "White"
+    ],
+    "Knife Block": [
+        "Black",
+        "Natural",
+        "Silver"
+    ],
+    "Kotatsu": [
+        ""
+    ],
+    "Lab-experiments Set": [
+        ""
+    ],
+    "Lantern": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Laptop": [
+        "Black / Desktop",
+        "Blue / Desktop",
+        "Gold / Desktop",
+        "Pink / Desktop",
+        "Red / Desktop",
+        "Silver / Desktop",
+        "White / Desktop"
+    ],
+    "Lawn Chair": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red white & blue",
+        "Yellow"
+    ],
+    "Lawn Mower": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Red",
+        "Yellow"
+    ],
+    "Lcd Tv (20 In.)": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Lcd Tv (50 In.)": [
+        "Black",
+        "Blue",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Lecture-hall Bench": [
+        "Dark brown",
+        "Light brown"
+    ],
+    "Lecture-hall Desk": [
+        "Dark brown",
+        "Light brown",
+        "White"
+    ],
+    "Life Ring": [
+        "Blue",
+        "Orange",
+        "Red",
+        "Yellow"
+    ],
+    "Light Switch": [
+        "Brown",
+        "Gray",
+        "White",
+        "Wood grain"
+    ],
+    "Loft Bed With Desk": [
+        "Black / White",
+        "Blue / White",
+        "Brown / White",
+        "Light blue / White",
+        "Natural / White",
+        "Orange / White",
+        "Pink / White",
+        "White / White"
+    ],
+    "Long Bathtub": [
+        "Black marble",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Two-toned tile",
+        "White",
+        "White marble"
+    ],
+    "Loom": [
+        ""
+    ],
+    "Low Screen": [
+        "Brown / Plain",
+        "Dark brown / Plain",
+        "Light brown / Plain"
+    ],
+    "Macrame Tapestry": [
+        "Blue",
+        "Green",
+        "Pink",
+        "White"
+    ],
+    "Magazine": [
+        ""
+    ],
+    "Magic Kit": [
+        "Blue",
+        "Red"
+    ],
+    "Magnetic Knife Rack": [
+        "Pop",
+        "Stainless steel",
+        "Wooden"
+    ],
+    "Mama Bear": [
+        "Caramel mocha",
+        "Checkered",
+        "Choco",
+        "Cream",
+        "Floral",
+        "Tweed"
+    ],
+    "Mama Panda": [
+        ""
+    ],
+    "Mantis-head Model": [
+        ""
+    ],
+    "Marimba": [
+        ""
+    ],
+    "Menu Chalkboard": [
+        "Blue",
+        "Dark brown",
+        "Natural",
+        "Red",
+        "White"
+    ],
+    "Metal Can": [
+        ""
+    ],
+    "Metronome": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Cream",
+        "Red"
+    ],
+    "Mic Stand": [
+        ""
+    ],
+    "Microscope": [
+        "Black",
+        "Silver",
+        "White"
+    ],
+    "Microwave": [
+        "Black",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Mini Fridge": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Pink",
+        "Red",
+        "White",
+        "Wood grain",
+        "Yellow"
+    ],
+    "Mini-cactus Set": [
+        ""
+    ],
+    "Mixer": [
+        "Bananas",
+        "Blueberries",
+        "Carrots",
+        "Green smoothie",
+        "Kiwifruit",
+        "Oranges",
+        "Strawberries",
+        "Tomatoes"
+    ],
+    "Mobile": [
+        "Gorgeous",
+        "Hot air balloons",
+        "Ocean creatures",
+        "Sheep",
+        "Space"
+    ],
+    "Modern Office Chair": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Monstera": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Moss Ball": [
+        ""
+    ],
+    "Mountain Bike": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
+    "Mounted Black Bass": [
+        ""
+    ],
+    "Mounted Blue Marlin": [
+        ""
+    ],
+    "Mr. Flamingo": [
+        "Natural",
+        "White"
+    ],
+    "Mrs. Flamingo": [
+        "Natural",
+        "White"
+    ],
+    "Mug": [
+        "Black / Plain",
+        "Blue / Plain",
+        "Green / Plain",
+        "Pink / Plain",
+        "Red / Plain",
+        "Turquoise / Plain",
+        "White / Plain",
+        "Yellow / Plain"
+    ],
+    "Nail-art Set": [
+        "Black",
+        "Pink"
+    ],
+    "Neutral Corner": [
+        ""
+    ],
+    "Newton's Cradle": [
+        ""
+    ],
+    "Nintendo Switch": [
+        "Gray",
+        "Neon blue & neon red"
+    ],
+    "Office Desk": [
+        "Beige & white",
+        "Brown & black",
+        "Gray",
+        "White"
+    ],
+    "Oil Barrel": [
+        "Blue",
+        "Caution",
+        "Damaged",
+        "Green",
+        "Light blue",
+        "Light green",
+        "Orange",
+        "Red"
+    ],
+    "Oil Lamp": [
+        ""
+    ],
+    "Old Sewing Machine": [
+        "Black",
+        "Green",
+        "Silver"
+    ],
+    "Old-fashioned Alarm Clock": [
+        "Black",
+        "Copper",
+        "Gold",
+        "Light blue",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Open-frame Kitchen": [
+        ""
+    ],
+    "Outdoor Air Conditioner": [
+        ""
+    ],
+    "Outdoor Bench": [
+        "Black / White",
+        "Blue / White",
+        "Green / White",
+        "Red / White",
+        "White / White"
+    ],
+    "Outdoor Generator": [
+        "Blue",
+        "Orange",
+        "Red",
+        "Silver",
+        "Turquoise",
+        "Yellow"
+    ],
+    "Outdoor Table": [
+        "Black / White",
+        "Blue / White",
+        "Green / White",
+        "Red / White",
+        "White / White"
+    ],
+    "Painting Set": [
+        "Light blue / Blank",
+        "Pink / Blank",
+        "White / Blank",
+        "Yellow / Blank"
+    ],
+    "Pants Press": [
+        "Black",
+        "Brown",
+        "Gray"
+    ],
+    "Papa Bear": [
+        "Caramel mocha",
+        "Checkered",
+        "Choco",
+        "Cream",
+        "Floral",
+        "Tweed"
+    ],
+    "Papa Panda": [
+        ""
+    ],
+    "Paper Lantern": [
+        "Dark wood / Plain",
+        "Natural wood / Plain",
+        "Orange wood / Plain"
+    ],
+    "Paper Tiger": [
+        ""
+    ],
+    "Party Garland": [
+        "Boating stripes",
+        "Colorful",
+        "Gorgeous",
+        "Orange & black",
+        "Pastel",
+        "Pop"
+    ],
+    "Pedal Board": [
+        "Black",
+        "Green",
+        "Pink"
+    ],
+    "Pendulum Clock": [
+        ""
+    ],
+    "Pennant": [
+        "Classic",
+        "Souvenir",
+        "Sponsor",
+        "Sports",
+        "University"
+    ],
+    "Pet Bed": [
+        "Dark brown / White",
+        "Natural / White",
+        "White / White"
+    ],
+    "Pet Food Bowl": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red"
+    ],
+    "Phonograph": [
+        ""
+    ],
+    "Piano Bench": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Camel",
+        "Green",
+        "Light green",
+        "Red",
+        "White"
+    ],
+    "Picnic Basket": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Pinball Machine": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red",
+        "White"
+    ],
+    "Plasma Ball": [
+        ""
+    ],
+    "Plastic Canister": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Plastic Pool": [
+        "Blue",
+        "Colorful",
+        "Green",
+        "Orange",
+        "Pink",
+        "Polka dots"
+    ],
+    "Podium": [
+        ""
+    ],
+    "Poolside Bed": [
+        "Brown / White",
+        "Dark brown / White",
+        "Light brown / White"
+    ],
+    "Pop-up Toaster": [
+        "Green",
+        "Light blue",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Popcorn Machine": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red"
+    ],
+    "Portable Radio": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Portable Record Player": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Pot Rack": [
+        "Pop",
+        "Stainless steel",
+        "Wooden"
+    ],
+    "Pro Tape Recorder": [
+        "Black",
+        "Brown",
+        "Gray"
+    ],
+    "Protein Shaker Bottle": [
+        "Cocoa flavored",
+        "Plain",
+        "Strawberry flavored",
+        "Vanilla flavored"
+    ],
+    "Pull-up-bar Stand": [
+        "Black",
+        "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "Punching Bag": [
+        "Black",
+        "Blue",
+        "Red"
+    ],
+    "Rattan Armchair": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan Bed": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan End Table": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan Low Table": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan Stool": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan Table Lamp": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan Towel Basket": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan Vanity": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan Wardrobe": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Rattan Waste Bin": [
+        "Black",
+        "Brown",
+        "Gray",
+        "Light brown",
+        "Reddish brown",
+        "White"
+    ],
+    "Record Box": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Red Corner": [
+        ""
+    ],
+    "Refrigerator": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Pink",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Retro Fan": [
+        "Blue",
+        "Green",
+        "Orange"
+    ],
+    "Retro Gas Pump": [
+        "Black / Yellow oil",
+        "Green / Yellow oil",
+        "Red / Yellow oil",
+        "Retro / Yellow oil",
+        "White / Yellow oil",
+        "Yellow / Yellow oil"
+    ],
+    "Retro Radiator": [
+        ""
+    ],
+    "Retro Stereo": [
+        "Black",
+        "Brown"
+    ],
+    "Revolving Spice Rack": [
+        "Brown",
+        "Orange",
+        "White"
+    ],
+    "Rice Cooker": [
+        "Berry red",
+        "Black",
+        "Brown",
+        "Silver",
+        "White"
+    ],
+    "Ring": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Pink",
+        "Red",
+        "Turquoise",
+        "White"
+    ],
+    "Ring-Con": [
+        ""
+    ],
+    "Rock Guitar": [
+        "Chic white",
+        "Cool blue",
+        "Coral pink",
+        "Cosmo black",
+        "Fire red",
+        "Natural wood",
+        "Orange-yellow",
+        "Sunburst"
+    ],
+    "Rocket Lamp": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Turquoise",
+        "Yellow"
+    ],
+    "Rotary Phone": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Round Space Heater": [
+        "Black",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Red",
+        "White"
+    ],
+    "Safe": [
+        "Black",
+        "Gold",
+        "Silver",
+        "White"
+    ],
+    "Sand Castle": [
+        "Natural sand",
+        "White sand"
+    ],
+    "School Chair": [
+        "Beige & green",
+        "Brown & white",
+        "Gray & blue",
+        "Light brown & black",
+        "Natural & silver",
+        "White & red"
+    ],
+    "School Desk": [
+        "Beige & green",
+        "Brown & white",
+        "Gray & blue",
+        "Light brown & black",
+        "Natural & silver",
+        "White & red"
+    ],
+    "Screen": [
+        "Bamboo",
+        "Dragon",
+        "Pine",
+        "Plum",
+        "Tiger"
+    ],
+    "Sea Globe": [
+        ""
+    ],
+    "Server": [
+        ""
+    ],
+    "Serving Cart": [
+        "Black",
+        "Brown",
+        "Natural",
+        "Red",
+        "White",
+        "White & silver"
+    ],
+    "Sewing Machine": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Sewing Project": [
+        "Black",
+        "Blue",
+        "Green",
+        "Ivory",
+        "Pink",
+        "Yellow"
+    ],
+    "Shaded Floor Lamp": [
+        "Blue",
+        "Green",
+        "Lime",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Shaved-ice Maker": [
+        "Green",
+        "Silver"
+    ],
+    "Shower Booth": [
+        "Black",
+        "Blue",
+        "Pink",
+        "White"
+    ],
+    "Shower Set": [
+        "Black",
+        "Copper",
+        "Gold",
+        "Silver"
+    ],
+    "Silver Mic": [
+        ""
+    ],
+    "Simple Kettle": [
+        "Black",
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Simple Panel": [
+        "Black / Plain panel",
+        "Brown / Plain panel",
+        "Copper / Plain panel",
+        "Gold / Plain panel",
+        "Light brown / Plain panel",
+        "Light gray / Plain panel",
+        "Silver / Plain panel",
+        "White / Plain panel"
+    ],
+    "Skeleton": [
+        ""
+    ],
+    "Skull Doorplate": [
+        "Brown",
+        "White"
+    ],
+    "Sleeping Bag": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Smoker": [
+        "Black",
+        "Green",
+        "Silver"
+    ],
+    "Snow Globe": [
+        ""
+    ],
+    "Soft-serve Lamp": [
+        "Chocolate swirl",
+        "Green tea",
+        "Mango",
+        "Pale sky",
+        "Purple sweet potato",
+        "Rainbow",
+        "Strawberry swirl",
+        "Vanilla"
+    ],
+    "Soup Kettle": [
+        "Borscht",
+        "Congee",
+        "Corn soup",
+        "Cream stew",
+        "Curry",
+        "Green curry",
+        "Hot-and-sour soup",
+        "Minestrone"
+    ],
+    "Speed Bag": [
+        "Black",
+        "Blue",
+        "Red"
+    ],
+    "Spinning Wheel": [
+        ""
+    ],
+    "Squat Toilet": [
+        ""
+    ],
+    "Stadiometer": [
+        "Blue",
+        "Gray",
+        "Pink"
+    ],
+    "Stand Mixer": [
+        "Black",
+        "Gray",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Standing Toilet": [
+        ""
+    ],
+    "Stovetop Espresso Maker": [
+        "Black",
+        "Red",
+        "Silver"
+    ],
+    "Street Organ": [
+        "Blue",
+        "Dark brown",
+        "Natural",
+        "Yellow"
+    ],
+    "Studio Spotlight": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Studio Wall Spotlight": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Study Chair": [
+        "Dark brown / Yellow",
+        "Light brown / Yellow",
+        "Natural / Yellow",
+        "White / Yellow"
+    ],
+    "Study Desk": [
+        "Dark brown",
+        "Light brown",
+        "Natural",
+        "White"
+    ],
+    "Study Poster": [
+        "Alphabet",
+        "Constellations",
+        "Multiplication tables",
+        "Periodic table"
+    ],
+    "Sturdy Sewing Box": [
+        "Black",
+        "Brown",
+        "Dark brown",
+        "Natural",
+        "Navy blue",
+        "White"
+    ],
+    "Surfboard": [
+        "Brown",
+        "Cool",
+        "Hibiscus flowers",
+        "Red",
+        "Stripes",
+        "White"
+    ],
+    "Surveillance Camera": [
+        ""
+    ],
+    "Synthesizer": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red",
+        "Silver",
+        "Yellow"
+    ],
+    "System Kitchen": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Natural",
+        "Off-white",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Table Lamp": [
+        ""
+    ],
+    "Table Setting": [
+        "Black / White",
+        "Light blue / White",
+        "Pink / White",
+        "White / White",
+        "Yellow / White"
+    ],
+    "Table With Cloth": [
+        ""
+    ],
+    "Tankless Toilet": [
+        "Black",
+        "Ivory",
+        "Light blue",
+        "Pink",
+        "White"
+    ],
+    "Tape Deck": [
+        "Black",
+        "Orange",
+        "Silver",
+        "White"
+    ],
+    "Tapestry": [
+        "Animal",
+        "Bird",
+        "Fairy tale",
+        "Floral",
+        "Geometric pattern",
+        "Snow"
+    ],
+    "Tatami Bed": [
+        "Black",
+        "Dark brown",
+        "Light brown",
+        "Natural"
+    ],
+    "Tea Set": [
+        "Blue / Yellow",
+        "Green / Yellow",
+        "Red / Yellow",
+        "White / Yellow"
+    ],
+    "Telescope": [
+        ""
+    ],
+    "Tennis Table": [
+        ""
+    ],
+    "Throwback Container": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Throwback Dino Screen": [
+        ""
+    ],
+    "Throwback Gothic Mirror": [
+        "Black",
+        "Red",
+        "White"
+    ],
+    "Throwback Hat Table": [
+        "Baseball",
+        "Black & orange",
+        "Black & yellow",
+        "Blue",
+        "Green",
+        "Red",
+        "White & blue",
+        "White & red"
+    ],
+    "Throwback Mitt Chair": [
+        "Blue",
+        "Brown",
+        "Camel",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Throwback Race-car Bed": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Throwback Rocket": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Silver",
+        "Yellow"
+    ],
+    "Throwback Skull Radio": [
+        "Ash",
+        "Black",
+        "Gray",
+        "Green",
+        "Red",
+        "White"
+    ],
+    "Throwback Wall Clock": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Throwback Wrestling Figure": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Green",
+        "Pink",
+        "Red"
+    ],
+    "Tin Bucket": [
+        ""
+    ],
+    "Tissue Box": [
+        "Blue",
+        "Natural wood",
+        "Rattan",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Toilet": [
+        "Dark wood",
+        "Natural wood",
+        "White"
+    ],
+    "Toilet-cleaning Set": [
+        "Colorful",
+        "Monotone"
+    ],
+    "Tool Cart": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Silver",
+        "Yellow"
+    ],
+    "Tool Shelf": [
+        "Black",
+        "Blue",
+        "Green",
+        "White"
+    ],
+    "Toolbox": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Turquoise"
+    ],
+    "Toy Box": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink"
+    ],
+    "Traditional Tea Set": [
+        "Floral",
+        "Goldfish",
+        "Plain"
+    ],
+    "Train Set": [
+        "Fall",
+        "Spring",
+        "Summer",
+        "Winter"
+    ],
+    "Treadmill": [
+        "Black",
+        "Blue",
+        "Red",
+        "White"
+    ],
+    "Tricycle": [
+        "Black",
+        "Blue",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "Tv Camera": [
+        "Black",
+        "White"
+    ],
+    "Typewriter": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Gold",
+        "Green",
+        "Silver"
+    ],
+    "Unfinished Puzzle": [
+        ""
+    ],
+    "Upright Locker": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Upright Piano": [
+        "Black",
+        "Maple",
+        "Walnut",
+        "White"
+    ],
+    "Upright Vacuum": [
+        "Black",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Utility Sink": [
+        ""
+    ],
+    "Vacuum Cleaner": [
+        "Black",
+        "Gray",
+        "Green",
+        "Red",
+        "Yellow"
+    ],
+    "Velvet Stool": [
+        ""
+    ],
+    "Ventilation Fan": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "White"
+    ],
+    "Video Camera": [
+        "Black",
+        "Red",
+        "Silver"
+    ],
+    "Vintage Tv Tray": [
+        "Black / Green",
+        "Copper / Green",
+        "Gold / Green",
+        "Silver / Green"
+    ],
+    "Wall Clock": [
+        "Black",
+        "Blue",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Wall Fan": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Wall-mounted Candle": [
+        "Black",
+        "Copper",
+        "Gold",
+        "Silver",
+        "White"
+    ],
+    "Wall-mounted Phone": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Wall-mounted Tool Board": [
+        "Black",
+        "Blue",
+        "Camel",
+        "Red",
+        "White",
+        "Yellow"
+    ],
+    "Wall-mounted Tv (20 In.)": [
+        "Black",
+        "Blue",
+        "Light blue",
+        "Pink",
+        "Red",
+        "Silver",
+        "White",
+        "Yellow"
+    ],
+    "Wall-mounted Tv (50 In.)": [
+        "Black",
+        "Blue",
+        "Red",
+        "Silver",
+        "White"
+    ],
+    "Wasp-head Model": [
+        ""
+    ],
+    "Water Cooler": [
+        "Black",
+        "White"
+    ],
+    "Weight Bench": [
+        ""
+    ],
+    "Wheelchair": [
+        ""
+    ],
+    "Whirlpool Bath": [
+        "Black",
+        "White"
+    ],
+    "Whiteboard": [
+        "Blank",
+        "Brainstorming meeting",
+        "Fact-finding meeting",
+        "Language classroom",
+        "Sales meeting",
+        "Schedule",
+        "Strategy meeting"
+    ],
+    "Wood-burning Stove": [
+        ""
+    ],
+    "World Map": [
+        "Atlantic Ocean",
+        "Pacific Ocean"
+    ],
+    "Yucca": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "White"
+    ],
+    "Yule Log": [
+        ""
+    ],
+    "Zen Cushion": [
+        ""
+    ]
+}
