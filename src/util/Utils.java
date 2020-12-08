@@ -1,3 +1,5 @@
+package util;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -29,6 +31,10 @@ public final class Utils {
         return getRandomInt(list.size());
     }
 
+    public static <T> T getRandomValue(List<T> list) {
+        return list.get(getRandomIndex(list));
+    }
+
     // Returns a random int with exclusive upper bound from range [0, upperBound)
     public static int getRandomInt(final int upperBound) {
         if (upperBound <= 0) {
@@ -36,5 +42,15 @@ public final class Utils {
         }
 
         return RANDOM.nextInt(upperBound);
+    }
+
+    public static <T extends Enum<T>> T enumValueOf(Class<T> enumClass, String name) {
+        try {
+            String enumName = name.toUpperCase().replaceAll("[\\s-]", "_").replaceAll("['.:]", "");
+            return Enum.valueOf(enumClass, enumName);
+        } catch (IllegalArgumentException exception) {
+            System.err.println("Invalid " + enumClass.getCanonicalName() + ": " + name);
+            return null;
+        }
     }
 }

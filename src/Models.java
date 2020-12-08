@@ -1,3 +1,5 @@
+import util.Utils;
+
 import java.util.Scanner;
 
 // Class to print information about missing critters for models
