@@ -80,6 +80,19 @@ class ItemRow:
         # Ex: 'Accessories Stand'
         self.item_name = row_link.text  # type: str
 
+    # Ex: Accessories Stand (Black) -> accessories stand black
+    def get_written_name(self) -> str:
+        item = self.full_item_name
+        item = item.lower()
+        item = item.replace("(", "")
+        item = item.replace(")", "")
+        item = item.replace("-", " ")
+        item = item.replace(" recipe", "")
+        if '/' in item:
+            item = item[:item.rfind('/')]
+        item = item.strip()
+        return item
+
 
 # Holds the username and name of the user's list
 # Gives the appropriate url for the item's list
@@ -90,6 +103,11 @@ class UserList:
 
     def get_url(self) -> str:
         return 'https://villagerdb.com/user/' + self.username + '/list/' + self.list_name
+
+
+def get_all_written_items(user: UserList) -> List[str]:
+    items = get_all_user_items(user)
+    return [item.get_written_name() for item in items]
 
 
 def get_all_user_items(user: UserList) -> List[ItemRow]:

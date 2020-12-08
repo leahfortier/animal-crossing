@@ -1,6 +1,24 @@
-from typing import List
+from typing import List, Set
 
-from scripts.villagerdb.util import UserList, get_all_user_items, ItemRow, ac_folder
+from scripts.villagerdb.util import UserList, ItemRow, ac_folder, get_all_written_items
+
+username = 'dragonair'
+user_lists = ['furniture', 'clothing', 'rugs']
+all_list_items = set()  # Set[str]
+
+
+def get_all_list_items() -> Set[str]:
+    global all_list_items
+    if len(all_list_items) > 0:
+        return all_list_items
+
+    items = []
+    for list_name in user_lists:
+        user = UserList(username, list_name)
+        items = items + get_all_written_items(user)
+
+    all_list_items = set(items)
+    return all_list_items
 
 
 class WishlistUser:
@@ -25,26 +43,18 @@ class WishlistUser:
 
         return items
 
-
-def get_item_name(item: ItemRow) -> str:
-    item = item.full_item_name
-    item = item.lower()
-    item = item.replace("(", "")
-    item = item.replace(")", "")
-    item = item.replace("-", " ")
-    item = item.replace(" recipe", "")
-    if '/' in item:
-        item = item[:item.rfind('/')]
-    item = item.strip()
-    return item
+    def check_missing(self):
+        items = get_all_list_items()
+        missing_items = self.read_file(self.folder + "-missing")
+        overlap = [item for item in missing_items if item in items]
+        for item in overlap:
+            print("NOT MISSING??? " + item)
 
 
 def check_user(user: WishlistUser):
     print(user.user.get_url())
 
-    wishlist_items = get_all_user_items(user.user)  # type: List[ItemRow]
-    wishlist_items = [get_item_name(item) for item in wishlist_items]  # type: List[str]
-
+    wishlist_items = get_all_written_items(user.user)  # type: List[str]
     list_items = user.get_items()  # List[str]
 
     items = set()
@@ -61,6 +71,8 @@ def check_user(user: WishlistUser):
     for item in items:
         if item not in wishlist_items:
             print(item + " not found on wishlist!!")
+
+    user.check_missing()
 
 
 check_user(WishlistUser("summer", UserList('summerbowl', 'wishlist')))

@@ -719,6 +719,13 @@
     "Dinnerware": [
         ""
     ],
+    "Dinosaur Toy": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Green",
+        "Red"
+    ],
     "Director's Chair": [
         "Black / Natural white",
         "Dark brown / Natural white",
@@ -741,6 +748,15 @@
     ],
     "Document Stack": [
         ""
+    ],
+    "Dollhouse": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
     ],
     "Dolly": [
         "Blue",
@@ -1270,6 +1286,16 @@
     "Kettle": [
         ""
     ],
+    "Kids' Tent": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Colorful",
+        "Floral",
+        "Pink",
+        "Stripes",
+        "White"
+    ],
     "Kimono Stand": [
         ""
     ],
@@ -1466,6 +1492,12 @@
         "Green",
         "Red",
         "White"
+    ],
+    "Mini Circuit": [
+        "Black & Silver",
+        "Blue & Yellow",
+        "Pink & Purple",
+        "Red & White"
     ],
     "Mini Fridge": [
         "Black",
@@ -1744,6 +1776,12 @@
         "Dark brown / White",
         "Light brown / White"
     ],
+    "Pop-up Book": [
+        "Flowers",
+        "Savannah",
+        "The Mesozoic World",
+        "The Ocean Blue"
+    ],
     "Pop-up Toaster": [
         "Green",
         "Light blue",
@@ -1804,6 +1842,25 @@
         "Black",
         "Blue",
         "Red"
+    ],
+    "Puppy Plushie": [
+        "Beige",
+        "Black",
+        "Gray & White",
+        "Lemon & White",
+        "Pink",
+        "Red",
+        "Spotted",
+        "Tricolored"
+    ],
+    "RC Helicopter": [
+        "Blue",
+        "Green",
+        "Light Blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
     ],
     "Rattan Armchair": [
         "Black",
@@ -2036,6 +2093,14 @@
         "Red",
         "White",
         "White & silver"
+    ],
+    "Set Of Stockings": [
+        "Chic",
+        "Colorful",
+        "Cool",
+        "Cute",
+        "Elegant",
+        "Natural"
     ],
     "Sewing Machine": [
         "Black",
@@ -2391,6 +2456,16 @@
     ],
     "Tin Bucket": [
         ""
+    ],
+    "Tin Robot": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Red",
+        "Silver",
+        "Yellow"
     ],
     "Tissue Box": [
         "Blue",
