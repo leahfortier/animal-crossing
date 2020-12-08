@@ -1,5 +1,6 @@
 from typing import List, Dict
 
+from scripts.villagerdb.user import furniture_user, craftable_user, alt_furniture_user, alt_craftable_user
 from scripts.villagerdb.util import UserList, get_all_user_items, write_json_file
 
 
@@ -24,5 +25,5 @@ def compare_lists(first_user: UserList, second_user: UserList, extension: str):
     write_json_file("comparison-" + extension + ".txt", compare_map)
 
 
-compare_lists(UserList('dragonair', 'furniture'), UserList('polygonia', 'owned-furniture'), "furniture")
-compare_lists(UserList('dragonair', 'craftable'), UserList('polygonia', 'diys-owned'), "diys")
+compare_lists(furniture_user, alt_furniture_user, "furniture")
+compare_lists(craftable_user, alt_craftable_user, "diys")

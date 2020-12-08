@@ -1,8 +1,7 @@
 from typing import List
 
-from scripts.villagerdb.util import UserList, get_all_user_items, ItemRow, ac_folder, get_all_written_items
-
-free_stuff_list = UserList('dragonair', 'free-stuff')
+from scripts.villagerdb.user import free_stuff_user
+from scripts.villagerdb.util import ac_folder, get_all_written_items
 
 
 def read_file() -> List[str]:
@@ -13,7 +12,7 @@ def read_file() -> List[str]:
 
 
 def compare_free_stuff():
-    free_stuff = get_all_written_items(free_stuff_list)  # type: List[str]
+    free_stuff = get_all_written_items(free_stuff_user)  # type: List[str]
     given_stuff = read_file()  # type: List[str]
 
     for item in free_stuff:

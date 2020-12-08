@@ -1,10 +1,8 @@
 from typing import List
 
-from scripts.villagerdb.util import UserList, get_all_searchable_items, get_all_user_items, SearchItem, \
+from scripts.villagerdb.user import posters_user, wishlist_user
+from scripts.villagerdb.util import get_all_searchable_items, get_all_user_items, SearchItem, \
     read_json_file, write_input_json_file
-
-user = UserList('dragonair', 'posters')
-user_wishlist = UserList('dragonair', 'wishlist')
 
 posters_filename = "all-posters.txt"
 
@@ -34,7 +32,7 @@ def get_missing_npcs():
     write_input_json_file("npc-posters.txt", all_posters)
 
     # Get a list of all posters the user already has and remove any on the npc posters list
-    user_posters = get_all_user_items(user)
+    user_posters = get_all_user_items(posters_user)
     for poster in user_posters:
         if poster.item_name in all_posters:
             all_posters.remove(poster.item_name)
@@ -64,8 +62,8 @@ def get_all_posters() -> List[str]:
 def check_posters():
     all_posters = get_all_posters()
 
-    user_posters = get_all_user_items(user)
-    wishlist_posters = get_all_user_items(user_wishlist)
+    user_posters = get_all_user_items(posters_user)
+    wishlist_posters = get_all_user_items(wishlist_user)
 
     num_obtained = len(user_posters)
     num_needed = len(wishlist_posters)

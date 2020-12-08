@@ -4,6 +4,8 @@ from typing import List, Dict
 import requests
 from lxml import html
 
+from scripts.villagerdb.user import UserList
+
 ac_folder = "/Users/leahfortier/Dropbox/games/animal crossing/"
 
 in_file_path = "in/"
@@ -92,17 +94,6 @@ class ItemRow:
             item = item[:item.rfind('/')]
         item = item.strip()
         return item
-
-
-# Holds the username and name of the user's list
-# Gives the appropriate url for the item's list
-class UserList:
-    def __init__(self, username: str, list_name: str):
-        self.username = username
-        self.list_name = list_name
-
-    def get_url(self) -> str:
-        return 'https://villagerdb.com/user/' + self.username + '/list/' + self.list_name
 
 
 def get_all_written_items(user: UserList) -> List[str]:

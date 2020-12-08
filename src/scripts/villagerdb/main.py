@@ -11,4 +11,5 @@ def check_all():
     compare_free_stuff()
 
 
-check_all()
+if __name__ == '__main__':
+    check_all()

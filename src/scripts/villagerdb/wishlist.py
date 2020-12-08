@@ -1,9 +1,9 @@
 from typing import List, Set
 
-from scripts.villagerdb.util import UserList, ItemRow, ac_folder, get_all_written_items
+from scripts.villagerdb.user import clothing_user, furniture_user, rugs_user
+from scripts.villagerdb.util import UserList, ac_folder, get_all_written_items
 
-username = 'dragonair'
-user_lists = ['furniture', 'clothing', 'rugs']
+user_lists = [furniture_user, clothing_user, rugs_user]  # List[UserList]
 all_list_items = set()  # Set[str]
 
 
@@ -13,8 +13,7 @@ def get_all_list_items() -> Set[str]:
         return all_list_items
 
     items = []
-    for list_name in user_lists:
-        user = UserList(username, list_name)
+    for user in user_lists:
         items = items + get_all_written_items(user)
 
     all_list_items = set(items)
@@ -75,6 +74,7 @@ def check_user(user: WishlistUser):
     user.check_missing()
 
 
-check_user(WishlistUser("summer", UserList('summerbowl', 'wishlist')))
-check_user(WishlistUser("kajsa", UserList('kajsa', 'wishlist')))
-check_user(WishlistUser("peachy", UserList('tsunpeach', 'wishlist')))
+if __name__ == '__main__':
+    check_user(WishlistUser("summer", UserList('summerbowl', 'wishlist')))
+    check_user(WishlistUser("kajsa", UserList('kajsa', 'wishlist')))
+    check_user(WishlistUser("peachy", UserList('tsunpeach', 'wishlist')))

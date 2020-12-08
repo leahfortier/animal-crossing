@@ -1,13 +1,12 @@
 from typing import List
 
-from scripts.villagerdb.util import get_all_variations, UserList, check_items
+from scripts.villagerdb.user import furniture_user
+from scripts.villagerdb.util import get_all_variations, check_items
 
 items_filename = "items.txt"
 completed_filename = "completed.txt"
 missing_filename = "missing.txt"
 progress_filename = "item_progress.txt"
-
-user = UserList('dragonair', 'furniture')
 
 
 # Returns a list of the possible variations the item can have
@@ -49,4 +48,4 @@ def get_variations(extension: str, user_variations: List[str]) -> List[str]:
 
 
 def check_furniture():
-    check_items(user, items_filename, progress_filename, get_variations)
+    check_items(furniture_user, items_filename, progress_filename, get_variations)
