@@ -1,3 +1,7 @@
+# Crendentials and Token
+*credentials.json
+*token.pickle
+
 # Test files
 temp*.txt
 

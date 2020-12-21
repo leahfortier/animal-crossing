@@ -145,6 +145,15 @@
         "Red",
         "White"
     ],
+    "Aran-knit Sweater": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Green",
+        "Orange",
+        "Red",
+        "White"
+    ],
     "Argyle Crew Socks": [
         "Beige",
         "Blue",
@@ -265,6 +274,11 @@
         "Green",
         "Orange",
         "Rainbow"
+    ],
+    "Balmacaan Coat": [
+        "Avocado",
+        "Beige",
+        "Navy blue"
     ],
     "Bandage": [
         ""
@@ -481,6 +495,16 @@
         "Peacock blue",
         "Purple",
         "Red"
+    ],
+    "Boa Skirt": [
+        "Beige",
+        "Blue",
+        "Brown",
+        "Green",
+        "Light blue",
+        "Purple",
+        "Red",
+        "Yellow"
     ],
     "Bobby Socks": [
         "Black",
@@ -780,6 +804,13 @@
         "Navy blue",
         "White"
     ],
+    "Catcher's Mask": [
+        "Green",
+        "Navy blue",
+        "Orange",
+        "Red",
+        "Yellow"
+    ],
     "Caterpillar Costume": [
         "Green",
         "Rainbow",
@@ -908,6 +939,13 @@
     "Clover Dress": [
         "Dark green",
         "Green"
+    ],
+    "Coatigan": [
+        "Gray",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple"
     ],
     "Collarless Coat": [
         "Beige",
@@ -1113,6 +1151,12 @@
     ],
     "Cucumber Pack": [
         ""
+    ],
+    "Cuffed Pants": [
+        "Brown",
+        "Gray",
+        "Green",
+        "Purple"
     ],
     "Culottes": [
         "Green",
@@ -1364,6 +1408,10 @@
         "Black",
         "Gray"
     ],
+    "Dotted Shower Cap": [
+        "Blue",
+        "Pink"
+    ],
     "Double-bridge Glasses": [
         "Blue",
         "Gold",
@@ -1385,6 +1433,12 @@
         "Red",
         "White",
         "Yellow"
+    ],
+    "Down Ski Jacket": [
+        "Blue & green",
+        "Navy & blue",
+        "Navy & red",
+        "Red & yellow"
     ],
     "Down Skirt": [
         "Black",
@@ -1681,6 +1735,9 @@
         "Red",
         "White"
     ],
+    "Festive Dress": [
+        ""
+    ],
     "Festive-tree Dress": [
         "Gold",
         "Green & blue",
@@ -1690,6 +1747,15 @@
         "Silver"
     ],
     "Figure-skating Costume": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Figure-skating Dress": [
         "Black",
         "Blue",
         "Green",
@@ -1885,6 +1951,21 @@
         "Purple",
         "Ruby red"
     ],
+    "Floral Lace Skirt": [
+        "Black",
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Ruby red"
+    ],
+    "Floral Skirt": [
+        "Light blue",
+        "Pink",
+        "Yellow"
+    ],
     "Flower Sandals": [
         "Black",
         "Blue",
@@ -1926,6 +2007,9 @@
         "Red"
     ],
     "Folk-dance Outfit": [
+        ""
+    ],
+    "Food Mess": [
         ""
     ],
     "Football Helmet": [
@@ -1978,6 +2062,12 @@
     "Fox Mask": [
         "Black",
         "White"
+    ],
+    "Frilly Dress": [
+        "Brown",
+        "Green",
+        "Pink",
+        "Yellow"
     ],
     "Frilly Pants": [
         "Blue",
@@ -2202,6 +2292,12 @@
         "Purple",
         "Red"
     ],
+    "Gown Coat": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Red"
+    ],
     "Graduation Gown": [
         "Blue",
         "Green",
@@ -2289,6 +2385,12 @@
     "Handlebar Mustache": [
         ""
     ],
+    "Hanten Jacket": [
+        "Brown",
+        "Dark blue",
+        "Green",
+        "Purple"
+    ],
     "Happi Tee": [
         "Black",
         "Blue",
@@ -2300,6 +2402,9 @@
         "Blue",
         "Red",
         "Silver"
+    ],
+    "Hawk Jacket": [
+        ""
     ],
     "Headband": [
         "Blue",
@@ -2330,6 +2435,10 @@
         "Pink",
         "Purple",
         "Yellow"
+    ],
+    "Heart Sweater": [
+        "Pink",
+        "Red"
     ],
     "Heavy-duty Shirt": [
         "Blue",
@@ -2979,6 +3088,16 @@
         "Brown",
         "Purple"
     ],
+    "Long Sailor Skirt": [
+        "Brown",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
     "Loose Fall Dress": [
         "Blue",
         "Orange",
@@ -3174,6 +3293,15 @@
         "Pink",
         "Purple",
         "Red"
+    ],
+    "Moccasin Boots": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Camel",
+        "Olive",
+        "Orange",
+        "Pink"
     ],
     "Moccasins": [
         "Black",
@@ -3556,6 +3684,9 @@
     "Paper Bag": [
         ""
     ],
+    "Paper Parasol": [
+        ""
+    ],
     "Paperboy Cap": [
         "Blue",
         "Brown",
@@ -3583,6 +3714,17 @@
         "Navy blue",
         "Yellow"
     ],
+    "Patched-knee Pants": [
+        "Brown",
+        "Green",
+        "Purple",
+        "Yellow"
+    ],
+    "Patchwork Coat": [
+        "Brown",
+        "Gray",
+        "Green"
+    ],
     "Patchwork Skirt": [
         "Blue",
         "Green",
@@ -3607,6 +3749,12 @@
         "Brown",
         "Pink",
         "White"
+    ],
+    "Peacoat": [
+        "Beige",
+        "Gray",
+        "Navy blue",
+        "Red"
     ],
     "Pearl Skirt": [
         ""
@@ -3801,6 +3949,11 @@
         "Gray",
         "Green"
     ],
+    "Plover Skirt": [
+        "Black",
+        "Green",
+        "Red"
+    ],
     "Plushie-muffler Coat": [
         "Gray",
         "Orange",
@@ -3842,6 +3995,15 @@
         "Green",
         "Red",
         "White"
+    ],
+    "Pom-pom Boots": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
     ],
     "Pom-pom Sweater": [
         "Blue",
@@ -3951,6 +4113,13 @@
     "Purple Chic Umbrella": [
         ""
     ],
+    "Quilted Down Jacket": [
+        "Gray",
+        "Green",
+        "Navy blue",
+        "Olive",
+        "Purple"
+    ],
     "Quilted Jacket": [
         "Blue",
         "Brown",
@@ -4054,6 +4223,17 @@
     "Reflector": [
         ""
     ],
+    "Reindeer Costume": [
+        ""
+    ],
+    "Reindeer Hat": [
+        ""
+    ],
+    "Reindeer Sweater": [
+        "Brown",
+        "Green",
+        "Red"
+    ],
     "Relay Tank": [
         "Black",
         "Blue",
@@ -4085,6 +4265,12 @@
         "Light blue",
         "Pink",
         "Yellow"
+    ],
+    "Retro Coat": [
+        "Blue",
+        "Green",
+        "Mustard",
+        "Red"
     ],
     "Retro Dress": [
         "Black",
@@ -4306,6 +4492,18 @@
         "Red",
         "White"
     ],
+    "Santa Beard": [
+        ""
+    ],
+    "Santa Coat": [
+        ""
+    ],
+    "Santa Hat": [
+        ""
+    ],
+    "Santa Pants": [
+        ""
+    ],
     "Sari": [
         "Amethyst",
         "Aquamarine",
@@ -4452,6 +4650,11 @@
         "Black",
         "Light blue"
     ],
+    "Shirtdress": [
+        "Beige",
+        "Navy blue",
+        "Olive"
+    ],
     "Short Peacoat": [
         "Beige",
         "Black",
@@ -4577,12 +4780,28 @@
     "Skeleton Hood": [
         ""
     ],
+    "Ski Goggles": [
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "White",
+        "Yellow"
+    ],
     "Ski Mask": [
         "Black",
         "Blue",
         "Green",
         "Lime",
         "Red"
+    ],
+    "Ski Pants": [
+        "Blue",
+        "Light blue",
+        "Red",
+        "Ruby red",
+        "Turquoise",
+        "Yellow"
     ],
     "Skirt With Suspenders": [
         "Blue",
@@ -4727,6 +4946,11 @@
         "Pink",
         "Red",
         "White"
+    ],
+    "Snowy Sweater": [
+        "Black",
+        "Blue",
+        "Gray"
     ],
     "Soccer Shorts": [
         "Black",
@@ -5007,6 +5231,12 @@
         "Green",
         "Navy blue",
         "Purple",
+        "Red",
+        "Yellow"
+    ],
+    "Striped Shorts": [
+        "Blue",
+        "Pink",
         "Red",
         "Yellow"
     ],
@@ -5398,6 +5628,13 @@
         "Navy blue",
         "Red",
         "White"
+    ],
+    "Traditional Flower Shoes": [
+        "Blue",
+        "Lime",
+        "Pink",
+        "Red",
+        "Yellow"
     ],
     "Traditional Monpe Pants": [
         "Blue",
@@ -5791,6 +6028,11 @@
         "Beige",
         "Light blue",
         "Navy blue"
+    ],
+    "Workout Pants": [
+        "Lime",
+        "Orange",
+        "Pink"
     ],
     "Workout Top": [
         "Lime",

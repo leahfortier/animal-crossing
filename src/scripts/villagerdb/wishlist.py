@@ -3,8 +3,8 @@ from typing import List, Set
 from scripts.villagerdb.user import clothing_user, furniture_user, rugs_user
 from scripts.villagerdb.util import UserList, ac_folder, get_all_written_items
 
-user_lists = [furniture_user, clothing_user, rugs_user]  # List[UserList]
-all_list_items = set()  # Set[str]
+user_lists = [furniture_user, clothing_user, rugs_user]  # type: List[UserList]
+all_list_items = set()  # type: Set[str]
 
 
 def get_all_list_items() -> Set[str]:
@@ -54,7 +54,7 @@ def check_user(user: WishlistUser):
     print(user.user.get_url())
 
     wishlist_items = get_all_written_items(user.user)  # type: List[str]
-    list_items = user.get_items()  # List[str]
+    list_items = user.get_items()  # type: List[str]
 
     items = set()
     for item in list_items:

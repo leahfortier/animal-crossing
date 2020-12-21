@@ -1,10 +1,11 @@
 from typing import List
 
 from scripts.villagerdb.user import clothing_user
-from scripts.villagerdb.util import get_all_variations, UserList, check_items
+from scripts.villagerdb.util import get_all_variations, check_items
 
 clothing_filename = "clothing.txt"
-progress_filename = "clothing_progress.txt"
+clothing_progress_filename = "clothing_progress.txt"
+
 
 def get_variations(extension: str, user_variations: List[str]) -> List[str]:
     # List of all variations
@@ -22,4 +23,4 @@ def get_variations(extension: str, user_variations: List[str]) -> List[str]:
 
 
 def check_clothing():
-    check_items(clothing_user, clothing_filename, progress_filename, get_variations)
+    check_items(clothing_user, clothing_filename, clothing_progress_filename, get_variations)

@@ -29,6 +29,10 @@ def read_json_file(filename: str, file_path=in_file_path, default=None):
         return default
 
 
+def read_json_out_file(filename: str):
+    return read_json_file(filename, file_path=out_file_path)
+
+
 def write_input_json_file(filename: str, json_data):
     write_json_file(filename, json_data, file_path=in_file_path)
 
@@ -55,6 +59,20 @@ def get_all_variations(extension: str) -> List[str]:
 
     # List of all variations
     return list(json.loads(variations_json).values())
+
+
+# Ex: Accessories Stand (Black) -> accessories stand black
+def get_written_name(full_item_name: str) -> str:
+    item = full_item_name.strip()
+    item = item.lower()
+    item = item.replace("(", "")
+    item = item.replace(")", "")
+    item = item.replace("-", " ")
+    item = item.replace(" recipe", "")
+    if '/' in item:
+        item = item[:item.rfind('/')]
+    item = item.strip()
+    return item
 
 
 class Item:
@@ -84,16 +102,7 @@ class ItemRow:
 
     # Ex: Accessories Stand (Black) -> accessories stand black
     def get_written_name(self) -> str:
-        item = self.full_item_name
-        item = item.lower()
-        item = item.replace("(", "")
-        item = item.replace(")", "")
-        item = item.replace("-", " ")
-        item = item.replace(" recipe", "")
-        if '/' in item:
-            item = item[:item.rfind('/')]
-        item = item.strip()
-        return item
+        return get_written_name(self.full_item_name)
 
 
 def get_all_written_items(user: UserList) -> List[str]:
@@ -227,7 +236,7 @@ def check_items(user: UserList, items_filename: str, progress_filename: str, get
         user_variations = user_items[item_name].variations
         progress_map[item_name] = get_item_progress(all_variations, user_variations)
 
-    prev_progress_map = read_json_file(progress_filename, file_path=out_file_path)
+    prev_progress_map = read_json_out_file(progress_filename)
 
     just_added = []
     just_completed = []
