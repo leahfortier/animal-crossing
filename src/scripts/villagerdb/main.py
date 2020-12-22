@@ -8,7 +8,6 @@ def check_all():
     check_posters()
     check_furniture()
     check_clothing()
-    compare_free_stuff()
 
 
 if __name__ == '__main__':

@@ -386,6 +386,12 @@
         "Brown",
         "Pink"
     ],
+    "Bear Costume": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Pink"
+    ],
     "Bear Tee": [
         ""
     ],
@@ -5498,6 +5504,12 @@
         "Pink",
         "Purple"
     ],
+    "Terry-cloth Shorts": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple"
+    ],
     "Text Shirt": [
         "Black",
         "Red",
@@ -5809,6 +5821,13 @@
         "Orange",
         "Pink",
         "Purple"
+    ],
+    "Velour Boots": [
+        "Blue",
+        "Brown",
+        "Gray",
+        "Mustard",
+        "Ruby red"
     ],
     "Vertical-stripes Shirt": [
         "Beige",

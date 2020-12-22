@@ -1,5 +1,5 @@
 import json
-from typing import List, Dict
+from typing import List, Dict, IO
 
 import requests
 from lxml import html
@@ -12,20 +12,34 @@ in_file_path = "in/"
 out_file_path = ac_folder + "villagerdb/"
 
 
+def open_file(filename: str, file_path: str) -> IO:
+    path = file_path + filename
+    try:
+        return open(path, "r")
+    except IOError:
+        # File does not exist
+        print("could not open " + path)
+
+
+def read_file(filename: str, file_path=in_file_path) -> List[str]:
+    f: IO = open_file(filename, file_path)
+    contents: List[str] = f.readlines()
+    f.close()
+    return contents
+
+
 # Opens the specified file and reads the json string contents into a map
 def read_json_file(filename: str, file_path=in_file_path, default=None):
     if default is None:
         default = {}
 
-    path = file_path + filename
-    try:
-        f = open(path, "r")
+    f = open_file(filename, file_path)
+    if f:
         json_data = json.load(f)
         f.close()
         return json_data
-    except IOError:
+    else:
         # Okay if file doesn't exist, just print and create a new map
-        print("could not open " + path)
         return default
 
 
@@ -68,6 +82,7 @@ def get_written_name(full_item_name: str) -> str:
     item = item.replace("(", "")
     item = item.replace(")", "")
     item = item.replace("-", " ")
+    item = item.replace("'", " ")
     item = item.replace(" recipe", "")
     if '/' in item:
         item = item[:item.rfind('/')]
@@ -216,15 +231,15 @@ def print_items(title: str, item_list: List[str]):
 
 def check_items(user: UserList, items_filename: str, progress_filename: str, get_variations):
     # Load the variations map so don't need to look up every time
-    item_map = read_json_file(items_filename)
+    item_map: Dict[str, List[str]] = read_json_file(items_filename)
 
     # Holds the variations of items the user has
-    user_items = get_user_variations(user)  # type: Dict[str, Item]
+    user_items: Dict[str, Item] = get_user_variations(user)
 
     for item_name in user_items:
         # If item not in map yet, load all possible variations of it and store
         if item_name not in item_map:
-            item = user_items[item_name]
+            item: Item = user_items[item_name]
             item_map[item_name] = get_variations(item.extension, item.variations)
 
     # Output any new items to same file

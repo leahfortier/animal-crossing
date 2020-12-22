@@ -1,0 +1,60 @@
+	Missing:	23
+	Total:	57
+Toy Name	Colors	34
+Dinosaur Toy	Gray	1
+Dinosaur Toy	Brown	1
+Dinosaur Toy	Green	1
+Dinosaur Toy	Blue	0
+Dinosaur Toy	Red	1
+Dollhouse	Red	0
+Dollhouse	Brown	0
+Dollhouse	Blue	1
+Dollhouse	Orange	0
+Dollhouse	Green	1
+Dollhouse	Pink	0
+Dollhouse	Purple	1
+Kids’ Tent	White	0
+Kids’ Tent	Pink	1
+Kids’ Tent	Black	1
+Kids’ Tent	Stripes	0
+Kids’ Tent	Floral	1
+Kids’ Tent	Blue	0
+Kids’ Tent	Brown	0
+Kids’ Tent	Colorful	0
+Mini Circuit	Red and White	1
+Mini Circuit	Blue and Yellow	1
+Mini Circuit	Black and Silver	1
+Mini Circuit	Pink and Purple	1
+Pop-Up Book	The Ocean Blue	1
+Pop-Up Book	The Mesozoic World	1
+Pop-Up Book	Savannah	0
+Pop-Up Book	Flowers	1
+Puppy Plushie	Beige	1
+Puppy Plushie	Red	1
+Puppy Plushie	Lemon and White	0
+Puppy Plushie	Spotted	0
+Puppy Plushie	Black	1
+Puppy Plushie	Tri-Colored	1
+Puppy Plushie	Gray and White	1
+Puppy Plushie	Pink	0
+RC Helicopter	Blue	0
+RC Helicopter	Red	1
+RC Helicopter	Yellow	0
+RC Helicopter	Green	1
+RC Helicopter	Pink	0
+RC Helicopter	Light Blue	1
+RC Helicopter	Purple	1
+Tin Robot	Silver	1
+Tin Robot	Blue	0
+Tin Robot	Red	0
+Tin Robot	Orange	0
+Tin Robot	Yellow	1
+Tin Robot	Green	0
+Tin Robot	Pink	1
+Tin Robot	Black	0
+Set of Stockings	Cute	1
+Set of Stockings	Cool	1
+Set of Stockings	Colorful	1
+Set of Stockings	Chic	0
+Set of Stockings	Nature	1
+Set of Stockings	Elegant	1

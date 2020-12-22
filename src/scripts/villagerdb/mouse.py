@@ -20,3 +20,7 @@ def compare_free_stuff():
             print("ALREADY GIVEN: " + item)
         # else:
         #     print(item)
+
+
+if __name__ == '__main__':
+    compare_free_stuff()
