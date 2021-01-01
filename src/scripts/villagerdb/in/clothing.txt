@@ -591,6 +591,12 @@
         "Red",
         "Yellow"
     ],
+    "Box-pleated Skirt": [
+        "Beige",
+        "Green",
+        "Light blue",
+        "Red"
+    ],
     "Box-skirt Uniform": [
         "Black",
         "Brown",
@@ -1456,6 +1462,9 @@
         "White",
         "Yellow"
     ],
+    "Dragon Jacket": [
+        ""
+    ],
     "Dragon Suit": [
         ""
     ],
@@ -1704,6 +1713,13 @@
         "Pink",
         "Red",
         "White"
+    ],
+    "Faux-fur Skirt": [
+        "Light blue",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
     ],
     "Faux-hair Sweater": [
         "Red",
@@ -2209,6 +2225,13 @@
         "Brown",
         "Gray",
         "Pink"
+    ],
+    "Geometric-print Pants": [
+        "Blue",
+        "Brown",
+        "Navy blue",
+        "Orange",
+        "Red"
     ],
     "Geometric-print Socks": [
         "Beige",
@@ -4769,6 +4792,13 @@
         "Red",
         "White"
     ],
+    "Simple-dots Dress": [
+        "Black",
+        "Green",
+        "Light blue",
+        "Red",
+        "Yellow"
+    ],
     "Simple-dots Tee": [
         "Black",
         "Green",
@@ -5420,6 +5450,11 @@
         "White",
         "Yellow"
     ],
+    "Tabi": [
+        "Black",
+        "Navy blue",
+        "White"
+    ],
     "Tailcoat": [
         "Black",
         "White"
@@ -5510,6 +5545,15 @@
         "Pink",
         "Purple"
     ],
+    "Terry-cloth Socks": [
+        "Beige",
+        "Blue",
+        "Gray",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red"
+    ],
     "Text Shirt": [
         "Black",
         "Red",
@@ -5556,6 +5600,13 @@
     ],
     "Tie-dye Shirt": [
         ""
+    ],
+    "Tie-dye Skirt": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Purple",
+        "Red"
     ],
     "Tiered Skirt": [
         "Avocado",
@@ -5790,6 +5841,9 @@
         "Monotone",
         "Red",
         "Yellow"
+    ],
+    "Two-tone Umbrella": [
+        ""
     ],
     "Ultra No-show Socks": [
         "Black",

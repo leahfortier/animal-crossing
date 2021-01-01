@@ -7,15 +7,15 @@ peachy_toys_file = "peachy-toys.txt"
 MissingMap: Type = Dict[str, List[str]]
 
 dee_missing: MissingMap = {
-    'Dinosaur Toy': ['Gray', 'Blue'],
-    'Dollhouse': ['Red', 'Orange', 'Pink'],
-    'Kids\' Tent': ['Stripes', 'Blue'],
+    'Dinosaur Toy': [],
+    'Dollhouse': ['Pink'],
+    'Kids\' Tent': [],
     'Mini Circuit': [],
     'Pop-up Book': [],
-    'Puppy Plushie': ['Lemon and White', 'Spotted', 'Gray and White', 'Pink'],
-    'RC Helicopter': ['Blue', 'Yellow', 'Pink'],
-    'Set Of Stockings': ['Cool', 'Chic'],
-    'Tin Robot': ['Blue', 'Red', 'Orange', 'Black'],
+    'Puppy Plushie': ['Pink'],
+    'RC Helicopter': ['Yellow'],
+    'Set Of Stockings': ['Chic'],
+    'Tin Robot': ['Orange', 'Black'],
 }
 
 
@@ -86,9 +86,11 @@ def compare_toys(name: str, their_missing: MissingMap):
 
 
 def print_missing():
+    progress_map = read_json_out_file(items_progress_filename)
+
     missing_toys: Dict[str, List[str]] = get_missing()
     for toy_name in missing_toys:
-        print(toy_name, missing_toys[toy_name])
+        print(toy_name, progress_map[toy_name]["total"], missing_toys[toy_name])
 
 
 if __name__ == '__main__':

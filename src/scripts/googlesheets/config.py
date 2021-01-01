@@ -4,7 +4,7 @@ from typing import Dict, Set, List, Type
 from scripts.googlesheets.data import get_all_items, DataRow
 from scripts.googlesheets.util import print_totals, Strings, get_strs
 from scripts.villagerdb.user import UserList
-from scripts.villagerdb.util import get_written_name, read_json_out_file, get_all_written_items
+from scripts.villagerdb.util import get_written_name, read_json_out_file
 
 
 class MissingFreq:
@@ -73,7 +73,7 @@ class FreqConfig(Config):
 # Each row of the sheet should be of type data_type and filtering conditions should occur there as well
 # Config objects handle extra things that can be happening if you want but honestly they're dumb
 def check_items(user_list: UserList, tabs: Strings, data_type: Type, config: Config = PrintConfig()) -> None:
-    user_items = set(get_all_written_items(user_list))  # type: Set[str]
+    user_items = set(user_list.get_all_written_items())  # type: Set[str]
     all_items = get_all_items(data_type, get_strs(tabs))  # type: List[DataRow]
 
     total_missing = 0

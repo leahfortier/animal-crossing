@@ -82,7 +82,7 @@ def get_written_name(full_item_name: str) -> str:
     item = item.replace("(", "")
     item = item.replace(")", "")
     item = item.replace("-", " ")
-    item = item.replace("'", " ")
+    item = item.replace("s' ", "s ")
     item = item.replace(" recipe", "")
     if '/' in item:
         item = item[:item.rfind('/')]
@@ -107,22 +107,17 @@ class ItemRow:
         row_link = row.xpath('div/div/a[2]')[0]
 
         # Ex: '/item/accessories-stand'
-        self.extension = row_link.get('href')  # type: str
+        self.extension: str = row_link.get('href')
 
         # Ex: 'Accessories Stand (Black)'
-        self.full_item_name = row.get('data-name')  # type: str
+        self.full_item_name: str = row.get('data-name')
 
         # Ex: 'Accessories Stand'
-        self.item_name = row_link.text  # type: str
+        self.item_name: str = row_link.text
 
     # Ex: Accessories Stand (Black) -> accessories stand black
     def get_written_name(self) -> str:
         return get_written_name(self.full_item_name)
-
-
-def get_all_written_items(user: UserList) -> List[str]:
-    items = get_all_user_items(user)
-    return [item.get_written_name() for item in items]
 
 
 def get_all_user_items(user: UserList) -> List[ItemRow]:

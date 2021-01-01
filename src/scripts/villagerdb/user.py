@@ -1,3 +1,6 @@
+from typing import List
+
+
 # Holds the username and name of the user's list
 # Gives the appropriate url for the item's list
 class UserList:
@@ -7,6 +10,24 @@ class UserList:
 
     def get_url(self) -> str:
         return 'https://villagerdb.com/user/' + self.username + '/list/' + self.list_name
+
+    def get_all_written_items(self) -> List[str]:
+        from scripts.villagerdb.util import get_all_user_items
+        items = get_all_user_items(self)
+        return [item.get_written_name() for item in items]
+
+
+# Note: Tried to write a parser to read wishlists from nookazon, but it's all behind javascript :/
+class NookazonUser(UserList):
+    def __init__(self, user_id: str, username: str):
+        super().__init__(username, 'wishlist')
+        self.user_id = user_id
+
+    def get_url(self) -> str:
+        return 'https://nookazon.com/profile/' + self.user_id + '/' + self.list_name
+
+    def get_all_written_items(self) -> List[str]:
+        return []
 
 
 clothing_user = UserList('dragonair', 'clothing')
