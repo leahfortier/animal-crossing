@@ -1,7 +1,7 @@
 from typing import List
 
 from scripts.villagerdb.user import furniture_user
-from scripts.villagerdb.util import get_all_variations, check_items
+from scripts.villagerdb.util import get_all_variations, update_progress
 
 items_filename = "items.txt"
 items_progress_filename = "item_progress.txt"
@@ -46,4 +46,4 @@ def get_variations(extension: str, user_variations: List[str]) -> List[str]:
 
 
 def check_furniture():
-    check_items(furniture_user, items_filename, items_progress_filename, get_variations)
+    update_progress(furniture_user, items_filename, items_progress_filename, get_variations)
