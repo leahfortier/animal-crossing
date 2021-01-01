@@ -1,7 +1,8 @@
 from typing import List, Dict
 
-from scripts.user import furniture_user, craftable_user, alt_furniture_user, alt_craftable_user
-from scripts.villagerdb.util import UserList, get_all_user_items, write_json_file
+from scripts.util.io import write_json_file
+from scripts.util.user import furniture_user, craftable_user, alt_furniture_user, alt_craftable_user
+from scripts.item.villagerdb import UserList, get_all_user_items
 
 
 def get_all_items(user: UserList) -> List[str]:

@@ -4,7 +4,7 @@ from typing import List, IO
 
 ac_folder = "/Users/leahfortier/Dropbox/games/animal crossing/"
 
-in_file_path = "in/"
+in_file_path = "../in/"
 out_file_path = ac_folder + "villagerdb/"
 
 

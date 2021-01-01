@@ -1,15 +1,22 @@
 from typing import List
 
-from scripts.user import posters_user, wishlist_user
-from scripts.villagerdb.util import get_all_searchable_items, get_all_user_items, SearchItem, \
-    read_json_file, write_input_json_file
+from scripts.item.villagerdb import get_all_user_items
+from scripts.util.io import write_input_json_file, read_json_file
+from scripts.util.user import posters_user, wishlist_user
 
 posters_filename = "all-posters.txt"
 
 
+# TODO: removed search stuff -- use sheet instead
 def get_all_villagers() -> List[str]:
-    villagers = get_all_searchable_items('villagers/', '')  # type: List[SearchItem]
-    return [villager.item_name for villager in villagers]
+    # villagers = get_all_searchable_items('villagers/', '')  # type: List[SearchItem]
+    # return [villager.item_name for villager in villagers]
+    return []
+
+
+# TODO see above
+def get_all_searchable_items(param, param1):
+    return [param, param1]
 
 
 def get_missing_npcs():

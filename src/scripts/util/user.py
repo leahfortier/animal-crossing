@@ -12,7 +12,7 @@ class UserList:
         return 'https://villagerdb.com/user/' + self.username + '/list/' + self.list_name
 
     def get_all_written_items(self) -> List[str]:
-        from scripts.villagerdb.util import get_all_user_items
+        from scripts.item.villagerdb import get_all_user_items
         items = get_all_user_items(self)
         return [item.get_written_name() for item in items]
 

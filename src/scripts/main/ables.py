@@ -1,13 +1,15 @@
 from typing import List
 
-from scripts.googlesheets.data import DataRow
-from scripts.googlesheets.sheets import Data, ables_tabs
-from scripts.googlesheets.config import check_items, Strings, FreqConfig
+from scripts.analysis.config import check_items, Strings, FreqConfig
+from scripts.analysis.data import DataRow
 from scripts.progress.clothing import clothing_progress_filename
-from scripts.user import clothing_user
+from scripts.util.sheets import Data, ables_tabs
 
 
 # Represents a single row of data from any of the clothing sheets
+from scripts.util.user import clothing_user
+
+
 class ClothingRow(DataRow):
     def __init__(self, data: Data, row: List[str]):
         super().__init__(True, data, row)

@@ -1,9 +1,9 @@
 from typing import List
 
-from scripts.googlesheets.config import check_items
-from scripts.googlesheets.data import DataRow, SourceRow
-from scripts.googlesheets.sheets import Data
-from scripts.user import clothing_user, craftable_user, walls_floors_user, rugs_user
+from scripts.analysis.config import check_items
+from scripts.analysis.data import DataRow, SourceRow
+from scripts.util.sheets import Data
+from scripts.util.user import clothing_user, craftable_user, walls_floors_user, rugs_user
 
 
 class NooksRow(SourceRow):

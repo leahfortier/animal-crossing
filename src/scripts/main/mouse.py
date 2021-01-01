@@ -1,7 +1,7 @@
 from typing import List
 
-from scripts.user import free_stuff_user
-from scripts.villagerdb.util import ac_folder
+from scripts.util.io import ac_folder
+from scripts.util.user import free_stuff_user
 
 
 def read_file() -> List[str]:

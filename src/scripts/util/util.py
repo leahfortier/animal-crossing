@@ -1,4 +1,14 @@
-from typing import List
+from typing import List, Type, Union
+
+# A type to represent either a single string or a list of strings
+Strings: Type = Union[str, List[str]]
+
+
+# Converts the Strings object into a List
+def get_strs(s: Strings) -> List[str]:
+    if type(s) == str:
+        return [s]
+    return s
 
 
 # Ex: Accessories Stand (Black) -> accessories stand black
@@ -22,3 +32,11 @@ def print_items(title: str, item_list: List[str]):
         for item_name in item_list:
             print("\t", item_name)
         print()
+
+
+def print_totals(total_missing: int, total_items: int) -> None:
+    if total_items == 0:
+        print("No matches for that condition.")
+    else:
+        percentage = 100 * (total_items - total_missing) / total_items
+        print("\n{0}/{1} Missing -- {2:.2f}% Complete".format(total_missing, total_items, percentage))
