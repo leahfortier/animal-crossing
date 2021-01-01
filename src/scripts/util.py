@@ -1,5 +1,6 @@
 from typing import List
 
+
 # Ex: Accessories Stand (Black) -> accessories stand black
 def get_written_name(full_item_name: str) -> str:
     item = full_item_name.strip()

@@ -2,7 +2,7 @@ from typing import List, Dict
 
 from scripts.db_item import get_user_variations, Item
 from scripts.util import print_items
-from scripts.villagerdb.io import write_json_file, read_json_file, write_input_json_file, read_json_out_file
+from scripts.io import write_json_file, read_json_file, write_input_json_file, read_json_out_file
 from scripts.villagerdb.user import UserList
 
 
