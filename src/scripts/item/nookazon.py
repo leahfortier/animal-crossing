@@ -1,6 +1,6 @@
 from typing import List
 
-from scripts.villagerdb.util import get_written_name
+from scripts.item.villagerdb import get_written_name
 
 
 class NookazonItem:

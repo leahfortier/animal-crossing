@@ -1,9 +1,10 @@
-from typing import List, Set, TextIO, Dict
+from typing import List, Set, Dict, TextIO
 
-from scripts.nookazon.util import read_nookazon_file, NookazonItem, get_rotated_names
-from scripts.villagerdb.user import clothing_user, furniture_user, rugs_user, walls_floors_user, NookazonUser, \
+from scripts.item.nookazon import read_nookazon_file, NookazonItem, get_rotated_names
+from scripts.item.villagerdb import UserList, get_written_name
+from scripts.util.io import ac_folder
+from scripts.util.user import clothing_user, furniture_user, rugs_user, walls_floors_user, NookazonUser, \
     craftable_user, free_stuff_user
-from scripts.villagerdb.util import UserList, ac_folder, get_written_name
 
 owned_lists = [furniture_user, clothing_user, rugs_user, walls_floors_user, craftable_user]  # type: List[UserList]
 all_owned_items = set()  # type: Set[str]

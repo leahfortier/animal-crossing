@@ -1,7 +1,8 @@
 from typing import List
 
-from scripts.villagerdb.user import clothing_user
-from scripts.villagerdb.util import get_all_variations, check_items
+from scripts.progress.progress import update_progress
+from scripts.util.user import clothing_user
+from scripts.item.villagerdb import get_all_variations
 
 clothing_filename = "clothing.txt"
 clothing_progress_filename = "clothing_progress.txt"
@@ -23,4 +24,4 @@ def get_variations(extension: str, user_variations: List[str]) -> List[str]:
 
 
 def check_clothing():
-    check_items(clothing_user, clothing_filename, clothing_progress_filename, get_variations)
+    update_progress(clothing_user, clothing_filename, clothing_progress_filename, get_variations)
