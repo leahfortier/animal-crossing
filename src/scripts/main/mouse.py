@@ -1,6 +1,6 @@
 from typing import List
 
-from scripts.villagerdb.user import free_stuff_user
+from scripts.user import free_stuff_user
 from scripts.villagerdb.util import ac_folder
 
 

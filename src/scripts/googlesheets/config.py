@@ -3,7 +3,7 @@ from typing import Dict, Set, List, Type
 
 from scripts.googlesheets.data import get_all_items, DataRow
 from scripts.googlesheets.util import print_totals, Strings, get_strs
-from scripts.villagerdb.user import UserList
+from scripts.user import UserList
 from scripts.villagerdb.util import get_written_name, read_json_out_file
 
 

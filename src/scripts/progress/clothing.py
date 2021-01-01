@@ -1,6 +1,6 @@
 from typing import List
 
-from scripts.villagerdb.user import clothing_user
+from scripts.user import clothing_user
 from scripts.villagerdb.util import get_all_variations, update_progress
 
 clothing_filename = "clothing.txt"

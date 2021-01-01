@@ -1,10 +1,10 @@
 from typing import List
 
-from scripts.googlesheets.data import DataRow, get_all_items
+from scripts.googlesheets.data import DataRow
 from scripts.googlesheets.sheets import Data, ables_tabs
 from scripts.googlesheets.config import check_items, Strings, FreqConfig
-from scripts.villagerdb.clothing import clothing_progress_filename
-from scripts.villagerdb.user import clothing_user
+from scripts.progress.clothing import clothing_progress_filename
+from scripts.user import clothing_user
 
 
 # Represents a single row of data from any of the clothing sheets

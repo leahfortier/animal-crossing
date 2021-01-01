@@ -1,6 +1,6 @@
 from typing import List, Dict
 
-from scripts.villagerdb.user import furniture_user, craftable_user, alt_furniture_user, alt_craftable_user
+from scripts.user import furniture_user, craftable_user, alt_furniture_user, alt_craftable_user
 from scripts.villagerdb.util import UserList, get_all_user_items, write_json_file
 
 

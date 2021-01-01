@@ -1,6 +1,6 @@
-from scripts.villagerdb.clothing import check_clothing
-from scripts.villagerdb.furniture import check_furniture
-from scripts.villagerdb.posters import check_posters
+from scripts.progress.clothing import check_clothing
+from scripts.progress.furniture import check_furniture
+from scripts.progress.posters import check_posters
 
 
 def check_all():

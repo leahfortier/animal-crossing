@@ -1,7 +1,7 @@
 from typing import List, Set, TextIO, Dict
 
-from scripts.nookazon.util import read_nookazon_file, NookazonItem, get_rotated_names
-from scripts.villagerdb.user import clothing_user, furniture_user, rugs_user, walls_floors_user, NookazonUser, \
+from scripts.nookazon import read_nookazon_file, NookazonItem, get_rotated_names
+from scripts.user import clothing_user, furniture_user, rugs_user, walls_floors_user, NookazonUser, \
     craftable_user, free_stuff_user
 from scripts.villagerdb.util import UserList, ac_folder, get_written_name
 

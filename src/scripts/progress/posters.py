@@ -1,6 +1,6 @@
 from typing import List
 
-from scripts.villagerdb.user import posters_user, wishlist_user
+from scripts.user import posters_user, wishlist_user
 from scripts.villagerdb.util import get_all_searchable_items, get_all_user_items, SearchItem, \
     read_json_file, write_input_json_file
 

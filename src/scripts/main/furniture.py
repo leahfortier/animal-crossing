@@ -2,10 +2,9 @@ from typing import List
 
 from scripts.googlesheets.config import check_items, FreqConfig
 from scripts.googlesheets.data import DataRow
-from scripts.googlesheets.sheets import Data, item_tabs, floor_item_tabs
-from scripts.googlesheets.util import print_grouping, print_condition
-from scripts.villagerdb.furniture import items_progress_filename
-from scripts.villagerdb.user import furniture_user
+from scripts.googlesheets.sheets import Data, item_tabs
+from scripts.progress.furniture import items_progress_filename
+from scripts.user import furniture_user
 
 
 # Represents a single row of data from any of the furniture sheets

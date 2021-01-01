@@ -5,7 +5,7 @@ from lxml import html
 from typing import List, Dict
 
 from scripts.util import get_written_name
-from scripts.villagerdb.user import UserList
+from scripts.user import UserList
 
 
 # Returns all possible variations as listed on villagerdb
