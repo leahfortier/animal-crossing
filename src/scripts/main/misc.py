@@ -1,4 +1,4 @@
-from scripts.analysis.config import check_items
+from scripts.analysis.data import check_items
 from scripts.item.sheets_item import DataRow, Options, Condition
 from scripts.util.user import clothing_user, craftable_user, walls_floors_user, rugs_user, UserList
 from scripts.util.util import Strings

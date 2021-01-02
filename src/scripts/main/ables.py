@@ -1,10 +1,12 @@
 from typing import List
 
-from scripts.analysis.config import check_items, Strings, FreqConfig
+from scripts.analysis.config import FreqConfig
+from scripts.analysis.data import check_items
 from scripts.item.sheets_item import DataRow, Options
 from scripts.progress.clothing import clothing_progress_filename
 from scripts.util.sheets import Data, ables_tabs
 from scripts.util.user import clothing_user
+from scripts.util.util import Strings
 
 
 # Represents a single row of data from any of the clothing sheets
@@ -16,20 +18,19 @@ class ClothingRow(DataRow):
         self.seasonality: str = data.get("Seasonality", row)
 
 
-def ables_condition(clothing: ClothingRow) -> bool:
+# Clothing that can be purchased at ables in the winter
+def winter_ables(clothing: ClothingRow) -> bool:
     if clothing.source != 'Able Sisters':
         return False
 
-    # Change this line as needed
-    # Example query checking against all winter clothing for sale at ables
     return clothing.availability == "All Year" or clothing.availability == "Winter"
 
 
 # Prints missing items and frequencies from the specified tabs that meet the condition
 def check_ables(tabs: Strings) -> None:
-    options = Options().with_condition(ables_condition)
+    options = Options().with_condition(winter_ables)
     config = FreqConfig(clothing_progress_filename)
-    check_items(clothing_user, tabs, ClothingRow, options, config)
+    check_items(clothing_user, tabs, options, ClothingRow, config)
 
 
 if __name__ == '__main__':

@@ -1,15 +1,14 @@
 from typing import List
 
-from scripts.analysis.config import check_items, FreqConfig
+from scripts.analysis.config import FreqConfig
+from scripts.analysis.data import check_items
 from scripts.item.sheets_item import DataRow, Options
-from scripts.util.sheets import Data, item_tabs
 from scripts.progress.furniture import items_progress_filename
-
-
-# Represents a single row of data from any of the furniture sheets
+from scripts.util.sheets import Data, item_tabs
 from scripts.util.user import furniture_user
 
 
+# Represents a single row of data from any of the furniture sheets
 class FurnitureRow(DataRow):
     def __init__(self, data: Data, row: List[str], options: Options):
         super().__init__(data, row, options.with_variations())

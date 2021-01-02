@@ -71,6 +71,12 @@ class Data:
 
         return row[self.schema.get(key)]
 
+    def get_if(self, condition: bool, key: str, row: List[str]) -> str:
+        if condition:
+            return self.get(key, row)
+        else:
+            return ''
+
 
 def read_item_sheet(tab_name: str) -> Data:
     return Data(SPREADSHEET_ID, tab_name)

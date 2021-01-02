@@ -1,12 +1,10 @@
 from abc import ABC
 
-from typing import Dict, Type, List, Set
+from typing import Dict
 
-from scripts.analysis.data import get_all_items
-from scripts.item.sheets_item import DataRow, Options
+from scripts.item.sheets_item import DataRow
 from scripts.util.io import read_json_out_file
-from scripts.util.user import UserList
-from scripts.util.util import get_written_name, Strings, get_strs, print_totals
+from scripts.util.util import get_written_name
 
 
 class MissingFreq:
@@ -69,31 +67,3 @@ class FreqConfig(Config):
 
     def finish(self) -> None:
         self.missing_freq.print_totals(self.progress_filename)
-
-
-# Compares the items in each tab sheet with the items in the specified user list (on villagerdb)
-# Each row of the sheet should be of type data_type and filtering conditions should occur there as well
-# Config objects handle extra things that can be happening if you want but honestly they're dumb
-def check_items(user_list: UserList, tabs: Strings, options: Options, data_type: Type = DataRow, config: Config = PrintConfig()) -> None:
-    user_items: Set[str] = set(user_list.get_all_written_items())
-    all_items: List[DataRow] = get_all_items(data_type, get_strs(tabs), options)
-
-    # Some items will be the same for our purposes (customizations etc.) and only want to count unique orderables
-    seen_items: Set[str] = set()
-
-    total_missing = 0
-    total_items = 0
-    for item in all_items:
-        name = item.get_written_name()
-        if name in seen_items or not item.condition():
-            continue
-
-        total_items += 1
-        seen_items.add(name)
-
-        if name not in user_items:
-            total_missing += 1
-            config.on_missing(item)
-
-    config.finish()
-    print_totals(total_missing, total_items)
