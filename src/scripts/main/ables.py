@@ -1,34 +1,35 @@
 from typing import List
 
 from scripts.analysis.config import check_items, Strings, FreqConfig
-from scripts.analysis.data import DataRow
+from scripts.item.sheets_item import DataRow, Options
 from scripts.progress.clothing import clothing_progress_filename
 from scripts.util.sheets import Data, ables_tabs
-
-
-# Represents a single row of data from any of the clothing sheets
 from scripts.util.user import clothing_user
 
 
+# Represents a single row of data from any of the clothing sheets
 class ClothingRow(DataRow):
-    def __init__(self, data: Data, row: List[str]):
-        super().__init__(True, data, row)
-        self.event = data.get('Season/Event', row)  # type: str
-        self.availability = data.get("Seasonal Availability", row)  # type: str
-        self.seasonality = data.get("Seasonality", row)  # type: str
+    def __init__(self, data: Data, row: List[str], options: Options):
+        super().__init__(data, row, options.with_variations())
+        self.event: str = data.get('Season/Event', row)
+        self.availability: str = data.get("Seasonal Availability", row)
+        self.seasonality: str = data.get("Seasonality", row)
 
-    def condition(self):
-        if self.source != 'Able Sisters':
-            return False
 
-        # Change this line as needed
-        # Example query checking against all winter clothing for sale at ables
-        return self.availability == "All Year" or self.availability == "Winter"
+def ables_condition(clothing: ClothingRow) -> bool:
+    if clothing.source != 'Able Sisters':
+        return False
+
+    # Change this line as needed
+    # Example query checking against all winter clothing for sale at ables
+    return clothing.availability == "All Year" or clothing.availability == "Winter"
 
 
 # Prints missing items and frequencies from the specified tabs that meet the condition
 def check_ables(tabs: Strings) -> None:
-    check_items(clothing_user, tabs, ClothingRow, FreqConfig(clothing_progress_filename))
+    options = Options().with_condition(ables_condition)
+    config = FreqConfig(clothing_progress_filename)
+    check_items(clothing_user, tabs, ClothingRow, options, config)
 
 
 if __name__ == '__main__':

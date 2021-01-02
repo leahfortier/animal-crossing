@@ -4034,6 +4034,13 @@
         "Red",
         "Yellow"
     ],
+    "Pom-pom Socks": [
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple"
+    ],
     "Pom-pom Sweater": [
         "Blue",
         "Pink",

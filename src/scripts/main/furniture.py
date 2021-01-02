@@ -1,7 +1,7 @@
 from typing import List
 
 from scripts.analysis.config import check_items, FreqConfig
-from scripts.analysis.data import DataRow
+from scripts.item.sheets_item import DataRow, Options
 from scripts.util.sheets import Data, item_tabs
 from scripts.progress.furniture import items_progress_filename
 
@@ -11,17 +11,31 @@ from scripts.util.user import furniture_user
 
 
 class FurnitureRow(DataRow):
-    def __init__(self, data: Data, row: List[str]):
-        super().__init__(True, data, row)
-        self.catalog = data.get('Catalog', row)  # type: str
+    def __init__(self, data: Data, row: List[str], options: Options):
+        super().__init__(data, row, options.with_variations())
+        self.catalog: str = data.get('Catalog', row)
+        self.body_customize: bool = data.get("Body Customize", row) == "Yes"
+
+        if self.body_customize:
+            self.variation = ''
 
     def condition(self):
         # Set to be filtered to only orderable items
         return self.catalog == 'For sale'
 
 
+def is_orderable(furniture: FurnitureRow) -> bool:
+    return furniture.catalog == 'For sale'
+
+
 if __name__ == '__main__':
-    check_items(furniture_user, item_tabs, FurnitureRow, FreqConfig(items_progress_filename))
+    # Prints out missing orderable items and frequencies
+    options = Options().with_condition(is_orderable)
+    config = FreqConfig(items_progress_filename)
+    check_items(furniture_user, item_tabs, options, FurnitureRow, config)
+
+    # Similar to above but prints out each missing variation instead of totals
+    # check_items(furniture_user, item_tabs, options, FurnitureRow)
 
     # Other examples
     # Prints all items that you can change clothing at
