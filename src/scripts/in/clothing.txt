@@ -959,6 +959,11 @@
         "Pink",
         "Purple"
     ],
+    "Cold-country Bunad": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
     "Collarless Coat": [
         "Beige",
         "Gray",
@@ -2815,6 +2820,12 @@
         "Red",
         "White"
     ],
+    "Knit Pants": [
+        "Brown",
+        "Gray",
+        "Light blue",
+        "Red"
+    ],
     "Konnichiwa Tee": [
         ""
     ],
@@ -4147,6 +4158,9 @@
         "Red"
     ],
     "Purple Chic Umbrella": [
+        ""
+    ],
+    "Purple Shiny-bows Parasol": [
         ""
     ],
     "Quilted Down Jacket": [

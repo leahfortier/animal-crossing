@@ -42,9 +42,9 @@ def print_grouping(tab_names: List[str], group_col: str, group_val: str) -> None
 
 # Parses each sheet tab and converts into a combined list of data_type
 # Ex: data_type: ClothingItem -> return type: List[ClothingItem]
-def get_all_items(tabs: List[str], options: Options, data_type: Type = DataRow) -> List:
+def get_all_items(tabs: Strings, data_type: Type = DataRow, options: Options = Options()) -> List:
     items = []
-    for tab_name in tabs:
+    for tab_name in get_strs(tabs):
         data = read_item_sheet(tab_name)
         for row in data.rows:
             items.append(data_type(data, row, options))
@@ -52,15 +52,15 @@ def get_all_items(tabs: List[str], options: Options, data_type: Type = DataRow) 
 
 
 # If only needing the name from each row and nothing else
-def get_all_written_names(tabs: List[str], options: Options) -> List[str]:
-    items = get_all_items(tabs, options)
+def get_all_written_names(tabs: Strings, options: Options = Options()) -> List[str]:
+    items: List[DataRow] = get_all_items(tabs, options = options)
     return [item.get_written_name() for item in items]
 
 
 # Compares the items in each tab sheet with the items in the specified user list (on villagerdb)
 # Each row of the sheet should be of type data_type and filtering conditions should occur there as well
 # Config objects handle extra things that can be happening if you want but honestly they're dumb
-def check_items(user_list: UserList, tabs: Strings, options: Options,
+def check_items(user_list: UserList, tabs: Strings, options: Options = Options(),
                 data_type: Type = DataRow, config: Config = PrintConfig()) -> None:
     user_items: Set[str] = set(user_list.get_all_written_items())
     all_items: List[DataRow] = get_all_items(get_strs(tabs), options, data_type)

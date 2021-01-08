@@ -15,6 +15,7 @@ SPREADSHEET_ID = '13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4'
 floor_item_tabs = ['Housewares', 'Miscellaneous']
 item_tabs = [*floor_item_tabs, 'Wall-mounted']
 ables_tabs = ['Tops', 'Bottoms', 'Dress-Up', 'Headwear', 'Accessories', 'Socks', 'Shoes']
+clothing_tabs = [*ables_tabs, 'Bags', 'Umbrellas', 'Clothing Other']
 
 
 def get_credentials():
@@ -64,18 +65,33 @@ class Data:
         for i, val in enumerate(full_schema):
             self.schema[val] = i
 
+    def has_key(self, key: str):
+        return key in self.schema
+
     def get(self, key: str, row: List[str]) -> str:
-        if key not in self.schema:
+        if not self.has_key(key):
             print("Key '" + key + "' not in schema.")
             return ""
 
         return row[self.schema.get(key)]
 
-    def get_if(self, condition: bool, key: str, row: List[str]) -> str:
-        if condition:
+    def get_bool(self, key: str, row: List[str]) -> bool:
+        value: str = self.get(key, row)
+        assert value in ["Yes", "No"]
+        return value == "Yes"
+
+    def get_if(self, key: str, row: List[str]) -> str:
+        if self.has_key(key):
             return self.get(key, row)
         else:
             return ''
+
+    # Automatically sets the condition to whether or not the key exists
+    def get_bool_if(self, key: str, row: List[str]) -> bool:
+        if self.has_key(key):
+            return self.get_bool(key, row)
+        else:
+            return False
 
 
 def read_item_sheet(tab_name: str) -> Data:

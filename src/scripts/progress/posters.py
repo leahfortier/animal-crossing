@@ -1,16 +1,15 @@
 from typing import List
 
 from scripts.analysis.data import get_all_written_names
-from scripts.item.sheets_item import Options
 from scripts.util.user import posters_user, wishlist_user
 
 
 def get_all_villagers() -> List[str]:
-    return get_all_written_names(["Villagers"], Options().without_source())
+    return get_all_written_names("Villagers")
 
 
 def get_all_posters() -> List[str]:
-    return get_all_written_names(["Posters"], Options().without_source())
+    return get_all_written_names("Posters")
 
 
 def check_missing_npcs():

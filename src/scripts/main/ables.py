@@ -12,7 +12,7 @@ from scripts.util.util import Strings
 # Represents a single row of data from any of the clothing sheets
 class ClothingRow(DataRow):
     def __init__(self, data: Data, row: List[str], options: Options):
-        super().__init__(data, row, options.with_variations())
+        super().__init__(data, row, options)
         self.event: str = data.get('Season/Event', row)
         self.availability: str = data.get("Seasonal Availability", row)
         self.seasonality: str = data.get("Seasonality", row)

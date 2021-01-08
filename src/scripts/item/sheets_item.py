@@ -6,18 +6,8 @@ from scripts.util.util import get_written_name
 
 class Options:
     def __init__(self):
-        self.has_variations: bool = False
-        self.has_source: bool = True
         self.condition: Condition = lambda row: True
         self.options: Dict[str, any] = {}
-
-    def with_variations(self):
-        self.has_variations = True
-        return self
-
-    def without_source(self):
-        self.has_source = False
-        return self
 
     def with_condition(self, condition):
         self.condition = condition
@@ -36,11 +26,16 @@ class DataRow:
         self.options: Options = options
         self.name: str = data.get('Name', row)
 
-        self.source: str = data.get_if(options.has_source, "Source", row)
-        self.variation: str = data.get_if(options.has_variations, "Variation", row)
-
+        self.source: str = data.get_if("Source", row)
+        self.variation: str = data.get_if("Variation", row)
         if self.variation == 'NA':
             self.variation = ''
+
+        self.diy: bool = data.get_bool_if("DIY", row)
+
+        self.body_customize: bool = False
+        self.pattern_customize: bool = False
+        self.pattern: str = ''
 
     # Returns the written name with its variation
     # Ex: 'acid washed jacket black'
