@@ -1,10 +1,10 @@
 from typing import List, Type, Callable, Set
 
 from scripts.analysis.config import Config, PrintConfig
-from scripts.item.sheets_item import Options, DataRow
+from scripts.item.sheets_item import DataRow, Condition, accept_all
 from scripts.util.sheets import Data, read_item_sheet
 from scripts.util.user import UserList
-from scripts.util.util import print_totals, Strings, get_strs, get_written_name
+from scripts.util.util import print_totals, Strings, get_strs
 
 ConditionType: Type = Callable[[Data, List[str]], bool]
 
@@ -40,30 +40,31 @@ def print_grouping(tab_names: List[str], group_col: str, group_val: str) -> None
         print("\t", group)
 
 
-# Parses each sheet tab and converts into a combined list of data_type
-# Ex: data_type: ClothingItem -> return type: List[ClothingItem]
-def get_all_items(tabs: Strings, data_type: Type = DataRow, options: Options = Options()) -> List:
+# Parses each sheet tab and converts into a combined list of DataRow
+def get_all_items(tabs: Strings) -> List[DataRow]:
     items = []
     for tab_name in get_strs(tabs):
         data = read_item_sheet(tab_name)
         for row in data.rows:
-            items.append(data_type(data, row, options))
+            items.append(DataRow(data, row))
     return items
 
 
 # If only needing the name from each row and nothing else
-def get_all_written_names(tabs: Strings, options: Options = Options()) -> List[str]:
-    items: List[DataRow] = get_all_items(tabs, options = options)
+def get_all_written_names(tabs: Strings) -> List[str]:
+    items: List[DataRow] = get_all_items(tabs)
     return [item.get_written_name() for item in items]
 
 
 # Compares the items in each tab sheet with the items in the specified user list (on villagerdb)
 # Each row of the sheet should be of type data_type and filtering conditions should occur there as well
 # Config objects handle extra things that can be happening if you want but honestly they're dumb
-def check_items(user_list: UserList, tabs: Strings, options: Options = Options(),
-                data_type: Type = DataRow, config: Config = PrintConfig()) -> None:
+def check_items(user_list: UserList,
+                tabs: Strings,
+                condition: Condition = accept_all,
+                config: Config = PrintConfig()) -> None:
     user_items: Set[str] = set(user_list.get_all_written_items())
-    all_items: List[DataRow] = get_all_items(get_strs(tabs), options, data_type)
+    all_items: List[DataRow] = get_all_items(tabs)
 
     # Some items will be the same for our purposes (customizations etc.) and only want to count unique orderables
     seen_items: Set[str] = set()
@@ -72,7 +73,7 @@ def check_items(user_list: UserList, tabs: Strings, options: Options = Options()
     total_items = 0
     for item in all_items:
         name = item.get_written_name()
-        if name in seen_items or not item.condition():
+        if name in seen_items or not condition(item):
             continue
 
         total_items += 1

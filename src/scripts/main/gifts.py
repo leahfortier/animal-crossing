@@ -1,6 +1,6 @@
 from typing import List, Dict
 
-from scripts.item.variations import ItemVariations, read_variations, get_item_variation
+from scripts.item.variations import get_item_variation
 from scripts.util.io import read_file, ac_folder
 
 

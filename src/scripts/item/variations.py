@@ -1,12 +1,12 @@
 from json import JSONEncoder
 
-from typing import List, Set, Dict, Tuple, Type
+from typing import List, Set, Dict
 
 from scripts.analysis.data import get_all_items
-from scripts.item.sheets_item import DataRow, Options
+from scripts.item.sheets_item import DataRow
 from scripts.util.io import write_json_file, read_json_file, in_file_path
-from scripts.util.sheets import item_tabs, ables_tabs, clothing_tabs
-from scripts.util.util import get_if, get_written_name, Strings, get_strs
+from scripts.util.sheets import item_tabs, clothing_tabs
+from scripts.util.util import get_if, get_written_name, Strings
 
 BASE_NAME = "__base__"
 variations_filename = "variations.txt"
@@ -41,12 +41,7 @@ class ItemVariations(JSONEncoder):
         variation = item.variation
         pattern = item.pattern
 
-        if pattern == "NA" or not item.pattern_customize:
-            pattern = ""
-
-        if variation == "NA":
-            variation = ""
-        elif item.body_customize:
+        if item.body_customize:
             if pattern != "":
                 pattern = " / " + pattern
             pattern = variation + pattern
@@ -109,35 +104,26 @@ def get_item_variation(item_name: str) -> (str, str):
     return key_name, variation_name
 
 
-# item_lists should be in the form (<tab_names>, <DataRowType>)
-# Ex: ("Housewares", FurntiureRow)
-def get_variations(*item_lists: Tuple[Strings, Type[DataRow]]) -> Dict[str, ItemVariations]:
+def get_variations(tabs: Strings) -> Dict[str, ItemVariations]:
     item_map: Dict[str, ItemVariations] = {
         BASE_NAME: True,
     }
 
     previous_name = ''
-    for item_list in item_lists:
-        all_items: List[DataRow] = get_all_items(item_list[0], item_list[1])
+    all_items: List[DataRow] = get_all_items(tabs)
 
-        for item in all_items:
-            item_name = get_written_name(item.name)
-            if item_name != previous_name:
-                assert item_name not in item_map or item_name == "butterfly fish model"
-                previous_name = item_name
-                item_map[item_name] = ItemVariations()
-            variations = item_map[item_name]
-            variations.add(item)
+    for item in all_items:
+        item_name = get_written_name(item.name)
+        if item_name != previous_name:
+            assert item_name not in item_map or item_name == "butterfly fish model"
+            previous_name = item_name
+            item_map[item_name] = ItemVariations()
+        variations = item_map[item_name]
+        variations.add(item)
 
     return item_map
 
 
 def write_variations() -> None:
-    from scripts.main.furniture import FurnitureRow
-    from scripts.main.ables import ClothingRow
-    item_map = get_variations(
-        (item_tabs, FurnitureRow),
-        (clothing_tabs, DataRow),
-    )
-
+    item_map = get_variations(item_tabs + clothing_tabs)
     write_json_file(variations_filename, item_map, file_path=in_file_path, cls=ItemVariations)

@@ -1,4 +1,4 @@
-from scripts.item.variations import write_variations, read_variations
+from scripts.item.variations import write_variations
 from scripts.progress.clothing import check_clothing
 from scripts.progress.furniture import check_furniture
 from scripts.progress.posters import check_posters

@@ -68,21 +68,26 @@ class Data:
     def has_key(self, key: str):
         return key in self.schema
 
-    def get(self, key: str, row: List[str]) -> str:
+    def get(self, key: str, row: List[str], remove_na: bool = False) -> str:
         if not self.has_key(key):
             print("Key '" + key + "' not in schema.")
             return ""
 
-        return row[self.schema.get(key)]
+        value: str = row[self.schema.get(key)]
+        if remove_na and value == "NA":
+            value = ''
+
+        return value
 
     def get_bool(self, key: str, row: List[str]) -> bool:
         value: str = self.get(key, row)
         assert value in ["Yes", "No"]
         return value == "Yes"
 
-    def get_if(self, key: str, row: List[str]) -> str:
+
+    def get_if(self, key: str, row: List[str], remove_na: bool = False) -> str:
         if self.has_key(key):
-            return self.get(key, row)
+            return self.get(key, row, remove_na)
         else:
             return ''
 

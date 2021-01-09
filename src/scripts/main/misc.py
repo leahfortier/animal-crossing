@@ -1,7 +1,23 @@
-from scripts.analysis.data import check_items
-from scripts.item.sheets_item import DataRow, Options, Condition
-from scripts.util.user import clothing_user, craftable_user, walls_floors_user, rugs_user, UserList
+from scripts.analysis.config import FreqConfig
+from scripts.analysis.data import check_items, print_condition, print_grouping
+from scripts.item.sheets_item import DataRow, Condition
+from scripts.progress.furniture import items_progress_filename
+from scripts.util.sheets import item_tabs, floor_item_tabs
+from scripts.util.user import clothing_user, craftable_user, walls_floors_user, rugs_user, UserList, furniture_user
 from scripts.util.util import Strings
+
+
+def is_orderable(item: DataRow) -> bool:
+    return item.catalog == 'For sale'
+
+
+# Prints out missing orderable items and frequencies
+def check_furniture() -> None:
+    config = FreqConfig(items_progress_filename)
+    check_items(furniture_user, item_tabs, is_orderable, config)
+
+    # Similar to above but prints out each missing variation instead of totals
+    # check_items(furniture_user, item_tabs, is_orderable)
 
 
 # Special recipes to be ignored
@@ -11,7 +27,7 @@ def recipe_condition(row: DataRow) -> bool:
 
 # Checks all the recipes (excluding a couple special cases)
 def check_recipes() -> None:
-    check_items(craftable_user, "Recipes", Options().with_condition(recipe_condition))
+    check_items(craftable_user, "Recipes", recipe_condition)
 
 
 # Checks all the umbrellas which can be purchased from Nook's Cranny
@@ -41,12 +57,23 @@ def check_nooks_items(user_list: UserList, tabs: Strings):
 
 # Compares all the items in the tabs with the specified source to the user's items
 def check_source_items(user_list: UserList, tabs: Strings, source_name: str):
-    condition: Condition = source_filter(source_name)
-    check_items(user_list, tabs, Options().with_condition(condition))
+    check_items(user_list, tabs, source_filter(source_name))
 
 
 if __name__ == '__main__':
+    check_furniture()
     # check_recipes()
-    check_umbrellas()
+    # check_umbrellas()
     # check_walls_and_floors()
     # check_rugs()
+
+    # Other examples
+    # Prints all items that you can change clothing at
+    # print_grouping(item_tabs, "Interact", "Wardrobe")
+
+    # All DIY stations or musical instruments
+    # print_grouping(item_tabs, "Tag", "Work Bench")
+    # print_grouping(item_tabs, "Tag", "Musical Instrument")
+
+    # Items that play music
+    # print_condition(floor_item_tabs, lambda data, row: data.get("Speaker Type", row) != "Does not play music")
