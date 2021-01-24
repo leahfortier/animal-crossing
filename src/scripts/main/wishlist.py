@@ -6,8 +6,8 @@ from scripts.util.io import ac_folder
 from scripts.util.user import clothing_user, furniture_user, rugs_user, walls_floors_user, NookazonUser, \
     craftable_user, free_stuff_user
 
-owned_lists = [furniture_user, clothing_user, rugs_user, walls_floors_user, craftable_user]  # type: List[UserList]
-all_owned_items = set()  # type: Set[str]
+owned_lists: List[UserList] = [furniture_user, clothing_user, rugs_user, walls_floors_user, craftable_user]
+all_owned_items: Set[str] = set()
 
 
 def get_all_owned_items() -> Set[str]:

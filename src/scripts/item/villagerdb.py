@@ -60,7 +60,7 @@ def get_all_user_items(user: UserList) -> List[ItemRow]:
     tree = html.fromstring(page.text)
     items = tree.xpath('/html/body/div[2]/main/ul/li')
 
-    items_list = []  # type: List[ItemRow]
+    items_list: List[ItemRow] = []
     for row in items:
         items_list.append(ItemRow(row))
 
@@ -69,12 +69,12 @@ def get_all_user_items(user: UserList) -> List[ItemRow]:
 
 # Read's the user's villagerdb list and return a map of each item
 def get_user_variations(user: UserList) -> Dict[str, Item]:
-    user_items = get_all_user_items(user)  # type: List[ItemRow]
+    user_items: List[ItemRow] = get_all_user_items(user)
 
     # Holds the variations of items the user has
     # Key is a pair of the item name and its url extension
     # If the item has no variations, it will map to a list of size one containing the empty string
-    variations_map = {}  # type: Dict[str, Item]
+    variations_map: Dict[str, Item] = {}
 
     for item in user_items:
         # Ex: 'Accessories Stand (Black)' and 'Accessories Stand'

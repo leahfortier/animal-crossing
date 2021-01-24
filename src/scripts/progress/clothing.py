@@ -10,7 +10,7 @@ clothing_progress_filename = "clothing_progress.txt"
 
 def get_variations(extension: str, user_variations: List[str]) -> List[str]:
     # List of all variations
-    variations = get_all_variations(extension)  # type: List[str]
+    variations: List[str] = get_all_variations(extension)
 
     if len(variations) <= 1:
         assert user_variations == [""]

@@ -59,9 +59,9 @@ class Data:
     def __init__(self, spreadsheet_id: str, range_name: str):
         values = get_sheet_data(spreadsheet_id, range_name)
         full_schema = values[0]
-        self.rows = values[1:]  # type: List[List[str]]
+        self.rows: List[List[str]] = values[1:]
 
-        self.schema = {}  # type: Dict[str, int]
+        self.schema: Dict[str, int] = {}
         for i, val in enumerate(full_schema):
             self.schema[val] = i
 

@@ -9,7 +9,7 @@ from scripts.util.util import get_written_name
 
 class MissingFreq:
     def __init__(self):
-        self.map = {}  # type: Dict[str, int]
+        self.map: Dict[str, int] = {}
 
     def add(self, name: str):
         name = get_written_name(name)
@@ -21,13 +21,13 @@ class MissingFreq:
         return self.map[name]
 
     def print_totals(self, progress_filename: str):
-        user_totals = read_totals_map(progress_filename)  # type: Dict[str, str]
+        user_totals: Dict[str, str] = read_totals_map(progress_filename)
 
         for item in self.map:
-            num_missing = self.map[item]  # type: int
-            total = num_missing  # type: int
+            num_missing: int = self.map[item]
+            total: int = num_missing
             if item in user_totals:
-                total_split = user_totals[item].split('/')  # type: [str]
+                total_split: [str] = user_totals[item].split('/')
                 total = int(total_split[1])
             if num_missing > 0:
                 print(item + " " + str(total - num_missing) + "/" + str(total))
@@ -36,7 +36,7 @@ class MissingFreq:
 # user_totals is a map from written item name to user totals in the form "4/5"
 def read_totals_map(progress_filename: str) -> Dict[str, str]:
     full_map = read_json_out_file(progress_filename)
-    user_totals = {}  # type: Dict[str, str]
+    user_totals: Dict[str, str] = {}
     for item_name in full_map:
         clothing_name = get_written_name(item_name)
         clothing_item = full_map[item_name]

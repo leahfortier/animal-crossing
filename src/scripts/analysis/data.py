@@ -12,9 +12,9 @@ ConditionType: Type = Callable[[Data, List[str]], bool]
 # Print each base name that meets the specified condition (does not print variations)
 # Note: the condition method will run for every row and additional checks can be inserted here as necessary
 def print_condition(tab_names: List[str], condition: ConditionType) -> None:
-    printed = set()  # type: Set[str]
+    printed: Set[str] = set()
     for tab_name in tab_names:
-        data = read_item_sheet(tab_name)  # type: Data
+        data: Data = read_item_sheet(tab_name)
         for row in data.rows:
             name = data.get("Name", row)
             if condition(data, row) and name not in printed:
@@ -23,7 +23,7 @@ def print_condition(tab_names: List[str], condition: ConditionType) -> None:
 
 
 def print_grouping(tab_names: List[str], group_col: str, group_val: str) -> None:
-    groups = set()  # type: Set[str]
+    groups: Set[str] = set()
 
     # Keep track of every group while checking for the specified group value
     def group_condition(data: Data, row: List[str]) -> bool:

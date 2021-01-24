@@ -22,7 +22,7 @@ def get_variations(extension: str, user_variations: List[str]) -> List[str]:
         return [""]
 
     # List of all variations
-    variations = get_all_variations(extension)  # type: List[str]
+    variations: List[str] = get_all_variations(extension)
 
     # Make sure each user variation is valid
     for variation in user_variations:

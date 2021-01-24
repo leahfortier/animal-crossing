@@ -19,7 +19,7 @@ def compare_lists(first_user: UserList, second_user: UserList, extension: str):
     first_items = get_all_items(first_user)
     second_items = get_all_items(second_user)
 
-    compare_map = {}  # type: Dict[str, List[str]]
+    compare_map: Dict[str, List[str]] = {}
     add_compare(compare_map, first_user, first_items, second_items)
     add_compare(compare_map, second_user, second_items, first_items)
 
