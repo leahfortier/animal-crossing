@@ -1,5 +1,7 @@
+package javacode;
+
 import org.junit.Assert;
-import util.Utils;
+import javacode.util.Utils;
 
 import java.util.ArrayList;
 import java.util.List;

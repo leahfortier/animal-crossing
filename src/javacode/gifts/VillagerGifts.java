@@ -1,4 +1,4 @@
-package gifts;
+package javacode.gifts;
 
 import org.junit.Assert;
 

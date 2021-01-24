@@ -1,4 +1,6 @@
-import util.Utils;
+package javacode;
+
+import javacode.util.Utils;
 
 import java.util.Scanner;
 

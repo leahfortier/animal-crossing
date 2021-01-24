@@ -1,6 +1,6 @@
-package gifts;
+package javacode.gifts;
 
-import util.Utils;
+import javacode.util.Utils;
 
 import java.util.AbstractMap.SimpleEntry;
 import java.util.ArrayList;
