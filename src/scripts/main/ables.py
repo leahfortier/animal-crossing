@@ -12,7 +12,7 @@ def winter_ables(clothing: DataRow) -> bool:
     if clothing.source != 'Able Sisters':
         return False
 
-    return clothing.availability == "All Year" or clothing.availability == "Winter"
+    return clothing.availability == "All Year"# or clothing.availability == "Winter"
 
 
 # Prints missing items and frequencies from the specified tabs that meet the condition

@@ -81,7 +81,7 @@ class Data:
 
     def get_bool(self, key: str, row: List[str]) -> bool:
         value: str = self.get(key, row)
-        assert value in ["Yes", "No"]
+        assert value in ["Yes", "No", ""]
         return value == "Yes"
 
 

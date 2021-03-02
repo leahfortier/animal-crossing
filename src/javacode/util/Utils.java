@@ -3,6 +3,8 @@ package javacode.util;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.OutputStream;
+import java.io.PrintStream;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
@@ -17,14 +19,33 @@ public final class Utils {
         RANDOM.setSeed(SEED);
     }
 
+    private static File getFile(String baseName) {
+        return new File(IN_PATH + baseName + ".txt");
+    }
+
     public static Scanner openFile(String baseName) {
-        File file = new File(IN_PATH + baseName + ".txt");
+        File file = getFile(baseName);
         try {
             return new Scanner(new FileReader(file));
         } catch (FileNotFoundException e) {
             System.err.println(file.getName() + " not found.");
             return new Scanner("");
         }
+    }
+
+    public static PrintStream openWriter(String baseName) {
+        File file = new File(IN_PATH + baseName + ".txt");
+        try {
+            return new PrintStream(file);
+        } catch (FileNotFoundException e) {
+            System.err.println("Unable to open writer for " + file.getName());
+            return new PrintStream(new NullOutputStream());
+        }
+    }
+
+    public static class NullOutputStream extends OutputStream {
+        @Override
+        public void write(int b) {}
     }
 
     public static <T> int getRandomIndex(List<T> list) {

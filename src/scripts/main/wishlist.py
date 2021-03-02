@@ -116,7 +116,7 @@ class NookazonWishlist(WishlistUser):
 
 
 def check_user(user: WishlistUser):
-    print(user.user.get_url())
+    print(user.folder, user.user.get_url())
 
     list_items: List[str] = user.get_file_items()
     wishlist_items: List[str] = user.get_wishlist_items()

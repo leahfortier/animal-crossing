@@ -11,8 +11,8 @@ def compare_free_stuff():
     for item in free_stuff:
         if item in given_stuff:
             print("ALREADY GIVEN: " + item)
-        # else:
-        #     print(item)
+        else:
+            print(item)
 
 
 if __name__ == '__main__':

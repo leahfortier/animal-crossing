@@ -37,8 +37,9 @@ def print_gift_groups(*gift_names: str):
             variation_map[variation_name].append(villager)
 
     if len(gift_names) == 0:
-        gift_names = gift_map.keys()
+        gift_names = list(gift_map.keys())
 
+    gift_names.sort()
     for gift_name in gift_names:
         if gift_name in gift_map:
             print(gift_name)

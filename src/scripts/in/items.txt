@@ -924,6 +924,9 @@
     "Film Projector": [
         ""
     ],
+    "Fire Pit": [
+        ""
+    ],
     "Fireplace": [
         "Beige",
         "Dark brown",

@@ -1,8 +1,8 @@
 from scripts.analysis.config import FreqConfig
-from scripts.analysis.data import check_items, print_condition, print_grouping
+from scripts.analysis.data import check_items
 from scripts.item.sheets_item import DataRow, Condition
 from scripts.progress.furniture import items_progress_filename
-from scripts.util.sheets import item_tabs, floor_item_tabs
+from scripts.util.sheets import item_tabs
 from scripts.util.user import clothing_user, craftable_user, walls_floors_user, rugs_user, UserList, furniture_user
 from scripts.util.util import Strings
 
@@ -75,5 +75,6 @@ if __name__ == '__main__':
     # print_grouping(item_tabs, "Tag", "Work Bench")
     # print_grouping(item_tabs, "Tag", "Musical Instrument")
 
-    # Items that play music
+    # Items that play music and all 2x1 Surfaces
     # print_condition(floor_item_tabs, lambda data, row: data.get("Speaker Type", row) != "Does not play music")
+    # print_condition(floor_item_tabs, lambda data, row: data.get("Size", row) == "2x1" and data.get("Surface", row) == "Yes")

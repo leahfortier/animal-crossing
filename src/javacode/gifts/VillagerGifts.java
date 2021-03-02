@@ -2,6 +2,7 @@ package javacode.gifts;
 
 import org.junit.Assert;
 
+import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Iterator;
@@ -12,6 +13,8 @@ public class VillagerGifts implements Iterable<String> {
     private final String villager;
     private final List<String> gifts;
     private final int index;
+
+    private String selectedGift;
 
     public VillagerGifts(Scanner in, int index) {
         this.index = index;
@@ -27,10 +30,30 @@ public class VillagerGifts implements Iterable<String> {
         while (in.hasNext() && !in.hasNext("[A-Z][a-z]+:")) {
             String line = in.nextLine().trim();
             if (!line.isEmpty()) {
-                Assert.assertTrue(line, line.startsWith("- ") || line.startsWith("+ "));
+                Assert.assertTrue(line, line.startsWith("- "));
                 gifts.add(line.substring(2));
             }
         }
+    }
+
+    public void setSelectedGift(String giftName) {
+        this.selectedGift = giftName;
+    }
+
+    public void write(PrintStream out) {
+        System.out.println(this.villager + ": " + this.selectedGift);
+
+        boolean printedSelected = false;
+        out.println(this.villager + ":");
+        for (String giftName : this.gifts) {
+            char prefix = '-';
+            if (!printedSelected && giftName.equals(this.selectedGift)) {
+                prefix = '+';
+                printedSelected = true;
+            }
+            out.println("\t" + prefix + " " + giftName);
+        }
+        out.println();
     }
 
     public String villagerName() {

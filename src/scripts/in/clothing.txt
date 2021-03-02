@@ -964,6 +964,11 @@
         "Green",
         "Red"
     ],
+    "Cold-country Dress": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
     "Collarless Coat": [
         "Beige",
         "Gray",
@@ -1370,6 +1375,12 @@
         "Red",
         "Yellow"
     ],
+    "Dj Cap": [
+        "Black",
+        "Blue",
+        "Orange",
+        "Pink"
+    ],
     "Do-rag": [
         "Beige",
         "Black",
@@ -1451,6 +1462,16 @@
         "White",
         "Yellow"
     ],
+    "Down Pants": [
+        "Black",
+        "Blue",
+        "Green",
+        "Lime",
+        "Orange",
+        "Red",
+        "White",
+        "Yellow"
+    ],
     "Down Ski Jacket": [
         "Blue & green",
         "Navy & blue",
@@ -1484,6 +1505,10 @@
         "Green",
         "Pink",
         "Yellow"
+    ],
+    "Dreamy Sweater": [
+        "Blue",
+        "Pink"
     ],
     "Dress Pants": [
         "Beige",
@@ -1680,6 +1705,16 @@
     "Fake Nose": [
         ""
     ],
+    "Fancy Kimono": [
+        "Aqua",
+        "Green",
+        "Indigo blue",
+        "Pale orange",
+        "Parrot green",
+        "Pink",
+        "Purple",
+        "Vermilion"
+    ],
     "Fancy Party Dress": [
         "Beige",
         "Blue",
@@ -1761,6 +1796,24 @@
         "Green",
         "Red",
         "White"
+    ],
+    "Festivale Accessory": [
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Festivale Costume": [
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+    ],
+    "Festivale Tank Dress": [
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
     ],
     "Festive Dress": [
         ""
@@ -2015,6 +2068,10 @@
         "White",
         "Yellow"
     ],
+    "Flower-print Dress": [
+        "Green",
+        "Pink"
+    ],
     "Flowery-dot Tights": [
         "Black",
         "Blue",
@@ -2085,6 +2142,9 @@
         "Purple",
         "White",
         "Yellow"
+    ],
+    "Four-ball Tee": [
+        ""
     ],
     "Fox Mask": [
         "Black",
@@ -2293,6 +2353,11 @@
     "Gizzard-shad-sushi Costume": [
         ""
     ],
+    "Gladiator Sandals": [
+        "Black",
+        "Brown",
+        "Red"
+    ],
     "Glass-bottle Glasses": [
         ""
     ],
@@ -2396,6 +2461,9 @@
     "Hakama With Crest": [
         ""
     ],
+    "Hallo Tee": [
+        ""
+    ],
     "Halo": [
         ""
     ],
@@ -2496,6 +2564,9 @@
         "Mustard",
         "Purple"
     ],
+    "Hi Tee": [
+        ""
+    ],
     "Hi-tech Sneakers": [
         "Blue",
         "Green",
@@ -2539,6 +2610,9 @@
     "Hockey Mask": [
         ""
     ],
+    "Hoi Tee": [
+        ""
+    ],
     "Holey Tights": [
         "Black",
         "Blue",
@@ -2567,6 +2641,11 @@
         "Blue",
         "Red",
         "Yellow"
+    ],
+    "Horned-ogre Mask": [
+        "Blue",
+        "Green",
+        "Red"
     ],
     "Hot-dog Costume": [
         ""
@@ -2777,6 +2856,12 @@
         "Chick",
         "Frog",
         "Tulip"
+    ],
+    "Kilt": [
+        "Black",
+        "Green",
+        "Navy blue",
+        "Red"
     ],
     "Kimono Sandals": [
         "Black",
@@ -3032,6 +3117,9 @@
         "Pink",
         "Purple"
     ],
+    "Lemon Umbrella": [
+        ""
+    ],
     "Leopard Miniskirt": [
         "Blue",
         "Brown",
@@ -3071,6 +3159,9 @@
         "Mustard",
         "Red",
         "White"
+    ],
+    "Lively Plaid Dress": [
+        ""
     ],
     "Loafers": [
         "Black",
@@ -3115,6 +3206,12 @@
         "Green",
         "Purple",
         "White"
+    ],
+    "Long Plaid Skirt": [
+        "Beige",
+        "Blue",
+        "Green",
+        "Red"
     ],
     "Long Pleated Skirt": [
         "Cyan",
@@ -3440,6 +3537,9 @@
         "Purple",
         "Yellow"
     ],
+    "Ni Hao Tee": [
+        ""
+    ],
     "Night-vision Goggles": [
         ""
     ],
@@ -3577,10 +3677,18 @@
         "Gray",
         "Pink"
     ],
+    "Ogre Costume": [
+        "Blue",
+        "Green",
+        "Red"
+    ],
     "Oilskin Coat": [
         "Gray",
         "Red",
         "Yellow"
+    ],
+    "Okame Mask": [
+        ""
     ],
     "Old Commoner's Kimono": [
         "Blue",
@@ -3796,6 +3904,10 @@
         "Navy blue",
         "Red"
     ],
+    "Peacoat-and-skirt Combo": [
+        "Blue",
+        "Red"
+    ],
     "Pearl Skirt": [
         ""
     ],
@@ -3808,6 +3920,11 @@
     ],
     "Petal Parasol": [
         ""
+    ],
+    "Petal Skirt": [
+        "Cool",
+        "Pastel",
+        "Rainbow"
     ],
     "Pharaoh's Outfit": [
         ""
@@ -4076,6 +4193,12 @@
     "Post-op Patch": [
         ""
     ],
+    "Power Helmet": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
     "Power Suit": [
         "Black",
         "Blue",
@@ -4122,6 +4245,9 @@
         "White"
     ],
     "Privacy Mask": [
+        ""
+    ],
+    "Priv\u00e9t Tee": [
         ""
     ],
     "Puckered Socks": [
@@ -4644,6 +4770,9 @@
         "White",
         "Yellow"
     ],
+    "Seven-ball Tee": [
+        ""
+    ],
     "Shallow Knit Cap": [
         "Beige",
         "Brown",
@@ -4827,6 +4956,9 @@
         "Red",
         "Yellow"
     ],
+    "Six-ball Tee": [
+        ""
+    ],
     "Skateboarding Helmet": [
         "Gray",
         "Light blue",
@@ -4991,6 +5123,10 @@
         "Pink",
         "Red"
     ],
+    "Snowflake Sweater": [
+        "Blue",
+        "Light blue"
+    ],
     "Snowflake Umbrella": [
         ""
     ],
@@ -5047,6 +5183,9 @@
         "Purple sweet potato",
         "Strawberry",
         "Vanilla"
+    ],
+    "Space Boots": [
+        ""
     ],
     "Space Helmet": [
         ""
@@ -5599,6 +5738,9 @@
         "Green",
         "Pink"
     ],
+    "Three-ball Tee": [
+        ""
+    ],
     "Three-quarter Sweatpants": [
         "Black",
         "Light blue",
@@ -5725,6 +5867,14 @@
         "Dark blue",
         "Dark red",
         "Golden yellow"
+    ],
+    "Traditional Suteteko Pants": [
+        "Aqua",
+        "Blue",
+        "Golden yellow",
+        "Purple",
+        "Red",
+        "Yellow-green"
     ],
     "Travel Pouch": [
         "Green",
@@ -6040,6 +6190,9 @@
         "Purple"
     ],
     "Welding Mask": [
+        ""
+    ],
+    "Western Pants": [
         ""
     ],
     "Western Shirt": [

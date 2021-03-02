@@ -2,6 +2,7 @@ package javacode.gifts;
 
 import javacode.util.Utils;
 
+import java.io.PrintStream;
 import java.util.AbstractMap.SimpleEntry;
 import java.util.ArrayList;
 import java.util.List;
@@ -13,8 +14,9 @@ import java.util.stream.Collectors;
 public class Gifts {
     private final List<VillagerGifts> villagers;
 
-    private Gifts() {
+    private Gifts(String... required) {
         this.villagers = this.readGifts();
+        this.setSuggestions(required);
     }
 
     public List<VillagerGifts> readGifts() {
@@ -23,6 +25,7 @@ public class Gifts {
         while (in.hasNext()) {
             villagers.add(new VillagerGifts(in, villagers.size()));
         }
+        in.close();
         return villagers;
     }
 
@@ -55,7 +58,7 @@ public class Gifts {
         return hasGift.isEmpty() ? null : Utils.getRandomValue(hasGift);
     }
 
-    public void printSuggested(String... required) {
+    public void setSuggestions(String... required) {
         SuggestedGifts suggestedGifts = new SuggestedGifts();
         for (String requiredGift : required) {
             Entry<String, String> toGive = this.getRandomGift(requiredGift, suggestedGifts.assigned());
@@ -80,21 +83,16 @@ public class Gifts {
         }
 
         for (VillagerGifts villagerGifts : villagers) {
-            String villagerName = villagerGifts.villagerName();
-            System.out.println(villagerName + ": " + suggestedGifts.get(villagerName));
+            villagerGifts.setSelectedGift(suggestedGifts.get(villagerGifts.villagerName()));
         }
     }
 
-    // Print all gifts alphabetically (for storage comparison)
-    public void printAll() {
-        List<String> allGifts = new ArrayList<>();
-        for (VillagerGifts gifts : villagers) {
-            allGifts.addAll(gifts.copy());
+    public void printSuggested() {
+        PrintStream out = Utils.openWriter("gifts");
+        for (VillagerGifts villager : villagers) {
+            villager.write(out);
         }
-        allGifts.sort(String::compareTo);
-        for (String gift : allGifts) {
-            System.out.println(gift);
-        }
+        out.close();
     }
 
     public static void main(String[] args) {
