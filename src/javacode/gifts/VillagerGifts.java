@@ -12,6 +12,7 @@ import java.util.Scanner;
 public class VillagerGifts implements Iterable<String> {
     private final String villager;
     private final List<String> gifts;
+    private final List<Integer> breaks;
     private final int index;
 
     private String selectedGift;
@@ -27,11 +28,14 @@ public class VillagerGifts implements Iterable<String> {
         this.villager = villager.replaceFirst(":", "");
 
         this.gifts = new ArrayList<>();
+        this.breaks = new ArrayList<>();
         while (in.hasNext() && !in.hasNext("[A-Z][a-z]+:")) {
             String line = in.nextLine().trim();
             if (!line.isEmpty()) {
                 Assert.assertTrue(line, line.startsWith("- "));
                 gifts.add(line.substring(2));
+            } else {
+                this.breaks.add(gifts.size());
             }
         }
     }
@@ -45,7 +49,13 @@ public class VillagerGifts implements Iterable<String> {
 
         boolean printedSelected = false;
         out.println(this.villager + ":");
-        for (String giftName : this.gifts) {
+        for (int i = 0, j = 0; i < gifts.size(); i++) {
+            if (j < breaks.size() && i == breaks.get(j)) {
+                j++;
+                out.println();
+            }
+
+            String giftName = gifts.get(i);
             char prefix = '-';
             if (!printedSelected && giftName.equals(this.selectedGift)) {
                 prefix = '+';
