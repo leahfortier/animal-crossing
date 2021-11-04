@@ -1,8 +1,8 @@
 from scripts.analysis.config import FreqConfig
-from scripts.analysis.data import check_items
+from scripts.analysis.data import check_items, print_condition, print_grouping
 from scripts.item.sheets_item import DataRow, Condition
 from scripts.progress.furniture import items_progress_filename
-from scripts.util.sheets import item_tabs
+from scripts.util.sheets import item_tabs, floor_item_tabs
 from scripts.util.user import clothing_user, craftable_user, walls_floors_user, rugs_user, UserList, furniture_user
 from scripts.util.util import Strings
 

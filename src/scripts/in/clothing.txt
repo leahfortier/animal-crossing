@@ -203,6 +203,14 @@
         "Navy blue",
         "Red"
     ],
+    "Athletic Shorts": [
+        "Berry red",
+        "Black",
+        "Blue",
+        "Green",
+        "Navy blue",
+        "Red"
+    ],
     "Attus Robe": [
         "Blue",
         "Brown",
@@ -243,6 +251,14 @@
         "Blue",
         "Yellow"
     ],
+    "Back-bow Socks": [
+        "Black",
+        "Blue",
+        "Peacock blue",
+        "Pink",
+        "White",
+        "Yellow"
+    ],
     "Baji Jeogori": [
         "Aqua",
         "Black",
@@ -274,6 +290,10 @@
         "Green",
         "Orange",
         "Rainbow"
+    ],
+    "Ballroom Mask": [
+        "Black",
+        "White"
     ],
     "Balmacaan Coat": [
         "Avocado",
@@ -428,6 +448,9 @@
         "Pink",
         "Purple",
         "Red"
+    ],
+    "Big-star Tee": [
+        ""
     ],
     "Biker Jacket": [
         "Beige",
@@ -611,6 +634,16 @@
         "Brown",
         "Gray",
         "Green"
+    ],
+    "Bubble-skirt Party Dress": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
     ],
     "Bubblegum": [
         "Blue",
@@ -1246,6 +1279,16 @@
         "Purple & pink",
         "Red & green"
     ],
+    "Dance Shoes": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Silver"
+    ],
     "Dance Warm-up Pants": [
         "Black",
         "Purple",
@@ -1564,6 +1607,10 @@
         "Purple",
         "Red",
         "White"
+    ],
+    "Elegant Masquerade Mask": [
+        "Blue",
+        "Red"
     ],
     "Emblem Blazer": [
         "Beige",
@@ -2156,6 +2203,16 @@
         "Pink",
         "Yellow"
     ],
+    "Frilly Knee-high Socks": [
+        "Black",
+        "Brown",
+        "Green",
+        "Mint",
+        "Pink",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
     "Frilly Pants": [
         "Blue",
         "Mint",
@@ -2229,6 +2286,11 @@
         "Green"
     ],
     "Frugal Hat": [
+        "Blue-gray",
+        "Brown",
+        "Green"
+    ],
+    "Frugal Outfit": [
         "Blue-gray",
         "Brown",
         "Green"
@@ -2611,6 +2673,9 @@
         ""
     ],
     "Hoi Tee": [
+        ""
+    ],
+    "Hola Tee": [
         ""
     ],
     "Holey Tights": [
@@ -3235,11 +3300,29 @@
         "Purple",
         "Red"
     ],
+    "Long Sweatskirt": [
+        "Gray",
+        "Green",
+        "Navy blue",
+        "Purple"
+    ],
     "Loose Fall Dress": [
         "Blue",
         "Orange",
         "Peacock blue",
         "Red"
+    ],
+    "Luigi 'stache": [
+        ""
+    ],
+    "Luigi Hat": [
+        ""
+    ],
+    "Luigi Outfit": [
+        ""
+    ],
+    "Luigi Shoes": [
+        ""
     ],
     "Madras Plaid Shirt": [
         "Blue",
@@ -3346,6 +3429,18 @@
         "Orange",
         "Red"
     ],
+    "Mario 'stache": [
+        ""
+    ],
+    "Mario Hat": [
+        ""
+    ],
+    "Mario Outfit": [
+        ""
+    ],
+    "Mario Shoes": [
+        ""
+    ],
     "Mary Janes": [
         "Black",
         "Blue",
@@ -3379,6 +3474,9 @@
         "Red",
         "White",
         "Yellow"
+    ],
+    "Melon Umbrella": [
+        ""
     ],
     "Meme Shirt": [
         "Blue",
@@ -3415,10 +3513,17 @@
         "Green",
         "Red"
     ],
+    "Mini Pleather Bag": [
+        "Black",
+        "White"
+    ],
     "Mini-flower-print Umbrella": [
         ""
     ],
     "Mint Umbrella": [
+        ""
+    ],
+    "Misty Tee": [
         ""
     ],
     "Mixed-tweed Socks": [
@@ -3550,6 +3655,9 @@
         "Purple",
         "White"
     ],
+    "Nine-ball Tee": [
+        ""
+    ],
     "Ninja Costume": [
         "Aqua",
         "Dark blue",
@@ -3579,6 +3687,9 @@
         "Orange",
         "White",
         "Yellow"
+    ],
+    "No. 1 Shirt": [
+        ""
     ],
     "No. 2 Shirt": [
         ""
@@ -4193,6 +4304,12 @@
     "Post-op Patch": [
         ""
     ],
+    "Power Boots": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+    ],
     "Power Helmet": [
         "Black",
         "Blue",
@@ -4227,6 +4344,15 @@
         "Purple",
         "Yellow"
     ],
+    "Princess Peach Crown": [
+        ""
+    ],
+    "Princess Peach Dress": [
+        ""
+    ],
+    "Princess Peach Shoes": [
+        ""
+    ],
     "Printed Fleece Sweater": [
         "Blue",
         "Brown",
@@ -4249,6 +4375,23 @@
     ],
     "Priv\u00e9t Tee": [
         ""
+    ],
+    "Prom Crown": [
+        "Gold",
+        "Silver"
+    ],
+    "Prom Sash": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Green",
+        "Purple",
+        "Red",
+        "White"
+    ],
+    "Prom Tiara": [
+        "Gold",
+        "Silver"
     ],
     "Puckered Socks": [
         "Blue",
@@ -4319,6 +4462,15 @@
     "Racing Outfit": [
         "Black",
         "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "Rad Power Skirt Suit": [
+        "Blue",
+        "Green",
+        "Light blue",
+        "Pink",
+        "Purple",
         "Red",
         "Yellow"
     ],
@@ -4599,6 +4751,11 @@
         "Pink",
         "Red"
     ],
+    "Rumba Dress": [
+        "Orange",
+        "Pink",
+        "Red"
+    ],
     "Running Tights": [
         "Blue",
         "Green",
@@ -4620,6 +4777,16 @@
     "Safety Vest": [
         "Black",
         "Orange"
+    ],
+    "Sailor Skirt": [
+        "Brown",
+        "Green",
+        "Light blue",
+        "Navy blue",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red"
     ],
     "Sailor's Hat": [
         "Blue",
@@ -4760,6 +4927,16 @@
         "Yellow",
         "Yellow-green"
     ],
+    "Sequin Dress": [
+        "Black",
+        "Blue",
+        "Green",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+    ],
     "Sequin Leggings": [
         "Black",
         "Blue",
@@ -4781,6 +4958,18 @@
         "Navy blue",
         "Purple",
         "Red"
+    ],
+    "Shamrock Hat": [
+        ""
+    ],
+    "Shamrock Shoes": [
+        ""
+    ],
+    "Shamrock Suit": [
+        ""
+    ],
+    "Shamrock Sunglasses": [
+        ""
     ],
     "Shawl-and-dress Combo": [
         "Black",
@@ -4824,6 +5013,9 @@
         "Purple",
         "Red",
         "White"
+    ],
+    "Shiromuku": [
+        ""
     ],
     "Shirt With Camera": [
         "Black",
@@ -5071,6 +5263,14 @@
         "Pink",
         "Purple",
         "White",
+        "Yellow"
+    ],
+    "Slip Dress": [
+        "Black",
+        "Blue",
+        "Gray",
+        "Orange",
+        "Red",
         "Yellow"
     ],
     "Slip-on Loafers": [
@@ -5366,6 +5566,11 @@
         "Monotone",
         "Pink"
     ],
+    "Straw Hat": [
+        "Blue",
+        "Brown",
+        "Red"
+    ],
     "Straw Pochette": [
         ""
     ],
@@ -5514,6 +5719,9 @@
         "Navy blue",
         "Orange",
         "White"
+    ],
+    "Sunny Parasol": [
+        ""
     ],
     "Superhero Mask": [
         ""
@@ -5927,6 +6135,9 @@
         "White",
         "Yellow"
     ],
+    "Tsunokakushi": [
+        ""
+    ],
     "Tube Socks": [
         "Berry red",
         "Blue",
@@ -6073,6 +6284,16 @@
         "Orange",
         "Pink"
     ],
+    "Vibrant Tuxedo": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Monotone",
+        "Orange",
+        "Purple",
+        "Red",
+        "Yellow"
+    ],
     "Victorian Dress": [
         "Beige",
         "Blue",
@@ -6153,6 +6374,18 @@
         "Pink",
         "Red"
     ],
+    "Wario 'stache": [
+        ""
+    ],
+    "Wario Hat": [
+        ""
+    ],
+    "Wario Outfit": [
+        ""
+    ],
+    "Wario Shoes": [
+        ""
+    ],
     "Water Sandals": [
         "Green",
         "Light blue",
@@ -6200,6 +6433,9 @@
         "Blue",
         "Pink",
         "Yellow"
+    ],
+    "White Hakama With Crest": [
+        ""
     ],
     "White Shiny-bows Parasol": [
         ""
@@ -6384,6 +6620,9 @@
         "Purple",
         "Red",
         "Sky blue"
+    ],
+    "Zigzag Shirt": [
+        ""
     ],
     "Zigzag-print Dress": [
         "Brown",

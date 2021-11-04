@@ -115,7 +115,8 @@ def get_variations(tabs: Strings) -> Dict[str, ItemVariations]:
     for item in all_items:
         item_name = get_written_name(item.name)
         if item_name != previous_name:
-            assert item_name not in item_map or item_name == "butterfly fish model"
+            # TODO fix this
+            assert item_name not in item_map or item_name == "butterfly fish model" or item_name == "tank"
             previous_name = item_name
             item_map[item_name] = ItemVariations()
         variations = item_map[item_name]

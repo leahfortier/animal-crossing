@@ -1,4 +1,10 @@
 {
+    "1-up Mushroom": [
+        ""
+    ],
+    "? Block": [
+        ""
+    ],
     "Accessories Stand": [
         "Black",
         "Brown",
@@ -223,6 +229,9 @@
     "Bingo Wheel": [
         ""
     ],
+    "Block": [
+        ""
+    ],
     "Blue Corner": [
         ""
     ],
@@ -288,6 +297,21 @@
         "Silver / White",
         "White / White",
         "Yellow / White"
+    ],
+    "Bunny Day Candy": [
+        ""
+    ],
+    "Bunny Day Garden Flag": [
+        ""
+    ],
+    "Bunny Day Planter Box": [
+        ""
+    ],
+    "Bunny Day Topiary": [
+        ""
+    ],
+    "Bunny Day Tree": [
+        ""
     ],
     "Butterfly-fish Model": [
         ""
@@ -448,6 +472,9 @@
         "Royal"
     ],
     "Coffee Grinder": [
+        ""
+    ],
+    "Coin": [
         ""
     ],
     "Colorful Wheel": [
@@ -924,6 +951,9 @@
     "Film Projector": [
         ""
     ],
+    "Fire Flower": [
+        ""
+    ],
     "Fire Pit": [
         ""
     ],
@@ -943,6 +973,9 @@
         "Cute",
         "Elegant",
         "Pop"
+    ],
+    "Floating Block": [
+        ""
     ],
     "Floating-biotope Planter": [
         "Artistic",
@@ -1101,6 +1134,9 @@
         "Standard"
     ],
     "Go Board": [
+        ""
+    ],
+    "Goal Pole": [
         ""
     ],
     "Golf Bag": [
@@ -1350,6 +1386,9 @@
         "Silver / Desktop",
         "White / Desktop"
     ],
+    "Large Mushroom Platform": [
+        ""
+    ],
     "Lawn Chair": [
         "Black",
         "Blue",
@@ -1598,6 +1637,12 @@
         "Gray",
         "Neon blue & neon red"
     ],
+    "Nintendo Switch Lite": [
+        "Coral",
+        "Gray",
+        "Turquoise",
+        "Yellow"
+    ],
     "Office Desk": [
         "Beige & white",
         "Brown & black",
@@ -1752,6 +1797,9 @@
         "Brown",
         "Red",
         "White"
+    ],
+    "Pipe": [
+        ""
     ],
     "Plasma Ball": [
         ""
@@ -2136,6 +2184,9 @@
         "Green",
         "Silver"
     ],
+    "Shell": [
+        ""
+    ],
     "Shower Booth": [
         "Black",
         "Blue",
@@ -2186,6 +2237,9 @@
         "Red",
         "White",
         "Yellow"
+    ],
+    "Small Mushroom Platform": [
+        ""
     ],
     "Smoker": [
         "Black",
@@ -2298,6 +2352,12 @@
         "Natural",
         "Navy blue",
         "White"
+    ],
+    "Super Mushroom": [
+        ""
+    ],
+    "Super Star": [
+        ""
     ],
     "Surfboard": [
         "Brown",
@@ -2456,6 +2516,9 @@
         "Green",
         "Pink",
         "Red"
+    ],
+    "Thwomp": [
+        ""
     ],
     "Tin Bucket": [
         ""

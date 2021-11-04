@@ -29,7 +29,7 @@ public class SuggestedGifts {
     private String getUsedName(String giftName) {
         Scanner scanner = new Scanner(giftName);
         String first = scanner.next().trim();
-        if (first.equals("yodel")) {
+        if (Set.of("festivale", "yodel").contains(first)) {
             first += " " + scanner.next().trim();
         }
         return first;
